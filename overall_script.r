@@ -48,24 +48,8 @@ On TV,
 
 
 ###     Schedule 1
-url_2<- 'https://www.skysports.com/mls-results/2017-18'
-
-schedule_webpage <- read_html(url_2)
-
-game_dates <- as.data.frame(html_text(html_nodes(schedule_webpage,'.fixres__header2')))
-games_home <- as.data.frame(html_text(html_nodes(schedule_webpage,'.matches__participant--side1')))
-games_away <- as.data.frame(html_text(html_nodes(schedule_webpage,'.matches__participant--side2')))
-games_outcome <- as.data.frame(html_text(html_nodes(schedule_webpage,'.matches__status')))
-
-test<- as.data.frame(html_text(html_nodes(schedule_webpage,".fixres__header2 , .fixres__header1")))
-test_1 <- as.data.frame(html_text(html_nodes(schedule_webpage,".matches__status , .matches__participant--side2 , .matches__participant--side1 , .fixres__header2 , .fixres__header1")))
-
-
-###     Schedule 2
-url_3 <- 'https://www.flashscore.com/football/usa/mls/results/'
-schedule_webpage <- read_html(url_3)
-test_1 <- html_text(html_nodes(schedule_webpage,'.bold , .padl , .padr , .time'))
-
-
-
-
+# schedule_url <- 'http://www.football-data.co.uk/usa.php'
+' After years of searching, I found football-data-co-uk that has a excel schedule going back to 2013 games. I would
+Have liked it going back to 2010 or earlier but this is a good start. It has 2000+ games. The idea is to fold this in such
+a way to create urls for mls.com and pull the necessary data.
+'

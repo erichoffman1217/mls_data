@@ -1,0 +1,33 @@
+Steps:
+1. MLS.com, find the stats I want
+
+2. Find schedule that I can use to create urls for mls.com.
+	Only have a schedule going back to 2013
+
+3. Find players salaries. 
+	Only have data going back to 2013
+	
+4. Create a player db
+	Mostly focused on how much each player was worth. Key identifier for player_no
+	Include goals, assists, interceptions, yellows, reds, wins, losses, draws, clean sheats if appropriate,position,
+	Extras: traded, played half season,
+
+5. Create a game db
+	Would like Chris's thoughts on this.
+	It makes sense to only have one record per game. Still, if I want to grab all POR games, how do I query that?
+	Columns: home, away, home goals, away goals, stadium, ref, weather, time, h-yellows/reds, a-yellows/reds, ot, playoffs, attendance reported
+	Key identifier, game_no_year
+	
+6. Create a team db
+	Organized by POR, TOR, LAFC, etc. Key Identifier
+	Goals Scored, Goals against, Opp, home/away, players, subs(1,2,3), sub time, cards, game of season, elimination, game_no_year, 
+	Goal Minutes(as vector)
+	
+7. Goals DB
+	game_no, scored, scored on, scorer, goalie, minute, go ahead goal, to draw goal, brace, hat-trick,
+	
+8. Cards Table
+	Mirror the goals table
+	game_no, player_no, minute, first, second, red, players left, 
+	
+	
