@@ -1,7 +1,10 @@
 library('rvest')
 library('tidyverse')
 url_1 <- 'https://matchcenter.mlssoccer.com/matchcenter/2018-10-08-seattle-sounders-fc-vs-houston-dynamo/boxscore'
+url_2 <- 'https://matchcenter.mlssoccer.com/matchcenter/2018-09-05-new-york-city-fc-vs-new-england-revolution/boxscore'
+
 info_webpage <- read_html(url_1)
+info_webpage <- read_html(url_2)
 
 ###     Game DB
 match_info = html_text(html_nodes(info_webpage, '.match-info div'))
@@ -34,7 +37,9 @@ team_db<- rbind(team_db,
 colnames(team_db) <- c( 'shots', 'sot', 'sofft', 'blocked_shots', 'corners', 'crosses', 'offsides', 'fouls', 'yellows', 'reds',
                         'total_passes', 'pass_acc', 'possession', 'duels_w', 'tackles_w', 'saves', 'clearances')
 
-
+team_db %>%
+        mutate(game_no = 1,
+               date = 2) -> team_db
 
 
 ### Notes
