@@ -16,7 +16,9 @@ Steps:
 	Would like Chris's thoughts on this.
 	It makes sense to only have one record per game. Still, if I want to grab all POR games, how do I query that?
 	Columns: home, away, home goals, away goals, stadium, ref, weather, time, h-yellows/reds, a-yellows/reds, ot, playoffs, attendance reported
-	Key identifier, game_no_year
+	Key identifier, game_no =
+						home_team_no-away_team_no-date(yyyy-mm-dd)    ---- Better idea
+						game number of season - date
 	
 6. Create a team db
 	Organized by POR, TOR, LAFC, etc. Key Identifier
