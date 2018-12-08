@@ -59,7 +59,7 @@ for (i in 1:nrow(scrape_input)){
                               weather = match_info[4]
         )
         ###     Team DB
-        
+        #       Record 1 (Home team)
         home_team_stats <- data.frame(game_no = data_selected$game_no,
                                       team_no = data_selected$home_team_no,
                                       opp_team_no = data_selected$away_team_no,
@@ -68,6 +68,11 @@ for (i in 1:nrow(scrape_input)){
                                       time = data_selected$Time,
                                       datetime = data_selected$local_time
                                       )
+        
+        
+        
+        
+        
         away_team_stats <- data.frame(game_no = data_selected$game_no,
                                       team_no = data_selected$away_team_no,
                                       opp_team_no = data_selected$home_team_no,
