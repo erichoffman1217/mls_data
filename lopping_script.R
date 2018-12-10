@@ -33,7 +33,7 @@ second_merge %>%
 
 
 game_db <- as.data.frame(matrix(nrow = 0, ncol = 14))
-team_db <- as.data.frame(matrix(nrow = 0, ncol = 17))
+team_db <- as.data.frame(matrix(nrow = 0, ncol = 41))
 players_db <- as.data.frame(matrix(nrow = 0, ncol = 12))
 goalie_db <- as.data.frame(matrix(nrow = 0, ncol = 12))
 
@@ -68,26 +68,85 @@ for (i in 1:nrow(scrape_input)){
                                       time = data_selected$Time,
                                       datetime = data_selected$local_time
                                       )
+        home_table_stats <-cbind(as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-table td:nth-child(1)')))),
+              as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-label+ td'))))
+              )
+        colnames(home_table_stats) <- c( 'shots', 'sot', 'sofft', 'blocked_shots', 'corners', 'crosses', 'offsides', 'fouls', 'yellows', 'reds',
+                                'total_passes', 'pass_acc', 'possession', 'duels_w', 'tackles_w', 'saves', 'clearances',
+                                'opp_shots', 'opp_sot', 'opp_sofft', 'opp_blocked_shots', 'opp_corners', 'opp_crosses', 
+                                'opp_offsides', 'opp_fouls', 'opp_yellows', 'opp_reds',
+                                'opp_total_passes', 'opp_pass_acc', 'opp_possession', 'opp_duels_w', 'opp_tackles_w', 'opp_saves', 'opp_clearances')        
+        home_team_stats <- cbind(home_team_stats, home_table_stats)
         
-        
-        
-        
-        
+        ### Record 2 (AWay Team)
         away_team_stats <- data.frame(game_no = data_selected$game_no,
                                       team_no = data_selected$away_team_no,
                                       opp_team_no = data_selected$home_team_no,
                                       home = 0,
-                                      
+                                      date = data_selected$Date,
+                                      time = data_selected$Time,
+                                      datetime = data_selected$local_time
         )
+        away_table_stats <-cbind(as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-label+ td')))),
+                                as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-table td:nth-child(1)'))))
+                                 
+        )
+        colnames(away_table_stats) <- c( 'shots', 'sot', 'sofft', 'blocked_shots', 'corners', 'crosses', 'offsides', 'fouls', 'yellows', 'reds',
+                                         'total_passes', 'pass_acc', 'possession', 'duels_w', 'tackles_w', 'saves', 'clearances',
+                                         'opp_shots', 'opp_sot', 'opp_sofft', 'opp_blocked_shots', 'opp_corners', 'opp_crosses', 
+                                         'opp_offsides', 'opp_fouls', 'opp_yellows', 'opp_reds',
+                                         'opp_total_passes', 'opp_pass_acc', 'opp_possession', 'opp_duels_w', 'opp_tackles_w', 'opp_saves', 'opp_clearances')        
+        away_team_stats <- cbind(away_team_stats, away_table_stats)
+        
+        ###     Players DB
+        ###     Home Players 
+        home_static <- data.frame(game_no = data_selected$game_no,
+                                   team_no = data_selected$home_team_no,
+                                   opp_team_no = data_selected$away_team_no,
+                                   home = 1)
+        home_player_stats <- data.frame(j_no = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(1)'))),
+                                      pos = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(2)' ))),
+                                      name = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) .ps-name' ))),
+                                      h_players_min = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) .ps-name+ td' ))),
+                                      h_players_goals = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(5)' ))),
+                                      h_players_a = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(6)' ))),
+                                      h_players_sht = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(7)' ))),
+                                      h_players_sog = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(8)' ))),
+                                      h_players_ck = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(9)' ))),
+                                      h_players_off = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(10)' ))),
+                                      h_players_fc = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(11)' ))),
+                                      h_players_fs = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table:nth-child(1) tbody td:nth-child(12)' )))
+        )
+        colnames(home_player_stats) <- c('j_no', 'pos', 'name', 'minutes', 'goals', 'assists', 'shots', 'sog', 'corners', 'offsides', 'fouls_com', 'fouls_suf')
+        home_player_stats <- cbind(home_static, home_player_stats)
+        
+        ###     Away Players
+        away_static <- data.frame(game_no = data_selected$game_no,
+                                  team_no = data_selected$away_team_no,
+                                  opp_team_no = data_selected$home_team_no,
+                                  home = 0)
+        away_team_stats <- data.frame(j_no = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(1)'))),
+                                      pos = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(2)' ))),
+                                      name = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table .ps-name' ))),
+                                      h_players_min = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table .ps-name+ td' ))),
+                                      h_players_goals = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(5)' ))),
+                                      h_players_a = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(6)' ))),
+                                      h_players_sht = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(7)' ))),
+                                      h_players_sog = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(8)' ))),
+                                      h_players_ck = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(9)' ))),
+                                      h_players_off = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(10)' ))),
+                                      h_players_fc = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(11)' ))),
+                                      h_players_fs = as.data.frame(html_text(html_nodes(info_webpage,'h1+ .clearfix .ps-table+ .ps-table tbody td:nth-child(12)' )))
+        )
+        colnames(away_team_stats) <- c('j_no', 'pos', 'name', 'minutes', 'goals', 'assists', 'shots', 'sog', 'corners', 'offsides', 'fouls_com', 'fouls_suf')
+        away_team_stats <- cbind(away_static, away_team_stats)
+        
+        players_db <- rbind()
+        
+        ###     Bind to looping DB
         team_db<- rbind(team_db,
-                        as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-table td:nth-child(1)')))),
-                        as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-label+ td')))))
-        colnames(team_db) <- c( 'shots', 'sot', 'sofft', 'blocked_shots', 'corners', 'crosses', 'offsides', 'fouls', 'yellows', 'reds',
-                                'total_passes', 'pass_acc', 'possession', 'duels_w', 'tackles_w', 'saves', 'clearances')
-        
-        
-        
-        
+                        home_team_stats,
+                        away_team_stats)
         
         game_db <- rbind(game_db, add_game)
         print(scrape_input[i,])
