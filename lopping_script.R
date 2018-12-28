@@ -8,12 +8,6 @@ schedule_raw <- read_excel("~/R/mls_data/schedule/2013_2018_schedule.xlsx")
 
 pre_merge_key <- select(team_key, schedule_name, url, team_no)
 
-schedule_raw %>%
-        mutate(t = as.character(str_sub(Time, -8,-1)),
-               d = ymd_hms(paste(Date, t),tz='UTC'),
-               local_time = d - dhours(10))-> test 
-
-
 first_merge <- merge(schedule_raw, pre_merge_key, all.x = TRUE, by.x = 'Home', by.y = 'schedule_name')
 second_merge <- merge(first_merge, pre_merge_key, all.x = TRUE, by.x = 'Away', by.y = 'schedule_name')
 
@@ -25,19 +19,22 @@ second_merge %>%
                 url_input = paste0('https://matchcenter.mlssoccer.com/matchcenter/',as.character(date(local_time)),
                                   '-', home_url,'-vs-',away_url,'/boxscore'),
                game_no = paste0(home_team_no, away_team_no,format(second_merge$Date,"%y%m%d"))) %>%
-        select(url_input, Date, Time, local_time, Home, Away, home_team_no, away_team_no, game_no, HG, AG) -> scrape_input
+        select(url_input, Date, Time, local_time, Home, Away, home_team_no, away_team_no, game_no, HG, AG) %>%
+        filter(Date>= '2013-03-02')-> scrape_input
+rm(first_merge, second_merge, team_key)
 
 
 
 
 
-
-game_db <- as.data.frame(matrix(nrow = 0, ncol = 14))
-team_db <- as.data.frame(matrix(nrow = 0, ncol = 41))
+game_db <- as.data.frame(matrix(nrow = 0, ncol = 16))
+team_db <- as.data.frame(matrix(nrow = 0, ncol = 43))
 players_db <- as.data.frame(matrix(nrow = 0, ncol = 16))
 goalie_db <- as.data.frame(matrix(nrow = 0, ncol = 16))
 for (i in 1:nrow(scrape_input)){
-for (i in 1:10){
+###for (i in 1:10){
+#for (i in 211:nrow(scrape_input)){}
+#for (i in 1070:nrow(scrape_input)){
         data_selected <- scrape_input[i,]
         info_webpage <- read_html(data_selected$url_input)
         
@@ -50,6 +47,8 @@ for (i in 1:10){
                                away_team_no = data_selected$away_team_no,
                               home_score = html_text(html_nodes(info_webpage, '.sb-home .sb-score')),
                               away_score = html_text(html_nodes(info_webpage, '.sb-away .sb-score')),
+                              check_hg = data_selected$HG,
+                              check_ag = data_selected$AG,
                               date = html_text(html_nodes(info_webpage, '.sb-match-date')),
                               time = html_text(html_nodes(info_webpage, '.sb-match-time')),
                               time_matched = data_selected$local_time,
@@ -66,7 +65,9 @@ for (i in 1:10){
                                       home = 1,
                                       date = data_selected$Date,
                                       time = data_selected$Time,
-                                      datetime = data_selected$local_time
+                                      datetime = data_selected$local_time,
+                                      goals_scored = data_selected$HG,
+                                      goals_let = data_selected$AG
                                       )
         home_table_stats <-cbind(as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-table td:nth-child(1)')))),
               as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-label+ td'))))
@@ -85,7 +86,9 @@ for (i in 1:10){
                                       home = 0,
                                       date = data_selected$Date,
                                       time = data_selected$Time,
-                                      datetime = data_selected$local_time
+                                      datetime = data_selected$local_time,
+                                      goals_scored = data_selected$AG,
+                                      goals_let = data_selected$HG
         )
         away_table_stats <-cbind(as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-label+ td')))),
                                 as.data.frame(t(html_text(html_nodes(info_webpage,'.summary-table td:nth-child(1)'))))
@@ -199,12 +202,21 @@ for (i in 1:10){
                          add_game)
         
         print(scrape_input[i,])
+        rm(home_team_stats, away_team_stats, home_goalie_stats, away_goalie_stats, home_player_stats, away_player_stats, 
+           add_game, home_static, away_static, away_table_stats, home_table_stats, data_selected, info_webpage )
 }
 
-schedule_input[1,]
-rm(i)
+write.table(game_db, file = "game_db.txt", quote = FALSE, sep = '|', na= "", row.names = FALSE)        
+write.table(players_db, file = "players_db.txt", quote = FALSE, sep = '|', na= "", row.names = FALSE)        
+write.table(goalie_db, file = "goalie_db.txt", quote = FALSE, sep = '|', na= "", row.names = FALSE)        
+write.table(team_db, file = "team_db.txt", quote = FALSE, sep = '|', na= "", row.names = FALSE)        
 
 
-i <-60
-i <- 21
+
+       
+#schedule_input[1,]
+#rm(i)
+
+
+#i <-37
 
