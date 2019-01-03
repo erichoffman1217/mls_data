@@ -1,5 +1,5 @@
 library(tidyverse)
-
+library(readxl)
 
 team_db <- read_delim("database/raw/team_db.txt", 
                       "|", escape_double = FALSE,trim_ws = TRUE)
