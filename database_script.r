@@ -12,7 +12,10 @@ goalie_db <- read_delim("database/raw/goalie_db.txt",
 team_key <- read_excel("~/R/mls_data/team_key.xlsx")
 
 ###     Team
-
+team_db %>%
+        group_by(team_no) %>%
+        count (team_no)-> test
+        
 
 
 
