@@ -1,0 +1,695 @@
+Club|First Name|Last Name|Position|Base Salary|Total Compensation
+Sporting Kansas City|Adrian|Zendejas|GK|55650|55650
+FC Dallas|Reto|Ziegler|D|750000|800000
+LAFC|Walker|Zimmerman|D|235000|235000
+Atlanta United|Sal|Zizzo|D|129999.96|129999.96
+FC Dallas|Kyle|Zobeck|GK|67500|67500
+Sporting Kansas City|Graham|Zusi|D|750000|782102.27
+Houston Dynamo|Jared|Watts|D-M|92500|92500
+San Jose Earthquakes|Chris|Wehan|M|54492|57992
+Houston Dynamo|Andrew|Wenger|M|230000|230000
+Atlanta United|Andrew|Wheeler-Omiunu|M|55654.2|55654.2
+New York Red Bulls|Brian|White|F|54500.04|54500.04
+Atlanta United|Gordon|Wild|F|90000|120000
+Atlanta United|Romario|Williams|F|71500|71500
+Columbus Crew|Joshua|Williams|D|200000.04|200000.04
+LA Galaxy|Sheanon|Williams|D|67500|72500
+Portland Timbers|Eryk|Williamson|M|110000.04|126500.04
+Houston Dynamo|Joe|Willis|GK|124999.92|132749.92
+Colorado Rapids|Daniel|Wilson|D|500000.04|540000
+Seattle Sounders FC|Henry|Wingo|D-M|55650|55650
+San Jose Earthquakes|Chris|Wondolowski|F|800000|800000
+DC United|Travis|Worra|GK|68906.25|68906.25
+New England Revolution|Brian|Wright|F|67500|67500
+New York Red Bulls|Bradley|Wright-Phillips|F|1500000|1635000
+Colorado Rapids|Deklan|Wynne|D|67500|67500
+Philadelphia Union|Joshua|Yaro|D|140000|224000
+Orlando City SC|Yoshimar|Yotun|M|549996|599996
+San Jose Earthquakes|Jackson|Yueill|M|135000|196000
+New England Revolution|Wilfried|Zahibo|M|474000|544000
+Columbus Crew|Gyasi|Zardes|F|630000|630000
+Toronto FC|Eriq|Zavaleta|D|225000|263558.45
+New England Revolution|Matt|Turner|GK|67500|67500
+FC Dallas|Ema|Twumasi|F|135000|180900
+FC Dallas|Victor|Ulloa|M|180000|182500
+LAFC|Marco|Urena|F|279996|294412.67
+FC Dallas|Maximiliano|Urruti|F|700000.08|781000.08
+Portland Timbers|Zarek|Valentin|D|130000|130000
+Columbus Crew|Milton|Valenzuela|D|282000|313300
+Portland Timbers|Diego|Valeri|M|2320000|2380000
+New York Red Bulls|Florian|Valot|M|67500|71136.45
+Toronto FC|Gregory|Van Der Wiel|D|800000.04|835000.04
+Montreal Impact|Jeisson|Vargas|M|200000.04|200000.04
+Atlanta United|Brandon|Vazquez|F|125004|145004
+Toronto FC|Victor|Vazquez|M|1365000|1500000
+LAFC|Carlos|Vela|F|4500000|6292500
+Minnesota United|Johan|Venegas|M|225000|237500
+New York City FC|David|Villa|F|5610000|5610000
+Portland Timbers|Jorge|Villafana|D|600000|617500
+Atlanta United|Hector|Villalba|F|663000|770750
+Orlando City SC|Jose|Villarreal|F|84999.96|84999.96
+Chicago Fire|Brandon|Vincent|D|122375|144250
+Colorado Rapids|Sam|Vines|D|60000|61250
+LA Galaxy|Justin|Vom Steeg|GK|54500.04|54500.04
+New York City FC|Rodney|Wallace|M|300000.08|300000.08
+Minnesota United|Collen|Warner|M|251004|251004
+Vancouver Whitecaps|Kendall|Waston|D|574999.92|604166.52
+Orlando City SC|Scott|Sutter|D|225000|225000
+Seattle Sounders FC|Gustav|Svensson|M|350000.04|367500.04
+New York City FC|Ben|Sweat|D|67500|67500
+LA Galaxy|Brian|Sylvestre|GK|67500|67500
+Montreal Impact|Saphir|Taider|M|800000.04|800000.04
+New York City FC|Ismael|Tajouri|F|320000.04|350500.04
+San Jose Earthquakes|Andrew|Tarbell|GK|88000|102000
+Orlando City SC|Amro|Tarek|D|80000.04|88333.37
+|Tony|Tchani|M|320000|353333.33
+Vancouver Whitecaps|Cristian|Techera|M|387000|412000
+Vancouver Whitecaps|Russell|Teibert|M|140000.04|160000.04
+Toronto FC|Ryan|Telfer|M-F|54500.04|54500.04
+San Jose Earthquakes|Mohamed|Thiaw|F|54500.04|54500.04
+Minnesota United|Jerome|Thiesson|D|180000|219166.67
+San Jose Earthquakes|Tommy|Thompson|M|165000|170000
+New England Revolution|Chris|Tierney|D-M|157500|165833.33
+New York City FC|Anton|Tinnerholm|D|350000.04|434925.04
+Orlando City SC|Donny|Toia|D|125004|125004
+Seattle Sounders FC|Nouhou|Tolo|D|54500|54500
+Seattle Sounders FC|Roman|Torres|D|575000.04|645000.04
+Minnesota United|Mason|Toye|F|124999.92|177999.92
+Columbus Crew|Wil|Trapp|M|500004|550004
+Philadelphia Union|Auston|Trusty|D|80000|109100
+Portland Timbers|Bill|Tuiloma|D-M|67500|75000
+Montreal Impact|Shamit|Shome|M|100000.08|128500.08
+Minnesota United|Bobby|Shuttleworth|GK|165000|181875
+LAFC|Danilo|Silva|D|69999.96|69999.96
+Montreal Impact|Alejandro|Silva|M|800040|800040
+Real Salt Lake|Marcelo|Silva|D|675000|726625
+Real Salt Lake|Luis|Silva|F-M|225000|233666.67
+Philadelphia Union|Jay|Simpson|F|580008|623341.33
+Sporting Kansas City|Seth|Sinovic|D|150000|157666.67
+Colorado Rapids|Axel|Sjoberg|D|189996|194996
+LA Galaxy|Jorgen|Skjelvik|D|900000|1000000
+Colorado Rapids|Tommy|Smith|D|600000|639999.96
+Seattle Sounders FC|Brad|Smith|D|529092|564364.67
+Sporting Kansas City|Graham|Smith|D|54500.04|54500.04
+Chicago Fire|Luis|Solignac|F|300000|353312.5
+New England Revolution|Gabriel|Somi|D|390999.96|424999.96
+Columbus Crew|Eduardo|Sosa|M|99999.96|120199.96
+Real Salt Lake|Connor|Sparrow|GK|54504|54504
+Orlando City SC|Jonathan|Spector|D|575004|636941.5
+Orlando City SC|Mason|Stajduhar|GK|67500|67500
+Houston Dynamo|Mac|Steeves|GK|54500.04|54500.04
+Columbus Crew|Zack|Steffen|GK|145000|145000
+LA Galaxy|Daniel|Steres|D|125004|132066.6
+DC United|Zoltan|Stieber|M|999999.96|999999.96
+Sporting Kansas City|Colton|Storm|D|55654.2|55654.2
+New York City FC|Brad|Stuver|GK|84999.96|84999.96
+Sporting Kansas City|Daniel|Salloi|F|67500|81625
+New England Revolution|Nicolas|Samayoa|D|54500.04|54500.04
+Chicago Fire|Richard|Sanchez|GK|130000.08|132500.08
+Sporting Kansas City|Ilie|Sanchez|M|325008|330008
+New York City FC|James|Sands|D-M|54500.04|75333.37
+Orlando City SC|Lamine|Sane|D|807500.04|855000.04
+Columbus Crew|Pedro|Santos|M|747600|794600
+Philadelphia Union|CJ|Sapong|F|525000|525000
+Real Salt Lake|Sebastian|Saucedo|M|100000|110500
+Columbus Crew|Gaston|Sauro|D|67500|67500
+Real Salt Lake|Jefferson|Savarino|F|375000|398687.65
+New York City FC|Joe|Scally|D|54500.04|76316.71
+Orlando City SC|Chris|Schuler|D|75000|81250
+Minnesota United|Rasmus|Schuller|M|200004|225004
+Chicago Fire|Bastian|Schweinsteiger|M|6100000.08|6100000.08
+New England Revolution|Mark|Segbers|D-M|54500.04|57760.82
+DC United|Ulises|Segura|M-F|136999.92|136999.92
+Houston Dynamo|Chris|Seitz|GK|155004|155004
+Houston Dynamo|Philippe|Senderos|D|225000|242500
+Colorado Rapids|Dillon|Serna|M|95000.04|95000.04
+FC Dallas|Brandon|Servania|M|135000|186000
+Atlanta United|Oliver|Shannon|M|54500.04|54500.04
+Vancouver Whitecaps|Brek|Shea|D-M|700000|745000
+Sporting Kansas City|Khiry|Shelton|F|102245|119745
+Seattle Sounders FC|Harry|Shipp|M|174999.96|174999.96
+Minnesota United|Angelo|Rodriguez|F|575000.04|657187.54
+Seattle Sounders FC|Victor|Rodriguez|M|999999.96|1087499.96
+Seattle Sounders FC|Cristian|Roldan|M|154000|191000
+Seattle Sounders FC|Alex|Roldan|M|54500.04|54500.04
+New York Red Bulls|Alejandro 'Kaku'|Romero|M|709090.8|709090.8
+LA Galaxy|Dave|Romney|D|74418.75|74418.75
+DC United|Wayne|Rooney|F|2769230.88|2776730.88
+Orlando City SC|Oriol|Rosell|M|412500|412500
+Philadelphia Union|Keegan|Rosenberry|D|114950|120762.5
+LAFC|Diego|Rossi|F|1000000.08|1052000.08
+New England Revolution|Kelyn|Rowe|M|193000|258000
+Vancouver Whitecaps|Brian|Rowe|GK|135000|135000
+New York Red Bulls|Daniel|Royer|M|600000|668750
+Sporting Kansas City|Diego|Rubio Kostner|F|250000|266875
+Seattle Sounders FC|Raul|Ruidiaz|F|2000004|2000004
+Real Salt Lake|Pablo|Ruiz|M|180000|201000
+Real Salt Lake|Albert|Rusnak|M|850008|925820.5
+Sporting Kansas City|Johnny|Russell|M|1331578.92|1331578.92
+New York Red Bulls|Marc|Rzatkowski|M|885000|976166.66
+Montreal Impact|Bacary|Sagna|D|480000|525000
+LAFC|Steeve|Saint-Duc|F|54500.04|54500.04
+Montreal Impact|Michael|Salazar|F|67500|67500
+San Jose Earthquakes|Shea|Salinas|M|200000|200000
+LAFC|Christian|Ramirez|F|575000.04|641250.04
+New York City FC|Andre|Rawls|GK|68915.07|68915.07
+Philadelphia Union|Matthew|Real|D|54500.04|54500.04
+FC Dallas|Kris|Reaves|D|67500|67500
+New York Red Bulls|Tommy|Redding|D|125000|147500
+FC Dallas|Adonijah|Reid|F|75000|99375
+Atlanta United|Eric|Remedi|M|300000|300000
+Houston Dynamo|Dylan|Remick|D|105000|106666.67
+Vancouver Whitecaps|Yordy|Reyna|F-M|440000.04|533700.04
+FC Dallas|Bryan|Reynolds|F|54500|56500
+FC Dallas|Chris|Richards|D|90000|123750
+Vancouver Whitecaps|Spencer|Richey|GK|68254.2|68254.2
+Toronto FC|Tosaint|Ricketts|F|190008|203174.67
+Portland Timbers|Liam|Ridgewell|D|700000|700000
+Real Salt Lake|Nick|Rimando|GK|399999.96|422499.96
+New York City FC|Alexander|Ring|M|550000|591666.67
+New York Red Bulls|Carlos|Rivas|M|444996|444996
+FC Dallas|Thomas|Roberts|M|60000|88750
+LAFC|Quillan|Roberts|GK|67500|67500
+Atlanta United|Miles|Robinson|D|135000|205000
+DC United|Jalen|Robinson|D|75000|75000
+New York Red Bulls|Luis|Robles|GK|460000.08|460000.08
+Orlando City SC|Tony|Rocha|M|68901.84|68901.84
+Houston Dynamo|Memo|Rodriguez|M|55654.2|55654.2
+|Jacob|Peterson|F|173568|180818
+Montreal Impact|Michael|Petrasso|D-M|155003.64|168128.64
+Real Salt Lake|Demar|Phillips|D|120000|126250
+Montreal Impact|Ignacio|Piatti|M|500000.04|4713333.37
+Philadelphia Union|Fafa|Picault|F|135000|148666.67
+Montreal Impact|Samuel|Piette|M|120000|129234.37
+Orlando City SC|Stefano|Pinho|F|150000|183333.33
+Atlanta United|Leandro|Pirez|D|650004|685004
+Real Salt Lake|Joao|Plata|F|525000|683333.33
+New York Red Bulls|Kevin|Politz|D|54500.04|57105.51
+Portland Timbers|Andy|Polo|F|150000|150000
+Chicago Fire|Matt|Polster|M|109890|124890
+FC Dallas|Paxton|Pomykal|M|85000|90000
+LA Galaxy|Chris|Pontius|F-M|174999.96|174999.96
+Portland Timbers|Alvas|Powell|D|225000|241625
+Orlando City SC|Dillon|Powers|M|180000|180000
+Colorado Rapids|Jack|Price|M|399999.96|407499.96
+Philadelphia Union|Kacper|Przybylko|F|67500|67500
+Real Salt Lake|Andrew|Putna|GK|67500|67500
+San Jose Earthquakes|Valeri "Vako"|Qazaishvili|M|1325004|1454042.36
+San Jose Earthquakes|Yeferson|Quintana|D|300000|341250
+Minnesota United|Darwin|Quintero|F|1650000|1650000
+Houston Dynamo|Romell|Quioto|F|240000|252500
+San Jose Earthquakes|Joel|Qwiberg|D|129999.96|167999.96
+Montreal Impact|Jukka|Raitala|D|205004|241670.67
+Minnesota United|Wyatt|Omsberg|D|54500.04|54500.04
+Orlando City SC|Shane|O'Neill|D|64999.92|79499.92
+Real Salt Lake|Nedum|Onuoha|D|150000|219000
+Sporting Kansas City|Ike|Opara|D|324999.96|342916.63
+DC United|Kofi|Opare|D|118125|133125
+Columbus Crew|Edward|Opoku|F|75000|96000
+Toronto FC|Jonathan|Osorio|M|201350.63|209825.25
+DC United|David|Ousted|GK|350000.04|369166.71
+Minnesota United|Bertrand|Owundi Eko'o|D|67500|67500
+Minnesota United|Fernando "Bob"|Paixao Da Silva|M|152496|152496
+Minnesota United|Frantz|Pangop|M|67500|67500
+Montreal Impact|James|Pantemis|GK|54500.04|55000.04
+Portland Timbers|Cristhian|Paredes|M|252000|283500
+New York Red Bulls|Tim|Parker|D|97185|115935
+Atlanta United|Michael|Parkhurst|D|340008|340008
+San Jose Earthquakes|Kevin|Partida|M|54500.04|54500.04
+Toronto FC|Caleb|Patterson-Sewell|GK|67500|67500
+Real Salt Lake|Taylor|Peay|D|67500|67500
+LA Galaxy|Joao|Pedro|M|219996|240996
+FC Dallas|Marcos|Pedroso|D|330000|330000
+Houston Dynamo|Ronaldo|Pena|F|225000|225000
+New England Revolution|Cristian|Penilla|F|500000.04|550000.04
+Colorado Rapids|Ricardo|Perez|M|60000|61250
+LAFC|Josh|Perez|F|54499.92|54499.92
+Real Salt Lake|Luke|Mulholland|M|173250|173250
+Columbus Crew|Patrick|Mullins|F|249996|249996
+New York Red Bulls|Michael|Murillo|D|80004|88754
+LAFC|James|Murphy|M|67500|87500
+San Jose Earthquakes|Danny|Musovski|F|54500.04|54500.04
+Vancouver Whitecaps|Jordon|Mutch|M|156000|284166.67
+New York Red Bulls|Alex|Muyl|F|110000|114000
+|Chance|Myers|D|175008|175008
+Atlanta United|Darlington|Nagbe|F-M|605000|620000
+Philadelphia Union|Adam|Najem|M|71500.04|71500.04
+Seattle Sounders FC|Lamar|Neagle|F-M|96000|99000
+Houston Dynamo|Michael|Nelson|GK|54500.04|54500.04
+Sporting Kansas City|Krisztian|Nemeth|F|900000|1007666.67
+Vancouver Whitecaps|Jakob|Nerwinski|D|67500|71625
+LAFC|Lee|Nguyen|M|500000|500000
+Colorado Rapids|Sam|Nicholson|M|265008|311456
+Chicago Fire|Nemanja|Nikolic|F|1700000.04|1906333.37
+Vancouver Whitecaps|David|Norman|M|54500.04|55500.04
+Real Salt Lake|Sunday|Obayan|M|275000|288000
+San Jose Earthquakes|Jimmy|Ockford|D|67500|67500
+DC United|Chris|Odoi-Atsem|D|54500.04|59500.04
+San Jose Earthquakes|Dom|Oduro|F|330000|330000
+New York City FC|Ebenezer|Ofori|M|324999.96|381249.96
+Atlanta United|Patrick|Okonkwo|F|54504|65504
+Portland Timbers|Lawrence|Olum|M|185004|200004
+Sporting Kansas City|Tim|Melia|GK|300000|316666.67
+Vancouver Whitecaps|Sean|Melvin|GK|54500.04|54500.04
+Columbus Crew|Jonathan|Mensah|D|774996|868996
+Columbus Crew|Justin|Meram|M|550008|578758
+Seattle Sounders FC|Bryan|Meredith|GK|67500|67500
+Vancouver Whitecaps|Nicolas|Mezquida|F-M|130000.08|130000.08
+Chicago Fire|Djordje|Mihailovic|M|96000.04|96000.04
+LAFC|Tyler|Miller|GK|68915.07|68915.07
+Minnesota United|Eric|Miller|D|84997.97|105997.97
+Portland Timbers|Roy|Miller|D|150000|150000
+New York Red Bulls|Ben|Mines|M|54504|60518
+DC United|Bruno|Miranda|F|67500|71976.09
+New England Revolution|Antonio|Mlinar Delamea|D|400008|400008
+Minnesota United|Kevin|Molino|M|425004|477504
+Toronto FC|Drew|Moor|D|350004|350004
+DC United|Joseph|Mora|D|90000|104250
+New York City FC|Maxi|Moralez|M|2000000.04|2000000.04
+DC United|Junior|Moreno|M|120000|139500
+Toronto FC|Ashtone|Morgan|D|120000|121500
+Seattle Sounders FC|Jordan|Morris|F|222000|234500
+Toronto FC|Justin|Morrow|D|300000|300000
+FC Dallas|Santiago|Mosquera|M|450000|541400
+LAFC|Joao|Moutinho|D|129999.96|169999.96
+Chicago Fire|Yura|Movsisyan|F|1850000|2073750
+Orlando City SC|Chris|Mueller|F|84999.96|98749.96
+Houston Dynamo|Tomas|Martinez|M|305004|487929
+Vancouver Whitecaps|Felipe|Martins|M|425000.04|425000.04
+New York City FC|Ronald|Matarrita|D|275000.04|395000.04
+DC United|Darren|Mattocks|F|400000|416666.67
+Vancouver Whitecaps|Aaron|Maund|D|180000|189437.5
+FC Dallas|Jimmy|Maurer|GK|120000|122500
+Toronto FC|Chris|Mavinga|D|500000.04|563333.37
+Philadelphia Union|Olivier|Mbaizo|D|67500|67500
+Colorado Rapids|Jack|McBean|F|68906.25|68906.25
+Atlanta United|Chris|McCann|M|560000|588000
+Philadelphia Union|John|McCarthy|GK|95000|104250
+Chicago Fire|Dax|McCarty|M|700000.08|712500.08
+Seattle Sounders FC|Jordan|McCrary|D|67500|67500
+Philadelphia Union|Jake|McGuire|GK|55654.2|55654.2
+Portland Timbers|Kendall|McIntosh|GK|55650|55650
+Philadelphia Union|Mark|McKenzie|D|54500.04|64500.04
+Chicago Fire|Patrick|McLain|GK|67500|67500
+New York City FC|Thomas|McNamara|M|199999.92|199999.92
+New York Red Bulls|Ryan|Meara|GK|120000|125000
+New York City FC|Jesus|Medina|M|650000.04|770833.37
+Sporting Kansas City|Jimmy|Medranda|D|140004|140004
+Philadelphia Union|Haris|Medunjanin|M|500004|545004
+Montreal Impact|Thomas|Meilleur-Giguere|D|54500|57625
+Portland Timbers|Lucas|Melano|F|840000|840000
+New York Red Bulls|Evan|Louro|GK|55654.2|55654.2
+Montreal Impact|Daniel|Lovitz|M|86625|86625
+Columbus Crew|Ben|Lundgaard|GK|54500.04|54500.04
+Houston Dynamo|Adam|Lundkvist|D|405000|433750
+LAFC|Charlie|Lyon|GK|67500|67500
+Portland Timbers|Larrys|Mabiala|D|750000|793333.33
+Houston Dynamo|Adolfo|Machado|D|220008|236508
+New England Revolution|Cristhian|Machado|D-M|132000|150512.5
+Colorado Rapids|Zac|MacMath|GK|170000|170000
+|George|Malki|D|68254.2|68254.2
+LAFC|Calum|Mallace|M|80000.04|80000.04
+Columbus Crew|Connor|Maloney|D|55654.2|55654.2
+New England Revolution|Michael|Mancienne|D|1284768|1370268
+Montreal Impact|Matteo|Mancosu|F|700000.08|719541.75
+Minnesota United|Carter|Manley|D|54500.04|54500.04
+Houston Dynamo|Mauro|Manotas|F|264328.08|264328.08
+San Jose Earthquakes|JT|Marcinkowski|GK|120000|132000
+San Jose Earthquakes|Paul|Marie|D|54500.04|54500.04
+Vancouver Whitecaps|Stefan|Marinovic|GK|150000|162562.5
+Philadelphia Union|Richie|Marquez|D|145000|151430
+Seattle Sounders FC|Chad|Marshall|D|300000|341250
+Minnesota United|Collin|Martin|M|95004|95004
+Atlanta United|Josef|Martinez|F|1270008|1387318
+Colorado Rapids|Enzo|Martinez|M|67500|67500
+Columbus Crew|Cristian|Martinez|M|68915.07|73415.07
+New York Red Bulls|Ethan|Kutler|D|54500.04|54500.04
+Sporting Kansas City|Wan|Kuzain|M|67500|67500
+New York Red Bulls|Connor|Lade|D|114000|120749.85
+FC Dallas|Roland|Lamah|M|675000|818500
+Minnesota United|Matt|Lampson|GK|100000.08|107500.08
+Portland Timbers|Foster|Langsdorf|F|54500.04|54500.04
+Atlanta United|Jeff|Larentowicz|M|210000|210000
+Orlando City SC|Richie|Laryea|M|135000|164000
+LA Galaxy|Ariel|Lassiter|F|67500|67500
+New York Red Bulls|Kemar|Lawrence|D|150000|255600
+Seattle Sounders FC|Kelvin|Leerdam|D|500000.04|575000.04
+|Wandrille|Lefevre|D|109999.92|119499.92
+|Jose|Leiton|F-M|67500|83000
+Real Salt Lake|Brooks|Lennon|F|225000|237583.33
+Vancouver Whitecaps|Brett|Levis|D|68250|70750
+New York City FC|Jonathan|Lewis|F|90000|125500
+Chicago Fire|Grant|Lillard|D|80000.04|82500.04
+San Jose Earthquakes|Nick|Lima|D|93996|100200.03
+Orlando City SC|Cam|Lindley|M|80000.04|88906.29
+Sporting Kansas City|Jaylin|Lindsey|D|54504|67504
+LA Galaxy|Sebastian|Lletget|M|240000|252666.67
+Sporting Kansas City|Cristian|Lobato|M|240000|240000
+Seattle Sounders FC|Nicolas|Lodeiro|M|1800000|2302500
+New York Red Bulls|Aaron|Long|D|73125|73125
+LAFC|Luis|Lopez|GK|70000.08|147500.08
+Real Salt Lake|Ricky|Lopez-Espin|F|67500|76250
+Minnesota United|Brent|Kallman|D|82500|85791.67
+LA Galaxy|Ola|Kamara|F|825000|925000
+Vancouver Whitecaps|Kei|Kamara|F|1000000|1000000
+Atlanta United|Alec|Kann|GK|94008|94008
+Minnesota United|Alex|Kapp|GK|55654.2|55654.2
+Chicago Fire|Johan|Kappelhof|D|555000|595000
+San Jose Earthquakes|Guram|Kashia|D|549999.96|549999.96
+Chicago Fire|Aleksandar|Katai|M|1200000|1320333.33
+LAFC|Mark-Anthony|Kaye|M|69999.96|74999.96
+Seattle Sounders FC|Kim|Kee-Hee|D|500004|632004
+|Muhamed|Keita|F|324999.96|367291.71
+DC United|Dane|Kelly|F|67500|69500
+DC United|Taylor|Kemp|D|140000|140000
+Columbus Crew|Jonathan|Kempin|GK|80256|80256
+Columbus Crew|Logan|Ketterer|GK|67500|67500
+LA Galaxy|Perry|Kitchen|D-M|450000|474166.67
+Orlando City SC|Sacha|Kljestan|M|1025000.04|1100000.04
+New England Revolution|Brad|Knighton|GK|105955.56|110955.56
+|Chris|Konopka|GK|67500|67500
+LAFC|Aaron|Kovar|M|69457.5|69657.5
+Atlanta United|Kevin|Kratz|M|165000|179250
+Real Salt Lake|Damir|Kreilach|M|900000|1013333.33
+Montreal Impact|Ken|Krolicki|M|54500.04|54500.04
+Atlanta United|Lagos|Kunga|M-F|54500.04|58500.04
+Vancouver Whitecaps|Erik|Hurtado|F/M|150000|156250
+LA Galaxy|Baggio|Husidic|M|174999.96|174999.96
+San Jose Earthquakes|Jahmir|Hyka|M|489996|539996
+Minnesota United|Romario|Ibarra|M|500000.04|546250.04
+Minnesota United|Miguel|Ibarra|M|300000|332322
+New York City FC|Sebastien|Ibeagha|D|67500|67500
+LA Galaxy|Zlatan|Ibrahimovic|F|1500000|1500000
+Toronto FC|Clint|Irwin|GK|210000|221312.7
+New York Red Bulls|Andreas|Ivan|M|240000|344100
+Colorado Rapids|Niki|Jackson|F|54500.04|54500.04
+Montreal Impact|Anthony|Jackson-Hamel|F|140000.04|155000.04
+Portland Timbers|Modou|Jadama|D|54500.04|54500.04
+Columbus Crew|Adam|Jahn|F|97500|97500
+LAFC|Dejan|Jakovic|D|150000|150000
+LA Galaxy|Bradford|Jamieson|F|72765|72765
+Toronto FC|Lucas|Janson|F|396000|449000
+DC United|Jared|Jeffrey|M|114996|124996
+Columbus Crew|Hector|Jimenez|M|159996|159996
+Chicago Fire|Daniel|Johnson|M|68254.2|68254.2
+New York City FC|Sean|Johnson|GK|250008|250008
+Orlando City SC|Will|Johnson|M|434004|470004
+Philadelphia Union|Derrick|Jones|M|70000|75900
+Vancouver Whitecaps|Efrain|Juarez|D-M|525000|619833.33
+San Jose Earthquakes|Florian|Jungwirth|D-M|500004|566671.07
+FC Dallas|Jacori|Hayes|M|68250.04|75750.04
+Minnesota United|Harrison|Heath|M|69457.5|69457.5
+FC Dallas|Matt|Hedges|D|500004|525004
+Real Salt Lake|Adam|Henley|D|114999.96|122833.29
+Vancouver Whitecaps|Doneil|Henry|D|140004|154237.71
+Philadelphia Union|Fabian|Herbers|F-M|100008|100008
+New England Revolution|Zachary|Herivaux|M|68906.25|83906.25
+Atlanta United|Jose Rafael|Hernandez|D|120000|120000
+FC Dallas|Moises|Hernandez|D|67500|67500
+Real Salt Lake|Jose E|Hernandez|M|67500|70875
+Toronto FC|Jason|Hernandez|D|67500|67500
+New York City FC|Yangel|Herrera|M|200000.04|200000.04
+Real Salt Lake|Aaron|Herrera|D|67500|67500
+Columbus Crew|Federico|Higuain|M|1100000.04|1100000.04
+Orlando City SC|Cristian|Higuita|M|444996|581662.67
+Atlanta United|Mitch|Hildebrandt|GK|67500|67500
+LA Galaxy|Tomas|Hilliard-Arce|D|90000|113125
+San Jose Earthquakes|Danny|Hoesen|F|465000|518000
+New England Revolution|Femi|Hollinger-Janzen|F|67500|67500
+FC Dallas|Ryan|Hollingshead|D-M|145000|145000
+Real Salt Lake|David|Horst|D|125004|131629
+LAFC|Andre|Horta|M|1100000.04|1198000.04
+Real Salt Lake|Alex|Horwath|GK|67500|73362.5
+New York City FC|Cedric|Hountondji|D|220000.08|258333.41
+Colorado Rapids|Tim|Howard|GK|2000000|2475000
+Real Salt Lake|Justen|Glad|D|270000|291700
+Portland Timbers|Jake|Gleeson|GK|120000|125166.67
+San Jose Earthquakes|Anibal|Godoy|M|425000.04|473125.04
+Minnesota United|Alexi|Gomez|M|300000|339450
+FC Dallas|Jesse|Gonzalez|GK|187500|211500
+Chicago Fire|Alan|Gordon|F|150000|155000
+Atlanta United|Chris|Goslin|M|80000|84000
+Columbus Crew|Mike|Grella|F|195300|197550
+Atlanta United|Julian|Gressel|M|92500|111250
+Orlando City SC|Adam|Grinwis|GK|67500|67500
+FC Dallas|Carlos|Gruezo|M|595000.08|730750.08
+Sporting Kansas City|Felipe|Gutierrez|M|1599999.96|1649999.96
+Atlanta United|Brad|Guzan|GK|640008|700008
+Portland Timbers|David|Guzman|M|219999.96|239999.96
+Toronto FC|Nick|Hagglund|D|125004|134629
+Colorado Rapids|Marlon|Hairston|M|144996|144996
+DC United|Bill|Hamid|GK|67500|93175
+Colorado Rapids|Sam|Hamilton|M|68254.2|68254.2
+Toronto FC|Jordan|Hamilton|F|72930.38|100430.38
+Columbus Crew|Niko|Hansen|F|68250.04|75750.04
+DC United|Ian|Harkes|M|104500|137737.5
+LAFC|Jordan|Harvey|D|150000|150000
+Chicago Fire|Nicolas|Hasler|D-M|132000|147666.67
+New England Revolution|Guillermo|Hauche|M-F|120000|135000
+DC United|Oniel|Fisher|D-M|68906.25|68906.25
+Montreal Impact|Kyle|Fisher|D|55654.2|55654.2
+Portland Timbers|Andres|Flores|M|67500|67500
+Philadelphia Union|Anthony|Fontana|M|65004|73421.6
+Sporting Kansas City|Andreu|Fontas|D|999999.96|999999.96
+Colorado Rapids|Kortne|Ford|D|82500|89500
+New York Red Bulls|Hassan Ndam|Fouapon|D|54504|54504
+Seattle Sounders FC|Waylon|Francis|D|165000|196041.67
+Vancouver Whitecaps|Sean|Franklin|D|150000|150000
+Toronto FC|Liam|Fraser|M|67500|72500
+Sporting Kansas City|Tyler|Freeman|F|55200|67700
+Seattle Sounders FC|Stefan|Frei|GK|250000.08|262500.08
+Houston Dynamo|Alejandro|Fuenmayor|D|85008|112508
+San Jose Earthquakes|Gilbert|Fuentes|M|69999.96|81999.96
+Philadelphia Union|Raymon|Gaddis|D|180000|182500
+Atlanta United|Jon|Gallagher|F|67500|68750
+Houston Dynamo|Oscar Boniek|Garcia|M|150000|165000
+Houston Dynamo|Kevin|Garcia|D|68915.07|68915.07
+Atlanta United|Greg|Garza|D|175008|175008
+Colorado Rapids|Shkelzen|Gashi|F|1575000|1668750
+Vancouver Whitecaps|Aly|Ghazal|M|575000.04|700566.71
+Houston Dynamo|Luis|Gil|M|67500|67500
+Toronto FC|Sebastian|Giovinco|F|5600000|7115555.67
+Orlando City SC|Victor|Giro|D-M|90000|95312.5
+Houston Dynamo|Alberth|Elis|F|650340|650340
+Philadelphia Union|Jack|Elliott|D|59629.5|59629.5
+DC United|Kevin|Ellis|D|150000|158333.33
+Orlando City SC|Mohammed|El-Mounir|D|174999.96|192833.29
+Vancouver Whitecaps|Marvin|Emnes|F|69996|159829.33
+Philadelphia Union|Marcus|Epps|M|55654.2|55654.2
+San Jose Earthquakes|Magnus|Eriksson|F|399999.96|399999.96
+Atlanta United|Franco|Escobar|D|250008|250008
+New York Red Bulls|Fidel|Escobar|D|145000.08|145000.08
+Sporting Kansas City|Roger|Espinoza|M|900000|900000
+New York Red Bulls|Derrick|Etienne|M|68500|73500
+Sporting Kansas City|Brad|Evans|D-M|200000.04|200000.04
+New England Revolution|Diego|Fagundez|M|170000|190000
+Montreal Impact|Rod|Fanni|D|1200000|1225000
+Portland Timbers|Marco|Farfan|D|64500|64500
+New England Revolution|Andrew|Farrell|D|182600|267600
+LAFC|Benny|Feilhaber|M|625000|625000
+San Jose Earthquakes|Luis|Felipe|M|67500|68500
+LA Galaxy|Rolf|Feltscher|D|240000|270000
+Sporting Kansas City|Gerso|Fernandes|F-M|550008|591258
+Minnesota United|Luiz|Fernando|M|275000.04|314166.71
+FC Dallas|Jesus|Ferreira|F|54500|54500
+FC Dallas|Maynor|Figueroa|D|240000|250000
+Minnesota United|Ethan|Finlay|M|375000|375000
+Toronto FC|Marco|Delgado|M|230000|230000
+Retired|Clint|Dempsey|F|1100000.04|1650000.04
+|Nick|DePuy|F|68254.2|75754.2
+Houston Dynamo|Tyler|Deric|GK|67500|67500
+Montreal Impact|Zakaria|Diallo|D|299250|343250
+Philadelphia Union|Ilson|Dias|M|300000|327000
+Sporting Kansas City|Eric|Dick|GK|54500.04|57949.58
+Sporting Kansas City|Amer|Didic|D|55654.2|55654.2
+New England Revolution|Claude|Dielna|D|780000|909861
+LAFC|Adama|Diomande|F|849999.96|934999.96
+Montreal Impact|Clement|Diop|GK|90000|97290
+Philadelphia Union|Borek|Dockal|M|1714285.68|1714285.68
+Vancouver Whitecaps|Roberto|Dominguez|D|54504|61465.66
+Houston Dynamo|Conor|Donovan|D|54500.04|54500.04
+LA Galaxy|Giovani|dos Santos|F|4250000|6000000
+LA Galaxy|Jonathan|dos Santos|M|2000000.04|2000000.04
+New York Red Bulls|Kyle|Duncan|D|54500.04|54500.04
+Toronto FC|Julian|Dunn|D|54500.04|54500.04
+DC United|Chris|Durkin|D-M|80000|89166.67
+Montreal Impact|Chris|Duvall|D|150000|150000
+Orlando City SC|Dom|Dwyer|F|1200000|1383333.33
+Colorado Rapids|Andrew|Dykstra|GK|100008|107658.51
+Portland Timbers|Jeremy|Ebobisse|F|140000|203000
+Chicago Fire|Raheem|Edwards|F|55654.2|55654.2
+Orlando City SC|Earl|Edwards|GK|68250|68250
+Chicago Fire|Jorge|Corrales|D|67500|67500
+Philadelphia Union|Warren|Creavalle|M|140000|153000
+Montreal Impact|Maxime|Crepeau|GK|80000|84083.33
+Columbus Crew|Alex|Crognale|D|95004|95004
+Sporting Kansas City|Yohan|Croizet|M|650004|680004
+Minnesota United|Sam|Cronin|M|141660|208761.33
+New England Revolution|Cody|Cropper|GK|73828.13|73828.13
+San Jose Earthquakes|Harold|Cummings|D|249996|300662.67
+LAFC|Nicolas|Czornomaz|M|67500|71250
+Colorado Rapids|Mike|da Fonte|D|67500|67500
+Houston Dynamo|Leonardo|Da Silva|D|157504.5|165171.17
+Minnesota United|Ibson|da Silva|M|300000|317083.33
+Orlando City SC|Pierre|Da Silva|M|54504|54504
+Toronto FC|Aidan|Daniels|M|54500.04|54500.04
+Minnesota United|Abu|Danladi|F|135000|186000
+Vancouver Whitecaps|Alphonso|Davies|M|72500|72500
+New York Red Bulls|Sean|Davis|M|225000|261666.67
+Vancouver Whitecaps|Marcel|de Jong|D-M|150000|164500
+Chicago Fire|Michael|de Leeuw|F|525000|589212.5
+Columbus Crew|Artur|de Lima|M|210000|244166.67
+Chicago Fire|Christian|Dean|D|90000|93125
+Chicago Fire|Nicolas|Del Grecco|D|90000|91125
+Houston Dynamo|AJ|DeLaGarza|D|200000.04|207500.04
+Seattle Sounders FC|Jordy|Delem|M|67500|67500
+DC United|Nick|DeLeon|M|275000|275000
+Portland Timbers|Julio|Cascante|D|150000|150000
+New York Red Bulls|Cristian|Casseres|M|69999.96|108749.96
+New York City FC|Valentin|Castellanos|M|150000|181008.07
+Colorado Rapids|Edgar|Castillo|D|99996|129996
+Houston Dynamo|Darwin|Ceren|M|225000|274375
+FC Dallas|Anibal|Chala|D|300000|383000
+New York City FC|Maxime|Chanot|D|375000|408000
+Toronto FC|Jay|Chapman|M|99000|117500
+Portland Timbers|Diego|Chara|M|550000|572000
+Seattle Sounders FC|Felix|Chenkam|F|54500.04|54500.04
+Montreal Impact|David|Choiniere|M|67500|67500
+Montreal Impact|Mathieu|Choiniere|M|54500.04|59441.04
+LA Galaxy|Michael|Ciani|D|600000|620000
+Columbus Crew|Ricardo|Clark|M|125000.04|125000.04
+Portland Timbers|Steve|Clark|GK|120000|130000
+Chicago Fire|Stefan|Cleveland|GK|55654.2|55654.2
+LA Galaxy|Ashley|Cole|D|450000|722499.98
+Chicago Fire|Elliot|Collier|F|54500.04|54500.04
+New York Red Bulls|Aurelien|Collin|D|450000|450000
+FC Dallas|Cristian|Colman|F|500000.04|585000.04
+Orlando City SC|Josue|Colman|M|150000|150000
+Colorado Rapids|Kip|Colvey|D|67500|67500
+Vancouver Whitecaps|Simon|Colyn|M|54499.92|60749.92
+Portland Timbers|Tomas|Conechny|M-F|150000|166666.67
+Chicago Fire|Drew|Conner|M|68907.3|68907.3
+Seattle Sounders FC|Will|Bruin|F|350000|351666.67
+New England Revolution|Teal|Bunbury|F|215000.04|260000.04
+Minnesota United|Marc|Burch|D|140004|140004
+Philadelphia Union|Cory|Burke|F|67500|71223.75
+Montreal Impact|Evan|Bush|GK|157925|157925
+Sporting Kansas City|Gianluca|Busio|F|80004|82504
+Seattle Sounders FC|Handwalla|Bwana|M|54500.04|54500.04
+New England Revolution|Brandon|Bye|D|54500.04|57760.82
+Houston Dynamo|Juan|Cabezas|M|255156|279156
+Montreal Impact|Victor|Cabrera|D|270000|270000
+New England Revolution|Luis Alberto|Caicedo|M|300000|300000
+New England Revolution|Scott|Caldwell|M|129375|139375
+New York City FC|Jeff|Caldwell|GK|54500.04|54500.04
+New York City FC|Alexander|Callens|D|500000.04|564000.04
+Colorado Rapids|Caleb|Calvert|F|105000|105000
+San Jose Earthquakes|Eric|Calvillo|M|99999.96|114999.96
+Minnesota United|Francisco|Calvo|D|450000|522600
+Montreal Impact|Rudy|Camacho|D|650000.04|699152.54
+Chicago Fire|Jonathan|Campbell|D|120175|128300
+Chicago Fire|Diego|Campos|M|54500.04|54500.04
+FC Dallas|Reggie|Cannon|D|67500|67500
+FC Dallas|Jordan|Cano|D|54500.04|54500.04
+DC United|Russell|Canouse|M|247500|247500
+Atlanta United|Andrew|Carleton|F|75000|87400
+LA Galaxy|Servando|Carrasco|M|67500|67500
+Colorado Rapids|Johan|Blomberg|M|239808|239808
+Vancouver Whitecaps|Anthony|Blondell|F|249999.96|295203.21
+LA Galaxy|Emmanuel|Boateng|F|130000|130000
+Colorado Rapids|Yannick|Boli|F|774999.96|907499.96
+Toronto FC|Alex|Bono|GK|132000|164000
+Minnesota United|Michael|Boxall|D|250008|267341.33
+Toronto FC|Michael|Bradley|M|6000000|6500000
+LAFC|Shaft|Brewer|M|54500.04|56166.71
+DC United|Frederic|Brillant|D|264999.96|299999.96
+Chicago Fire|Brandt|Bronico|M|68254|68254
+Seattle Sounders FC|Calle|Brown|GK|67500|67500
+Montreal Impact|Jason|Beaulieu|GK|54500.04|54500.04
+Real Salt Lake|Kyle|Beckerman|M|505008|530008
+New York City FC|Daniel|Bedoya|M|54500.04|54500.04
+Philadelphia Union|Alejandro|Bedoya|M|1200000|1266250
+LAFC|Steven|Beitashour|D|275000.04|298375.04
+Montreal Impact|Louis|Beland-Goyette|M|54500|55750
+Atlanta United|George|Bello|D|67500|71500
+Sporting Kansas City|Kharlton|Belmar|F|68254.2|68254.2
+Real Salt Lake|Tony|Beltran|D|230000|240950
+Orlando City SC|Joe|Bendik|GK|180000|189083.4
+New York City FC|Jo Inge|Berget|F|600000|816666.67
+San Jose Earthquakes|Matt|Bersano|GK|68254.2|68254.2
+Real Salt Lake|Nick|Besler|M|67500|67500
+Sporting Kansas City|Matt|Besler|D|750000|783250
+Vancouver Whitecaps|Myer|Bevan|F|54500.04|54500.04
+New York Red Bulls|Vincent|Bezecourt|M|67500|69921.4
+LA Galaxy|David|Bingham|GK|275000.04|275000.04
+Houston Dynamo|Eric|Bird|M|67500|67500
+DC United|Steven|Birnbaum|D|500004|525004
+LAFC|Tristan|Blackmon|D|67500|70233.92
+Philadelphia Union|Andre|Blake|GK|450000|500000
+Portland Timbers|Sebastian|Blanco|M|1300008|1375008
+LAFC|Latif|Blessing|F|75000|84375
+LA Galaxy|Hugo|Arellano|D|75000|82573.75
+Columbus Crew|Luis|Argudo|M|54500.04|54500.04
+Portland Timbers|Samuel|Armenteros|F|600000|608333.33
+DC United|Paul|Arriola|M|624999.96|663999.96
+DC United|Yamil|Asad|M|436363.56|520522.65
+Orlando City SC|Carlos|Ascues|D|360000|391500
+Portland Timbers|Dairon|Asprilla|F-M|180000|193750
+Portland Timbers|Jeff|Attinella|GK|114999.96|123999.96
+FC Dallas|Francis|Atuahene|F|124999.92|168999.92
+LAFC|Eduard|Atuesta|M|450000|468000
+Toronto FC||Auro|D|200004|272504
+New York City FC|Kwame|Awuah|D-M|55654.2|55654.2
+Montreal Impact|Michael|Azira|M|125000|131625
+FC Dallas|Dominique|Badji|F|162500.04|168750.04
+Real Salt Lake|Corey|Baird|F|54504|54504
+Toronto FC|Jon|Bakero|F|84999.96|101374.96
+Vancouver Whitecaps|Michael|Baldisimo|M|54500.04|116471.59
+Atlanta United|Ezequiel|Barco|M|1425000|1425000
+Portland Timbers|Jack|Barmby|M|68256|68256
+Colorado Rapids|Giles|Barnes|F-M|200000.04|200000.04
+FC Dallas|Michael|Barrios|M|400000.08|400000.08
+Real Salt Lake|Shawn|Barry|D|131250|131250
+Colorado Rapids|Cole|Bassett|M|60000|69000
+Houston Dynamo|DaMarcus|Beasley|D|275004|275004
+Vancouver Whitecaps|Jose|Aja|D|240000|240000
+San Jose Earthquakes|Jacob|Akanyirige|D|54500.04|56500.04
+Toronto FC|Ager|Aketxe Barrutia|M|1190000.04|1295000.04
+FC Dallas|Tesho|Akindele|F-M|105000|122500
+Toronto FC|Ayo|Akinola|F|54504|140504
+FC Cincinnati|Fatai|Alashe|M|107992.5|124242.5
+LA Galaxy|Romain|Alessandrini|M|1539996|1869996
+Houston Dynamo|Eric|Alexander|M|260004|260004
+Seattle Sounders FC|Tony|Alfaro|D|67500|67500
+Orlando City SC|RJ|Allen|D|90000|90000
+Real Salt Lake|Jordan|Allen|M|225000|225000
+Atlanta United|Miguel|Almiron|M|1912500|2297000
+Seattle Sounders FC|Osvaldo|Alonso|M|1100000.04|1141667.04
+Toronto FC|Jozy|Altidore|F|5000000|5000000
+Houston Dynamo|Arturo|Alvarez|M|150000|157500
+LA Galaxy|Efrain|Alvarez|M|67500|72233.84
+Philadelphia Union|Fabinho|Alves Macedo|D|153000|153000
+New York City FC|Eloi|Amagat|M|240000|261250
+Montreal Impact|Quincy|Amarikwa|F|275500|289166.67
+Atlanta United|Mikey|Ambrose|D|68906.25|68906.25
+DC United|Vytautas|Andriuskevicius|D|250000|271875
+New England Revolution|Isaac|Angking|M|67500|72500
+New England Revolution|Jalil|Anibaba|D|90000|90000
+FC Dallas|Pablo|Aranguiz|M|399999.96|459999.96
+Portland Timbers|Victor|Arboleda|F-M|54499.92|54499.92
+New York Red Bulls|Anatole|Abang|F|68927|68927
+New York City FC|Saad|Abdul-Salaam|D|106480|120230
+Columbus Crew|Mohammed|Abu|M|175008|181258
+Columbus Crew|Lalas|Abubakar|D|68250.04|75750.04
+Philadelphia Union|David|Accam|F-M|1250000.04|1250000.04
+Colorado Rapids|Kellyn|Acosta|M|280000|300000
+DC United|Luciano|Acosta|F-M|550000|652000
+Real Salt Lake|Danilo|Acosta|M|100000|100000
+Chicago Fire|Mohammed|Adams|M|90000|125000
+New York Red Bulls|Tyler|Adams|M|100000|146041.67
+FC Cincinnati|Fanendo|Adi|F|1275000|1933333.33
+Colorado Rapids|Nana|Adjei-Boateng|M|320004|361250
+San Jose Earthquakes|Francois|Affolter|D|200000.04|232650.04
+Columbus Crew|Harrison|Afful|D|288099.96|363799.96
+New England Revolution|Juan|Agudelo|F|575000|602500
+FC Dallas|Abel|Aguilar|M|272727.24|328127.24
