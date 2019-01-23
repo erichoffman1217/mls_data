@@ -15,7 +15,9 @@ dist_mat <- merge(dist_mat, dist_only, by.x = 'away_team', by.y = 'team_no')
 dist_mat <- rename(dist_mat, away_lat = lat, away_long = long)
 
 
-dist_mat$dist <- distm(dist_mat[,c('home_long','home_lat')], dist_mat[,c('away_long','away_lat')], fun=distVincentyEllipsoid)
+#dist_mat$dist <- distm(dist_mat[,c('home_long','home_lat')], dist_mat[,c('away_long','away_lat')], fun=distVincentyEllipsoid)
 dist_mat$dist_1 <- distVincentyEllipsoid(dist_mat[,c('home_long','home_lat')], dist_mat[,c('away_long','away_lat')])
 
+
 write.table(dist_mat, file = "dist_matrix.txt", quote = FALSE, sep = '|', na= "", row.names = FALSE)        
+

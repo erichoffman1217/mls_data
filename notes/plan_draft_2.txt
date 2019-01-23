@@ -1,10 +1,10 @@
 Steps:
 
-3. Adjust team db
-	Add: Goals Scored, Goals Scored on, subs(1,2,3), game of season, elimination 
-	Goal Minutes(as vector)
+3. Salary DB
+		Team Key
+		Format player names to match player_db
 
-4. Adkist player db
+4. Adjust player db
 	Include Salaries. Match player db to salary db
 	Extras: traded, played half season,
 

@@ -1,0 +1,3657 @@
+Club|Last Name|First Name|Pos|Base Salary|Compensation|year
+Sporting Kansas City|Zendejas|Adrian|GK|55650|55650|2018
+FC Dallas|Ziegler|Reto|D|750000|8e+05|2018
+LAFC|Zimmerman|Walker|D|235000|235000|2018
+Atlanta United|Zizzo|Sal|D|129999.96|129999.96|2018
+FC Dallas|Zobeck|Kyle|GK|67500|67500|2018
+Sporting Kansas City|Zusi|Graham|D|750000|782102.27|2018
+Houston Dynamo|Watts|Jared|D-M|92500|92500|2018
+San Jose Earthquakes|Wehan|Chris|M|54492|57992|2018
+Houston Dynamo|Wenger|Andrew|M|230000|230000|2018
+Atlanta United|Wheeler-Omiunu|Andrew|M|55654.2|55654.2|2018
+New York Red Bulls|White|Brian|F|54500.04|54500.04|2018
+Atlanta United|Wild|Gordon|F|90000|120000|2018
+Atlanta United|Williams|Romario|F|71500|71500|2018
+Columbus Crew|Williams|Joshua|D|200000.04|200000.04|2018
+LA Galaxy|Williams|Sheanon|D|67500|72500|2018
+Portland Timbers|Williamson|Eryk|M|110000.04|126500.04|2018
+Houston Dynamo|Willis|Joe|GK|124999.92|132749.92|2018
+Colorado Rapids|Wilson|Daniel|D|500000.04|540000|2018
+Seattle Sounders FC|Wingo|Henry|D-M|55650|55650|2018
+San Jose Earthquakes|Wondolowski|Chris|F|8e+05|8e+05|2018
+DC United|Worra|Travis|GK|68906.25|68906.25|2018
+New England Revolution|Wright|Brian|F|67500|67500|2018
+New York Red Bulls|Wright-Phillips|Bradley|F|1500000|1635000|2018
+Colorado Rapids|Wynne|Deklan|D|67500|67500|2018
+Philadelphia Union|Yaro|Joshua|D|140000|224000|2018
+Orlando City SC|Yotun|Yoshimar|M|549996|599996|2018
+San Jose Earthquakes|Yueill|Jackson|M|135000|196000|2018
+New England Revolution|Zahibo|Wilfried|M|474000|544000|2018
+Columbus Crew|Zardes|Gyasi|F|630000|630000|2018
+Toronto FC|Zavaleta|Eriq|D|225000|263558.45|2018
+New England Revolution|Turner|Matt|GK|67500|67500|2018
+FC Dallas|Twumasi|Ema|F|135000|180900|2018
+FC Dallas|Ulloa|Victor|M|180000|182500|2018
+LAFC|Urena|Marco|F|279996|294412.67|2018
+FC Dallas|Urruti|Maximiliano|F|700000.08|781000.08|2018
+Portland Timbers|Valentin|Zarek|D|130000|130000|2018
+Columbus Crew|Valenzuela|Milton|D|282000|313300|2018
+Portland Timbers|Valeri|Diego|M|2320000|2380000|2018
+New York Red Bulls|Valot|Florian|M|67500|71136.45|2018
+Toronto FC|Van Der Wiel|Gregory|D|800000.04|835000.04|2018
+Montreal Impact|Vargas|Jeisson|M|200000.04|200000.04|2018
+Atlanta United|Vazquez|Brandon|F|125004|145004|2018
+Toronto FC|Vazquez|Victor|M|1365000|1500000|2018
+LAFC|Vela|Carlos|F|4500000|6292500|2018
+Minnesota United|Venegas|Johan|M|225000|237500|2018
+New York City FC|Villa|David|F|5610000|5610000|2018
+Portland Timbers|Villafana|Jorge|D|6e+05|617500|2018
+Atlanta United|Villalba|Hector|F|663000|770750|2018
+Orlando City SC|Villarreal|Jose|F|84999.96|84999.96|2018
+Chicago Fire|Vincent|Brandon|D|122375|144250|2018
+Colorado Rapids|Vines|Sam|D|60000|61250|2018
+LA Galaxy|Vom Steeg|Justin|GK|54500.04|54500.04|2018
+New York City FC|Wallace|Rodney|M|300000.08|300000.08|2018
+Minnesota United|Warner|Collen|M|251004|251004|2018
+Vancouver Whitecaps|Waston|Kendall|D|574999.92|604166.52|2018
+Orlando City SC|Sutter|Scott|D|225000|225000|2018
+Seattle Sounders FC|Svensson|Gustav|M|350000.04|367500.04|2018
+New York City FC|Sweat|Ben|D|67500|67500|2018
+LA Galaxy|Sylvestre|Brian|GK|67500|67500|2018
+Montreal Impact|Taider|Saphir|M|800000.04|800000.04|2018
+New York City FC|Tajouri|Ismael|F|320000.04|350500.04|2018
+San Jose Earthquakes|Tarbell|Andrew|GK|88000|102000|2018
+Orlando City SC|Tarek|Amro|D|80000.04|88333.37|2018
+|Tchani|Tony|M|320000|353333.33|2018
+Vancouver Whitecaps|Techera|Cristian|M|387000|412000|2018
+Vancouver Whitecaps|Teibert|Russell|M|140000.04|160000.04|2018
+Toronto FC|Telfer|Ryan|M-F|54500.04|54500.04|2018
+San Jose Earthquakes|Thiaw|Mohamed|F|54500.04|54500.04|2018
+Minnesota United|Thiesson|Jerome|D|180000|219166.67|2018
+San Jose Earthquakes|Thompson|Tommy|M|165000|170000|2018
+New England Revolution|Tierney|Chris|D-M|157500|165833.33|2018
+New York City FC|Tinnerholm|Anton|D|350000.04|434925.04|2018
+Orlando City SC|Toia|Donny|D|125004|125004|2018
+Seattle Sounders FC|Tolo|Nouhou|D|54500|54500|2018
+Seattle Sounders FC|Torres|Roman|D|575000.04|645000.04|2018
+Minnesota United|Toye|Mason|F|124999.92|177999.92|2018
+Columbus Crew|Trapp|Wil|M|500004|550004|2018
+Philadelphia Union|Trusty|Auston|D|80000|109100|2018
+Portland Timbers|Tuiloma|Bill|D-M|67500|75000|2018
+Montreal Impact|Shome|Shamit|M|100000.08|128500.08|2018
+Minnesota United|Shuttleworth|Bobby|GK|165000|181875|2018
+LAFC|Silva|Danilo|D|69999.96|69999.96|2018
+Montreal Impact|Silva|Alejandro|M|800040|800040|2018
+Real Salt Lake|Silva|Marcelo|D|675000|726625|2018
+Real Salt Lake|Silva|Luis|F-M|225000|233666.67|2018
+Philadelphia Union|Simpson|Jay|F|580008|623341.33|2018
+Sporting Kansas City|Sinovic|Seth|D|150000|157666.67|2018
+Colorado Rapids|Sjoberg|Axel|D|189996|194996|2018
+LA Galaxy|Skjelvik|Jorgen|D|9e+05|1e+06|2018
+Colorado Rapids|Smith|Tommy|D|6e+05|639999.96|2018
+Seattle Sounders FC|Smith|Brad|D|529092|564364.67|2018
+Sporting Kansas City|Smith|Graham|D|54500.04|54500.04|2018
+Chicago Fire|Solignac|Luis|F|3e+05|353312.5|2018
+New England Revolution|Somi|Gabriel|D|390999.96|424999.96|2018
+Columbus Crew|Sosa|Eduardo|M|99999.96|120199.96|2018
+Real Salt Lake|Sparrow|Connor|GK|54504|54504|2018
+Orlando City SC|Spector|Jonathan|D|575004|636941.5|2018
+Orlando City SC|Stajduhar|Mason|GK|67500|67500|2018
+Houston Dynamo|Steeves|Mac|GK|54500.04|54500.04|2018
+Columbus Crew|Steffen|Zack|GK|145000|145000|2018
+LA Galaxy|Steres|Daniel|D|125004|132066.6|2018
+DC United|Stieber|Zoltan|M|999999.96|999999.96|2018
+Sporting Kansas City|Storm|Colton|D|55654.2|55654.2|2018
+New York City FC|Stuver|Brad|GK|84999.96|84999.96|2018
+Sporting Kansas City|Salloi|Daniel|F|67500|81625|2018
+New England Revolution|Samayoa|Nicolas|D|54500.04|54500.04|2018
+Chicago Fire|Sanchez|Richard|GK|130000.08|132500.08|2018
+Sporting Kansas City|Sanchez|Ilie|M|325008|330008|2018
+New York City FC|Sands|James|D-M|54500.04|75333.37|2018
+Orlando City SC|Sane|Lamine|D|807500.04|855000.04|2018
+Columbus Crew|Santos|Pedro|M|747600|794600|2018
+Philadelphia Union|Sapong|CJ|F|525000|525000|2018
+Real Salt Lake|Saucedo|Sebastian|M|1e+05|110500|2018
+Columbus Crew|Sauro|Gaston|D|67500|67500|2018
+Real Salt Lake|Savarino|Jefferson|F|375000|398687.65|2018
+New York City FC|Scally|Joe|D|54500.04|76316.71|2018
+Orlando City SC|Schuler|Chris|D|75000|81250|2018
+Minnesota United|Schuller|Rasmus|M|200004|225004|2018
+Chicago Fire|Schweinsteiger|Bastian|M|6100000.08|6100000.08|2018
+New England Revolution|Segbers|Mark|D-M|54500.04|57760.82|2018
+DC United|Segura|Ulises|M-F|136999.92|136999.92|2018
+Houston Dynamo|Seitz|Chris|GK|155004|155004|2018
+Houston Dynamo|Senderos|Philippe|D|225000|242500|2018
+Colorado Rapids|Serna|Dillon|M|95000.04|95000.04|2018
+FC Dallas|Servania|Brandon|M|135000|186000|2018
+Atlanta United|Shannon|Oliver|M|54500.04|54500.04|2018
+Vancouver Whitecaps|Shea|Brek|D-M|7e+05|745000|2018
+Sporting Kansas City|Shelton|Khiry|F|102245|119745|2018
+Seattle Sounders FC|Shipp|Harry|M|174999.96|174999.96|2018
+Minnesota United|Rodriguez|Angelo|F|575000.04|657187.54|2018
+Seattle Sounders FC|Rodriguez|Victor|M|999999.96|1087499.96|2018
+Seattle Sounders FC|Roldan|Cristian|M|154000|191000|2018
+Seattle Sounders FC|Roldan|Alex|M|54500.04|54500.04|2018
+New York Red Bulls|Romero|Alejandro 'Kaku'|M|709090.8|709090.8|2018
+LA Galaxy|Romney|Dave|D|74418.75|74418.75|2018
+DC United|Rooney|Wayne|F|2769230.88|2776730.88|2018
+Orlando City SC|Rosell|Oriol|M|412500|412500|2018
+Philadelphia Union|Rosenberry|Keegan|D|114950|120762.5|2018
+LAFC|Rossi|Diego|F|1000000.08|1052000.08|2018
+New England Revolution|Rowe|Kelyn|M|193000|258000|2018
+Vancouver Whitecaps|Rowe|Brian|GK|135000|135000|2018
+New York Red Bulls|Royer|Daniel|M|6e+05|668750|2018
+Sporting Kansas City|Rubio Kostner|Diego|F|250000|266875|2018
+Seattle Sounders FC|Ruidiaz|Raul|F|2000004|2000004|2018
+Real Salt Lake|Ruiz|Pablo|M|180000|201000|2018
+Real Salt Lake|Rusnak|Albert|M|850008|925820.5|2018
+Sporting Kansas City|Russell|Johnny|M|1331578.92|1331578.92|2018
+New York Red Bulls|Rzatkowski|Marc|M|885000|976166.66|2018
+Montreal Impact|Sagna|Bacary|D|480000|525000|2018
+LAFC|Saint-Duc|Steeve|F|54500.04|54500.04|2018
+Montreal Impact|Salazar|Michael|F|67500|67500|2018
+San Jose Earthquakes|Salinas|Shea|M|2e+05|2e+05|2018
+LAFC|Ramirez|Christian|F|575000.04|641250.04|2018
+New York City FC|Rawls|Andre|GK|68915.07|68915.07|2018
+Philadelphia Union|Real|Matthew|D|54500.04|54500.04|2018
+FC Dallas|Reaves|Kris|D|67500|67500|2018
+New York Red Bulls|Redding|Tommy|D|125000|147500|2018
+FC Dallas|Reid|Adonijah|F|75000|99375|2018
+Atlanta United|Remedi|Eric|M|3e+05|3e+05|2018
+Houston Dynamo|Remick|Dylan|D|105000|106666.67|2018
+Vancouver Whitecaps|Reyna|Yordy|F-M|440000.04|533700.04|2018
+FC Dallas|Reynolds|Bryan|F|54500|56500|2018
+FC Dallas|Richards|Chris|D|90000|123750|2018
+Vancouver Whitecaps|Richey|Spencer|GK|68254.2|68254.2|2018
+Toronto FC|Ricketts|Tosaint|F|190008|203174.67|2018
+Portland Timbers|Ridgewell|Liam|D|7e+05|7e+05|2018
+Real Salt Lake|Rimando|Nick|GK|399999.96|422499.96|2018
+New York City FC|Ring|Alexander|M|550000|591666.67|2018
+New York Red Bulls|Rivas|Carlos|M|444996|444996|2018
+FC Dallas|Roberts|Thomas|M|60000|88750|2018
+LAFC|Roberts|Quillan|GK|67500|67500|2018
+Atlanta United|Robinson|Miles|D|135000|205000|2018
+DC United|Robinson|Jalen|D|75000|75000|2018
+New York Red Bulls|Robles|Luis|GK|460000.08|460000.08|2018
+Orlando City SC|Rocha|Tony|M|68901.84|68901.84|2018
+Houston Dynamo|Rodriguez|Memo|M|55654.2|55654.2|2018
+|Peterson|Jacob|F|173568|180818|2018
+Montreal Impact|Petrasso|Michael|D-M|155003.64|168128.64|2018
+Real Salt Lake|Phillips|Demar|D|120000|126250|2018
+Montreal Impact|Piatti|Ignacio|M|500000.04|4713333.37|2018
+Philadelphia Union|Picault|Fafa|F|135000|148666.67|2018
+Montreal Impact|Piette|Samuel|M|120000|129234.37|2018
+Orlando City SC|Pinho|Stefano|F|150000|183333.33|2018
+Atlanta United|Pirez|Leandro|D|650004|685004|2018
+Real Salt Lake|Plata|Joao|F|525000|683333.33|2018
+New York Red Bulls|Politz|Kevin|D|54500.04|57105.51|2018
+Portland Timbers|Polo|Andy|F|150000|150000|2018
+Chicago Fire|Polster|Matt|M|109890|124890|2018
+FC Dallas|Pomykal|Paxton|M|85000|90000|2018
+LA Galaxy|Pontius|Chris|F-M|174999.96|174999.96|2018
+Portland Timbers|Powell|Alvas|D|225000|241625|2018
+Orlando City SC|Powers|Dillon|M|180000|180000|2018
+Colorado Rapids|Price|Jack|M|399999.96|407499.96|2018
+Philadelphia Union|Przybylko|Kacper|F|67500|67500|2018
+Real Salt Lake|Putna|Andrew|GK|67500|67500|2018
+San Jose Earthquakes|Qazaishvili|Valeri "Vako"|M|1325004|1454042.36|2018
+San Jose Earthquakes|Quintana|Yeferson|D|3e+05|341250|2018
+Minnesota United|Quintero|Darwin|F|1650000|1650000|2018
+Houston Dynamo|Quioto|Romell|F|240000|252500|2018
+San Jose Earthquakes|Qwiberg|Joel|D|129999.96|167999.96|2018
+Montreal Impact|Raitala|Jukka|D|205004|241670.67|2018
+Minnesota United|Omsberg|Wyatt|D|54500.04|54500.04|2018
+Orlando City SC|O'Neill|Shane|D|64999.92|79499.92|2018
+Real Salt Lake|Onuoha|Nedum|D|150000|219000|2018
+Sporting Kansas City|Opara|Ike|D|324999.96|342916.63|2018
+DC United|Opare|Kofi|D|118125|133125|2018
+Columbus Crew|Opoku|Edward|F|75000|96000|2018
+Toronto FC|Osorio|Jonathan|M|201350.63|209825.25|2018
+DC United|Ousted|David|GK|350000.04|369166.71|2018
+Minnesota United|Owundi Eko'o|Bertrand|D|67500|67500|2018
+Minnesota United|Paixao Da Silva|Fernando "Bob"|M|152496|152496|2018
+Minnesota United|Pangop|Frantz|M|67500|67500|2018
+Montreal Impact|Pantemis|James|GK|54500.04|55000.04|2018
+Portland Timbers|Paredes|Cristhian|M|252000|283500|2018
+New York Red Bulls|Parker|Tim|D|97185|115935|2018
+Atlanta United|Parkhurst|Michael|D|340008|340008|2018
+San Jose Earthquakes|Partida|Kevin|M|54500.04|54500.04|2018
+Toronto FC|Patterson-Sewell|Caleb|GK|67500|67500|2018
+Real Salt Lake|Peay|Taylor|D|67500|67500|2018
+LA Galaxy|Pedro|Joao|M|219996|240996|2018
+FC Dallas|Pedroso|Marcos|D|330000|330000|2018
+Houston Dynamo|Pena|Ronaldo|F|225000|225000|2018
+New England Revolution|Penilla|Cristian|F|500000.04|550000.04|2018
+Colorado Rapids|Perez|Ricardo|M|60000|61250|2018
+LAFC|Perez|Josh|F|54499.92|54499.92|2018
+Real Salt Lake|Mulholland|Luke|M|173250|173250|2018
+Columbus Crew|Mullins|Patrick|F|249996|249996|2018
+New York Red Bulls|Murillo|Michael|D|80004|88754|2018
+LAFC|Murphy|James|M|67500|87500|2018
+San Jose Earthquakes|Musovski|Danny|F|54500.04|54500.04|2018
+Vancouver Whitecaps|Mutch|Jordon|M|156000|284166.67|2018
+New York Red Bulls|Muyl|Alex|F|110000|114000|2018
+|Myers|Chance|D|175008|175008|2018
+Atlanta United|Nagbe|Darlington|F-M|605000|620000|2018
+Philadelphia Union|Najem|Adam|M|71500.04|71500.04|2018
+Seattle Sounders FC|Neagle|Lamar|F-M|96000|99000|2018
+Houston Dynamo|Nelson|Michael|GK|54500.04|54500.04|2018
+Sporting Kansas City|Nemeth|Krisztian|F|9e+05|1007666.67|2018
+Vancouver Whitecaps|Nerwinski|Jakob|D|67500|71625|2018
+LAFC|Nguyen|Lee|M|5e+05|5e+05|2018
+Colorado Rapids|Nicholson|Sam|M|265008|311456|2018
+Chicago Fire|Nikolic|Nemanja|F|1700000.04|1906333.37|2018
+Vancouver Whitecaps|Norman|David|M|54500.04|55500.04|2018
+Real Salt Lake|Obayan|Sunday|M|275000|288000|2018
+San Jose Earthquakes|Ockford|Jimmy|D|67500|67500|2018
+DC United|Odoi-Atsem|Chris|D|54500.04|59500.04|2018
+San Jose Earthquakes|Oduro|Dom|F|330000|330000|2018
+New York City FC|Ofori|Ebenezer|M|324999.96|381249.96|2018
+Atlanta United|Okonkwo|Patrick|F|54504|65504|2018
+Portland Timbers|Olum|Lawrence|M|185004|200004|2018
+Sporting Kansas City|Melia|Tim|GK|3e+05|316666.67|2018
+Vancouver Whitecaps|Melvin|Sean|GK|54500.04|54500.04|2018
+Columbus Crew|Mensah|Jonathan|D|774996|868996|2018
+Columbus Crew|Meram|Justin|M|550008|578758|2018
+Seattle Sounders FC|Meredith|Bryan|GK|67500|67500|2018
+Vancouver Whitecaps|Mezquida|Nicolas|F-M|130000.08|130000.08|2018
+Chicago Fire|Mihailovic|Djordje|M|96000.04|96000.04|2018
+LAFC|Miller|Tyler|GK|68915.07|68915.07|2018
+Minnesota United|Miller|Eric|D|84997.97|105997.97|2018
+Portland Timbers|Miller|Roy|D|150000|150000|2018
+New York Red Bulls|Mines|Ben|M|54504|60518|2018
+DC United|Miranda|Bruno|F|67500|71976.09|2018
+New England Revolution|Mlinar Delamea|Antonio|D|400008|400008|2018
+Minnesota United|Molino|Kevin|M|425004|477504|2018
+Toronto FC|Moor|Drew|D|350004|350004|2018
+DC United|Mora|Joseph|D|90000|104250|2018
+New York City FC|Moralez|Maxi|M|2000000.04|2000000.04|2018
+DC United|Moreno|Junior|M|120000|139500|2018
+Toronto FC|Morgan|Ashtone|D|120000|121500|2018
+Seattle Sounders FC|Morris|Jordan|F|222000|234500|2018
+Toronto FC|Morrow|Justin|D|3e+05|3e+05|2018
+FC Dallas|Mosquera|Santiago|M|450000|541400|2018
+LAFC|Moutinho|Joao|D|129999.96|169999.96|2018
+Chicago Fire|Movsisyan|Yura|F|1850000|2073750|2018
+Orlando City SC|Mueller|Chris|F|84999.96|98749.96|2018
+Houston Dynamo|Martinez|Tomas|M|305004|487929|2018
+Vancouver Whitecaps|Martins|Felipe|M|425000.04|425000.04|2018
+New York City FC|Matarrita|Ronald|D|275000.04|395000.04|2018
+DC United|Mattocks|Darren|F|4e+05|416666.67|2018
+Vancouver Whitecaps|Maund|Aaron|D|180000|189437.5|2018
+FC Dallas|Maurer|Jimmy|GK|120000|122500|2018
+Toronto FC|Mavinga|Chris|D|500000.04|563333.37|2018
+Philadelphia Union|Mbaizo|Olivier|D|67500|67500|2018
+Colorado Rapids|McBean|Jack|F|68906.25|68906.25|2018
+Atlanta United|McCann|Chris|M|560000|588000|2018
+Philadelphia Union|McCarthy|John|GK|95000|104250|2018
+Chicago Fire|McCarty|Dax|M|700000.08|712500.08|2018
+Seattle Sounders FC|McCrary|Jordan|D|67500|67500|2018
+Philadelphia Union|McGuire|Jake|GK|55654.2|55654.2|2018
+Portland Timbers|McIntosh|Kendall|GK|55650|55650|2018
+Philadelphia Union|McKenzie|Mark|D|54500.04|64500.04|2018
+Chicago Fire|McLain|Patrick|GK|67500|67500|2018
+New York City FC|McNamara|Thomas|M|199999.92|199999.92|2018
+New York Red Bulls|Meara|Ryan|GK|120000|125000|2018
+New York City FC|Medina|Jesus|M|650000.04|770833.37|2018
+Sporting Kansas City|Medranda|Jimmy|D|140004|140004|2018
+Philadelphia Union|Medunjanin|Haris|M|500004|545004|2018
+Montreal Impact|Meilleur-Giguere|Thomas|D|54500|57625|2018
+Portland Timbers|Melano|Lucas|F|840000|840000|2018
+New York Red Bulls|Louro|Evan|GK|55654.2|55654.2|2018
+Montreal Impact|Lovitz|Daniel|M|86625|86625|2018
+Columbus Crew|Lundgaard|Ben|GK|54500.04|54500.04|2018
+Houston Dynamo|Lundkvist|Adam|D|405000|433750|2018
+LAFC|Lyon|Charlie|GK|67500|67500|2018
+Portland Timbers|Mabiala|Larrys|D|750000|793333.33|2018
+Houston Dynamo|Machado|Adolfo|D|220008|236508|2018
+New England Revolution|Machado|Cristhian|D-M|132000|150512.5|2018
+Colorado Rapids|MacMath|Zac|GK|170000|170000|2018
+|Malki|George|D|68254.2|68254.2|2018
+LAFC|Mallace|Calum|M|80000.04|80000.04|2018
+Columbus Crew|Maloney|Connor|D|55654.2|55654.2|2018
+New England Revolution|Mancienne|Michael|D|1284768|1370268|2018
+Montreal Impact|Mancosu|Matteo|F|700000.08|719541.75|2018
+Minnesota United|Manley|Carter|D|54500.04|54500.04|2018
+Houston Dynamo|Manotas|Mauro|F|264328.08|264328.08|2018
+San Jose Earthquakes|Marcinkowski|JT|GK|120000|132000|2018
+San Jose Earthquakes|Marie|Paul|D|54500.04|54500.04|2018
+Vancouver Whitecaps|Marinovic|Stefan|GK|150000|162562.5|2018
+Philadelphia Union|Marquez|Richie|D|145000|151430|2018
+Seattle Sounders FC|Marshall|Chad|D|3e+05|341250|2018
+Minnesota United|Martin|Collin|M|95004|95004|2018
+Atlanta United|Martinez|Josef|F|1270008|1387318|2018
+Colorado Rapids|Martinez|Enzo|M|67500|67500|2018
+Columbus Crew|Martinez|Cristian|M|68915.07|73415.07|2018
+New York Red Bulls|Kutler|Ethan|D|54500.04|54500.04|2018
+Sporting Kansas City|Kuzain|Wan|M|67500|67500|2018
+New York Red Bulls|Lade|Connor|D|114000|120749.85|2018
+FC Dallas|Lamah|Roland|M|675000|818500|2018
+Minnesota United|Lampson|Matt|GK|100000.08|107500.08|2018
+Portland Timbers|Langsdorf|Foster|F|54500.04|54500.04|2018
+Atlanta United|Larentowicz|Jeff|M|210000|210000|2018
+Orlando City SC|Laryea|Richie|M|135000|164000|2018
+LA Galaxy|Lassiter|Ariel|F|67500|67500|2018
+New York Red Bulls|Lawrence|Kemar|D|150000|255600|2018
+Seattle Sounders FC|Leerdam|Kelvin|D|500000.04|575000.04|2018
+|Lefevre|Wandrille|D|109999.92|119499.92|2018
+|Leiton|Jose|F-M|67500|83000|2018
+Real Salt Lake|Lennon|Brooks|F|225000|237583.33|2018
+Vancouver Whitecaps|Levis|Brett|D|68250|70750|2018
+New York City FC|Lewis|Jonathan|F|90000|125500|2018
+Chicago Fire|Lillard|Grant|D|80000.04|82500.04|2018
+San Jose Earthquakes|Lima|Nick|D|93996|100200.03|2018
+Orlando City SC|Lindley|Cam|M|80000.04|88906.29|2018
+Sporting Kansas City|Lindsey|Jaylin|D|54504|67504|2018
+LA Galaxy|Lletget|Sebastian|M|240000|252666.67|2018
+Sporting Kansas City|Lobato|Cristian|M|240000|240000|2018
+Seattle Sounders FC|Lodeiro|Nicolas|M|1800000|2302500|2018
+New York Red Bulls|Long|Aaron|D|73125|73125|2018
+LAFC|Lopez|Luis|GK|70000.08|147500.08|2018
+Real Salt Lake|Lopez-Espin|Ricky|F|67500|76250|2018
+Minnesota United|Kallman|Brent|D|82500|85791.67|2018
+LA Galaxy|Kamara|Ola|F|825000|925000|2018
+Vancouver Whitecaps|Kamara|Kei|F|1e+06|1e+06|2018
+Atlanta United|Kann|Alec|GK|94008|94008|2018
+Minnesota United|Kapp|Alex|GK|55654.2|55654.2|2018
+Chicago Fire|Kappelhof|Johan|D|555000|595000|2018
+San Jose Earthquakes|Kashia|Guram|D|549999.96|549999.96|2018
+Chicago Fire|Katai|Aleksandar|M|1200000|1320333.33|2018
+LAFC|Kaye|Mark-Anthony|M|69999.96|74999.96|2018
+Seattle Sounders FC|Kee-Hee|Kim|D|500004|632004|2018
+|Keita|Muhamed|F|324999.96|367291.71|2018
+DC United|Kelly|Dane|F|67500|69500|2018
+DC United|Kemp|Taylor|D|140000|140000|2018
+Columbus Crew|Kempin|Jonathan|GK|80256|80256|2018
+Columbus Crew|Ketterer|Logan|GK|67500|67500|2018
+LA Galaxy|Kitchen|Perry|D-M|450000|474166.67|2018
+Orlando City SC|Kljestan|Sacha|M|1025000.04|1100000.04|2018
+New England Revolution|Knighton|Brad|GK|105955.56|110955.56|2018
+|Konopka|Chris|GK|67500|67500|2018
+LAFC|Kovar|Aaron|M|69457.5|69657.5|2018
+Atlanta United|Kratz|Kevin|M|165000|179250|2018
+Real Salt Lake|Kreilach|Damir|M|9e+05|1013333.33|2018
+Montreal Impact|Krolicki|Ken|M|54500.04|54500.04|2018
+Atlanta United|Kunga|Lagos|M-F|54500.04|58500.04|2018
+Vancouver Whitecaps|Hurtado|Erik|F/M|150000|156250|2018
+LA Galaxy|Husidic|Baggio|M|174999.96|174999.96|2018
+San Jose Earthquakes|Hyka|Jahmir|M|489996|539996|2018
+Minnesota United|Ibarra|Romario|M|500000.04|546250.04|2018
+Minnesota United|Ibarra|Miguel|M|3e+05|332322|2018
+New York City FC|Ibeagha|Sebastien|D|67500|67500|2018
+LA Galaxy|Ibrahimovic|Zlatan|F|1500000|1500000|2018
+Toronto FC|Irwin|Clint|GK|210000|221312.7|2018
+New York Red Bulls|Ivan|Andreas|M|240000|344100|2018
+Colorado Rapids|Jackson|Niki|F|54500.04|54500.04|2018
+Montreal Impact|Jackson-Hamel|Anthony|F|140000.04|155000.04|2018
+Portland Timbers|Jadama|Modou|D|54500.04|54500.04|2018
+Columbus Crew|Jahn|Adam|F|97500|97500|2018
+LAFC|Jakovic|Dejan|D|150000|150000|2018
+LA Galaxy|Jamieson|Bradford|F|72765|72765|2018
+Toronto FC|Janson|Lucas|F|396000|449000|2018
+DC United|Jeffrey|Jared|M|114996|124996|2018
+Columbus Crew|Jimenez|Hector|M|159996|159996|2018
+Chicago Fire|Johnson|Daniel|M|68254.2|68254.2|2018
+New York City FC|Johnson|Sean|GK|250008|250008|2018
+Orlando City SC|Johnson|Will|M|434004|470004|2018
+Philadelphia Union|Jones|Derrick|M|70000|75900|2018
+Vancouver Whitecaps|Juarez|Efrain|D-M|525000|619833.33|2018
+San Jose Earthquakes|Jungwirth|Florian|D-M|500004|566671.07|2018
+FC Dallas|Hayes|Jacori|M|68250.04|75750.04|2018
+Minnesota United|Heath|Harrison|M|69457.5|69457.5|2018
+FC Dallas|Hedges|Matt|D|500004|525004|2018
+Real Salt Lake|Henley|Adam|D|114999.96|122833.29|2018
+Vancouver Whitecaps|Henry|Doneil|D|140004|154237.71|2018
+Philadelphia Union|Herbers|Fabian|F-M|100008|100008|2018
+New England Revolution|Herivaux|Zachary|M|68906.25|83906.25|2018
+Atlanta United|Hernandez|Jose Rafael|D|120000|120000|2018
+FC Dallas|Hernandez|Moises|D|67500|67500|2018
+Real Salt Lake|Hernandez|Jose E|M|67500|70875|2018
+Toronto FC|Hernandez|Jason|D|67500|67500|2018
+New York City FC|Herrera|Yangel|M|200000.04|200000.04|2018
+Real Salt Lake|Herrera|Aaron|D|67500|67500|2018
+Columbus Crew|Higuain|Federico|M|1100000.04|1100000.04|2018
+Orlando City SC|Higuita|Cristian|M|444996|581662.67|2018
+Atlanta United|Hildebrandt|Mitch|GK|67500|67500|2018
+LA Galaxy|Hilliard-Arce|Tomas|D|90000|113125|2018
+San Jose Earthquakes|Hoesen|Danny|F|465000|518000|2018
+New England Revolution|Hollinger-Janzen|Femi|F|67500|67500|2018
+FC Dallas|Hollingshead|Ryan|D-M|145000|145000|2018
+Real Salt Lake|Horst|David|D|125004|131629|2018
+LAFC|Horta|Andre|M|1100000.04|1198000.04|2018
+Real Salt Lake|Horwath|Alex|GK|67500|73362.5|2018
+New York City FC|Hountondji|Cedric|D|220000.08|258333.41|2018
+Colorado Rapids|Howard|Tim|GK|2e+06|2475000|2018
+Real Salt Lake|Glad|Justen|D|270000|291700|2018
+Portland Timbers|Gleeson|Jake|GK|120000|125166.67|2018
+San Jose Earthquakes|Godoy|Anibal|M|425000.04|473125.04|2018
+Minnesota United|Gomez|Alexi|M|3e+05|339450|2018
+FC Dallas|Gonzalez|Jesse|GK|187500|211500|2018
+Chicago Fire|Gordon|Alan|F|150000|155000|2018
+Atlanta United|Goslin|Chris|M|80000|84000|2018
+Columbus Crew|Grella|Mike|F|195300|197550|2018
+Atlanta United|Gressel|Julian|M|92500|111250|2018
+Orlando City SC|Grinwis|Adam|GK|67500|67500|2018
+FC Dallas|Gruezo|Carlos|M|595000.08|730750.08|2018
+Sporting Kansas City|Gutierrez|Felipe|M|1599999.96|1649999.96|2018
+Atlanta United|Guzan|Brad|GK|640008|700008|2018
+Portland Timbers|Guzman|David|M|219999.96|239999.96|2018
+Toronto FC|Hagglund|Nick|D|125004|134629|2018
+Colorado Rapids|Hairston|Marlon|M|144996|144996|2018
+DC United|Hamid|Bill|GK|67500|93175|2018
+Colorado Rapids|Hamilton|Sam|M|68254.2|68254.2|2018
+Toronto FC|Hamilton|Jordan|F|72930.38|100430.38|2018
+Columbus Crew|Hansen|Niko|F|68250.04|75750.04|2018
+DC United|Harkes|Ian|M|104500|137737.5|2018
+LAFC|Harvey|Jordan|D|150000|150000|2018
+Chicago Fire|Hasler|Nicolas|D-M|132000|147666.67|2018
+New England Revolution|Hauche|Guillermo|M-F|120000|135000|2018
+DC United|Fisher|Oniel|D-M|68906.25|68906.25|2018
+Montreal Impact|Fisher|Kyle|D|55654.2|55654.2|2018
+Portland Timbers|Flores|Andres|M|67500|67500|2018
+Philadelphia Union|Fontana|Anthony|M|65004|73421.6|2018
+Sporting Kansas City|Fontas|Andreu|D|999999.96|999999.96|2018
+Colorado Rapids|Ford|Kortne|D|82500|89500|2018
+New York Red Bulls|Fouapon|Hassan Ndam|D|54504|54504|2018
+Seattle Sounders FC|Francis|Waylon|D|165000|196041.67|2018
+Vancouver Whitecaps|Franklin|Sean|D|150000|150000|2018
+Toronto FC|Fraser|Liam|M|67500|72500|2018
+Sporting Kansas City|Freeman|Tyler|F|55200|67700|2018
+Seattle Sounders FC|Frei|Stefan|GK|250000.08|262500.08|2018
+Houston Dynamo|Fuenmayor|Alejandro|D|85008|112508|2018
+San Jose Earthquakes|Fuentes|Gilbert|M|69999.96|81999.96|2018
+Philadelphia Union|Gaddis|Raymon|D|180000|182500|2018
+Atlanta United|Gallagher|Jon|F|67500|68750|2018
+Houston Dynamo|Garcia|Oscar Boniek|M|150000|165000|2018
+Houston Dynamo|Garcia|Kevin|D|68915.07|68915.07|2018
+Atlanta United|Garza|Greg|D|175008|175008|2018
+Colorado Rapids|Gashi|Shkelzen|F|1575000|1668750|2018
+Vancouver Whitecaps|Ghazal|Aly|M|575000.04|700566.71|2018
+Houston Dynamo|Gil|Luis|M|67500|67500|2018
+Toronto FC|Giovinco|Sebastian|F|5600000|7115555.67|2018
+Orlando City SC|Giro|Victor|D-M|90000|95312.5|2018
+Houston Dynamo|Elis|Alberth|F|650340|650340|2018
+Philadelphia Union|Elliott|Jack|D|59629.5|59629.5|2018
+DC United|Ellis|Kevin|D|150000|158333.33|2018
+Orlando City SC|El-Mounir|Mohammed|D|174999.96|192833.29|2018
+Vancouver Whitecaps|Emnes|Marvin|F|69996|159829.33|2018
+Philadelphia Union|Epps|Marcus|M|55654.2|55654.2|2018
+San Jose Earthquakes|Eriksson|Magnus|F|399999.96|399999.96|2018
+Atlanta United|Escobar|Franco|D|250008|250008|2018
+New York Red Bulls|Escobar|Fidel|D|145000.08|145000.08|2018
+Sporting Kansas City|Espinoza|Roger|M|9e+05|9e+05|2018
+New York Red Bulls|Etienne|Derrick|M|68500|73500|2018
+Sporting Kansas City|Evans|Brad|D-M|200000.04|200000.04|2018
+New England Revolution|Fagundez|Diego|M|170000|190000|2018
+Montreal Impact|Fanni|Rod|D|1200000|1225000|2018
+Portland Timbers|Farfan|Marco|D|64500|64500|2018
+New England Revolution|Farrell|Andrew|D|182600|267600|2018
+LAFC|Feilhaber|Benny|M|625000|625000|2018
+San Jose Earthquakes|Felipe|Luis|M|67500|68500|2018
+LA Galaxy|Feltscher|Rolf|D|240000|270000|2018
+Sporting Kansas City|Fernandes|Gerso|F-M|550008|591258|2018
+Minnesota United|Fernando|Luiz|M|275000.04|314166.71|2018
+FC Dallas|Ferreira|Jesus|F|54500|54500|2018
+FC Dallas|Figueroa|Maynor|D|240000|250000|2018
+Minnesota United|Finlay|Ethan|M|375000|375000|2018
+Toronto FC|Delgado|Marco|M|230000|230000|2018
+Retired|Dempsey|Clint|F|1100000.04|1650000.04|2018
+|DePuy|Nick|F|68254.2|75754.2|2018
+Houston Dynamo|Deric|Tyler|GK|67500|67500|2018
+Montreal Impact|Diallo|Zakaria|D|299250|343250|2018
+Philadelphia Union|Dias|Ilson|M|3e+05|327000|2018
+Sporting Kansas City|Dick|Eric|GK|54500.04|57949.58|2018
+Sporting Kansas City|Didic|Amer|D|55654.2|55654.2|2018
+New England Revolution|Dielna|Claude|D|780000|909861|2018
+LAFC|Diomande|Adama|F|849999.96|934999.96|2018
+Montreal Impact|Diop|Clement|GK|90000|97290|2018
+Philadelphia Union|Dockal|Borek|M|1714285.68|1714285.68|2018
+Vancouver Whitecaps|Dominguez|Roberto|D|54504|61465.66|2018
+Houston Dynamo|Donovan|Conor|D|54500.04|54500.04|2018
+LA Galaxy|dos Santos|Giovani|F|4250000|6e+06|2018
+LA Galaxy|dos Santos|Jonathan|M|2000000.04|2000000.04|2018
+New York Red Bulls|Duncan|Kyle|D|54500.04|54500.04|2018
+Toronto FC|Dunn|Julian|D|54500.04|54500.04|2018
+DC United|Durkin|Chris|D-M|80000|89166.67|2018
+Montreal Impact|Duvall|Chris|D|150000|150000|2018
+Orlando City SC|Dwyer|Dom|F|1200000|1383333.33|2018
+Colorado Rapids|Dykstra|Andrew|GK|100008|107658.51|2018
+Portland Timbers|Ebobisse|Jeremy|F|140000|203000|2018
+Chicago Fire|Edwards|Raheem|F|55654.2|55654.2|2018
+Orlando City SC|Edwards|Earl|GK|68250|68250|2018
+Chicago Fire|Corrales|Jorge|D|67500|67500|2018
+Philadelphia Union|Creavalle|Warren|M|140000|153000|2018
+Montreal Impact|Crepeau|Maxime|GK|80000|84083.33|2018
+Columbus Crew|Crognale|Alex|D|95004|95004|2018
+Sporting Kansas City|Croizet|Yohan|M|650004|680004|2018
+Minnesota United|Cronin|Sam|M|141660|208761.33|2018
+New England Revolution|Cropper|Cody|GK|73828.13|73828.13|2018
+San Jose Earthquakes|Cummings|Harold|D|249996|300662.67|2018
+LAFC|Czornomaz|Nicolas|M|67500|71250|2018
+Colorado Rapids|da Fonte|Mike|D|67500|67500|2018
+Houston Dynamo|Da Silva|Leonardo|D|157504.5|165171.17|2018
+Minnesota United|da Silva|Ibson|M|3e+05|317083.33|2018
+Orlando City SC|Da Silva|Pierre|M|54504|54504|2018
+Toronto FC|Daniels|Aidan|M|54500.04|54500.04|2018
+Minnesota United|Danladi|Abu|F|135000|186000|2018
+Vancouver Whitecaps|Davies|Alphonso|M|72500|72500|2018
+New York Red Bulls|Davis|Sean|M|225000|261666.67|2018
+Vancouver Whitecaps|de Jong|Marcel|D-M|150000|164500|2018
+Chicago Fire|de Leeuw|Michael|F|525000|589212.5|2018
+Columbus Crew|de Lima|Artur|M|210000|244166.67|2018
+Chicago Fire|Dean|Christian|D|90000|93125|2018
+Chicago Fire|Del Grecco|Nicolas|D|90000|91125|2018
+Houston Dynamo|DeLaGarza|AJ|D|200000.04|207500.04|2018
+Seattle Sounders FC|Delem|Jordy|M|67500|67500|2018
+DC United|DeLeon|Nick|M|275000|275000|2018
+Portland Timbers|Cascante|Julio|D|150000|150000|2018
+New York Red Bulls|Casseres|Cristian|M|69999.96|108749.96|2018
+New York City FC|Castellanos|Valentin|M|150000|181008.07|2018
+Colorado Rapids|Castillo|Edgar|D|99996|129996|2018
+Houston Dynamo|Ceren|Darwin|M|225000|274375|2018
+FC Dallas|Chala|Anibal|D|3e+05|383000|2018
+New York City FC|Chanot|Maxime|D|375000|408000|2018
+Toronto FC|Chapman|Jay|M|99000|117500|2018
+Portland Timbers|Chara|Diego|M|550000|572000|2018
+Seattle Sounders FC|Chenkam|Felix|F|54500.04|54500.04|2018
+Montreal Impact|Choiniere|David|M|67500|67500|2018
+Montreal Impact|Choiniere|Mathieu|M|54500.04|59441.04|2018
+LA Galaxy|Ciani|Michael|D|6e+05|620000|2018
+Columbus Crew|Clark|Ricardo|M|125000.04|125000.04|2018
+Portland Timbers|Clark|Steve|GK|120000|130000|2018
+Chicago Fire|Cleveland|Stefan|GK|55654.2|55654.2|2018
+LA Galaxy|Cole|Ashley|D|450000|722499.98|2018
+Chicago Fire|Collier|Elliot|F|54500.04|54500.04|2018
+New York Red Bulls|Collin|Aurelien|D|450000|450000|2018
+FC Dallas|Colman|Cristian|F|500000.04|585000.04|2018
+Orlando City SC|Colman|Josue|M|150000|150000|2018
+Colorado Rapids|Colvey|Kip|D|67500|67500|2018
+Vancouver Whitecaps|Colyn|Simon|M|54499.92|60749.92|2018
+Portland Timbers|Conechny|Tomas|M-F|150000|166666.67|2018
+Chicago Fire|Conner|Drew|M|68907.3|68907.3|2018
+Seattle Sounders FC|Bruin|Will|F|350000|351666.67|2018
+New England Revolution|Bunbury|Teal|F|215000.04|260000.04|2018
+Minnesota United|Burch|Marc|D|140004|140004|2018
+Philadelphia Union|Burke|Cory|F|67500|71223.75|2018
+Montreal Impact|Bush|Evan|GK|157925|157925|2018
+Sporting Kansas City|Busio|Gianluca|F|80004|82504|2018
+Seattle Sounders FC|Bwana|Handwalla|M|54500.04|54500.04|2018
+New England Revolution|Bye|Brandon|D|54500.04|57760.82|2018
+Houston Dynamo|Cabezas|Juan|M|255156|279156|2018
+Montreal Impact|Cabrera|Victor|D|270000|270000|2018
+New England Revolution|Caicedo|Luis Alberto|M|3e+05|3e+05|2018
+New England Revolution|Caldwell|Scott|M|129375|139375|2018
+New York City FC|Caldwell|Jeff|GK|54500.04|54500.04|2018
+New York City FC|Callens|Alexander|D|500000.04|564000.04|2018
+Colorado Rapids|Calvert|Caleb|F|105000|105000|2018
+San Jose Earthquakes|Calvillo|Eric|M|99999.96|114999.96|2018
+Minnesota United|Calvo|Francisco|D|450000|522600|2018
+Montreal Impact|Camacho|Rudy|D|650000.04|699152.54|2018
+Chicago Fire|Campbell|Jonathan|D|120175|128300|2018
+Chicago Fire|Campos|Diego|M|54500.04|54500.04|2018
+FC Dallas|Cannon|Reggie|D|67500|67500|2018
+FC Dallas|Cano|Jordan|D|54500.04|54500.04|2018
+DC United|Canouse|Russell|M|247500|247500|2018
+Atlanta United|Carleton|Andrew|F|75000|87400|2018
+LA Galaxy|Carrasco|Servando|M|67500|67500|2018
+Colorado Rapids|Blomberg|Johan|M|239808|239808|2018
+Vancouver Whitecaps|Blondell|Anthony|F|249999.96|295203.21|2018
+LA Galaxy|Boateng|Emmanuel|F|130000|130000|2018
+Colorado Rapids|Boli|Yannick|F|774999.96|907499.96|2018
+Toronto FC|Bono|Alex|GK|132000|164000|2018
+Minnesota United|Boxall|Michael|D|250008|267341.33|2018
+Toronto FC|Bradley|Michael|M|6e+06|6500000|2018
+LAFC|Brewer|Shaft|M|54500.04|56166.71|2018
+DC United|Brillant|Frederic|D|264999.96|299999.96|2018
+Chicago Fire|Bronico|Brandt|M|68254|68254|2018
+Seattle Sounders FC|Brown|Calle|GK|67500|67500|2018
+Montreal Impact|Beaulieu|Jason|GK|54500.04|54500.04|2018
+Real Salt Lake|Beckerman|Kyle|M|505008|530008|2018
+New York City FC|Bedoya|Daniel|M|54500.04|54500.04|2018
+Philadelphia Union|Bedoya|Alejandro|M|1200000|1266250|2018
+LAFC|Beitashour|Steven|D|275000.04|298375.04|2018
+Montreal Impact|Beland-Goyette|Louis|M|54500|55750|2018
+Atlanta United|Bello|George|D|67500|71500|2018
+Sporting Kansas City|Belmar|Kharlton|F|68254.2|68254.2|2018
+Real Salt Lake|Beltran|Tony|D|230000|240950|2018
+Orlando City SC|Bendik|Joe|GK|180000|189083.4|2018
+New York City FC|Berget|Jo Inge|F|6e+05|816666.67|2018
+San Jose Earthquakes|Bersano|Matt|GK|68254.2|68254.2|2018
+Real Salt Lake|Besler|Nick|M|67500|67500|2018
+Sporting Kansas City|Besler|Matt|D|750000|783250|2018
+Vancouver Whitecaps|Bevan|Myer|F|54500.04|54500.04|2018
+New York Red Bulls|Bezecourt|Vincent|M|67500|69921.4|2018
+LA Galaxy|Bingham|David|GK|275000.04|275000.04|2018
+Houston Dynamo|Bird|Eric|M|67500|67500|2018
+DC United|Birnbaum|Steven|D|500004|525004|2018
+LAFC|Blackmon|Tristan|D|67500|70233.92|2018
+Philadelphia Union|Blake|Andre|GK|450000|5e+05|2018
+Portland Timbers|Blanco|Sebastian|M|1300008|1375008|2018
+LAFC|Blessing|Latif|F|75000|84375|2018
+LA Galaxy|Arellano|Hugo|D|75000|82573.75|2018
+Columbus Crew|Argudo|Luis|M|54500.04|54500.04|2018
+Portland Timbers|Armenteros|Samuel|F|6e+05|608333.33|2018
+DC United|Arriola|Paul|M|624999.96|663999.96|2018
+DC United|Asad|Yamil|M|436363.56|520522.65|2018
+Orlando City SC|Ascues|Carlos|D|360000|391500|2018
+Portland Timbers|Asprilla|Dairon|F-M|180000|193750|2018
+Portland Timbers|Attinella|Jeff|GK|114999.96|123999.96|2018
+FC Dallas|Atuahene|Francis|F|124999.92|168999.92|2018
+LAFC|Atuesta|Eduard|M|450000|468000|2018
+Toronto FC|Auro||D|200004|272504|2018
+New York City FC|Awuah|Kwame|D-M|55654.2|55654.2|2018
+Montreal Impact|Azira|Michael|M|125000|131625|2018
+FC Dallas|Badji|Dominique|F|162500.04|168750.04|2018
+Real Salt Lake|Baird|Corey|F|54504|54504|2018
+Toronto FC|Bakero|Jon|F|84999.96|101374.96|2018
+Vancouver Whitecaps|Baldisimo|Michael|M|54500.04|116471.59|2018
+Atlanta United|Barco|Ezequiel|M|1425000|1425000|2018
+Portland Timbers|Barmby|Jack|M|68256|68256|2018
+Colorado Rapids|Barnes|Giles|F-M|200000.04|200000.04|2018
+FC Dallas|Barrios|Michael|M|400000.08|400000.08|2018
+Real Salt Lake|Barry|Shawn|D|131250|131250|2018
+Colorado Rapids|Bassett|Cole|M|60000|69000|2018
+Houston Dynamo|Beasley|DaMarcus|D|275004|275004|2018
+Vancouver Whitecaps|Aja|Jose|D|240000|240000|2018
+San Jose Earthquakes|Akanyirige|Jacob|D|54500.04|56500.04|2018
+Toronto FC|Aketxe Barrutia|Ager|M|1190000.04|1295000.04|2018
+FC Dallas|Akindele|Tesho|F-M|105000|122500|2018
+Toronto FC|Akinola|Ayo|F|54504|140504|2018
+FC Cincinnati|Alashe|Fatai|M|107992.5|124242.5|2018
+LA Galaxy|Alessandrini|Romain|M|1539996|1869996|2018
+Houston Dynamo|Alexander|Eric|M|260004|260004|2018
+Seattle Sounders FC|Alfaro|Tony|D|67500|67500|2018
+Orlando City SC|Allen|RJ|D|90000|90000|2018
+Real Salt Lake|Allen|Jordan|M|225000|225000|2018
+Atlanta United|Almiron|Miguel|M|1912500|2297000|2018
+Seattle Sounders FC|Alonso|Osvaldo|M|1100000.04|1141667.04|2018
+Toronto FC|Altidore|Jozy|F|5e+06|5e+06|2018
+Houston Dynamo|Alvarez|Arturo|M|150000|157500|2018
+LA Galaxy|Alvarez|Efrain|M|67500|72233.84|2018
+Philadelphia Union|Alves Macedo|Fabinho|D|153000|153000|2018
+New York City FC|Amagat|Eloi|M|240000|261250|2018
+Montreal Impact|Amarikwa|Quincy|F|275500|289166.67|2018
+Atlanta United|Ambrose|Mikey|D|68906.25|68906.25|2018
+DC United|Andriuskevicius|Vytautas|D|250000|271875|2018
+New England Revolution|Angking|Isaac|M|67500|72500|2018
+New England Revolution|Anibaba|Jalil|D|90000|90000|2018
+FC Dallas|Aranguiz|Pablo|M|399999.96|459999.96|2018
+Portland Timbers|Arboleda|Victor|F-M|54499.92|54499.92|2018
+New York Red Bulls|Abang|Anatole|F|68927|68927|2018
+New York City FC|Abdul-Salaam|Saad|D|106480|120230|2018
+Columbus Crew|Abu|Mohammed|M|175008|181258|2018
+Columbus Crew|Abubakar|Lalas|D|68250.04|75750.04|2018
+Philadelphia Union|Accam|David|F-M|1250000.04|1250000.04|2018
+Colorado Rapids|Acosta|Kellyn|M|280000|3e+05|2018
+DC United|Acosta|Luciano|F-M|550000|652000|2018
+Real Salt Lake|Acosta|Danilo|M|1e+05|1e+05|2018
+Chicago Fire|Adams|Mohammed|M|90000|125000|2018
+New York Red Bulls|Adams|Tyler|M|1e+05|146041.67|2018
+FC Cincinnati|Adi|Fanendo|F|1275000|1933333.33|2018
+Colorado Rapids|Adjei-Boateng|Nana|M|320004|361250|2018
+San Jose Earthquakes|Affolter|Francois|D|200000.04|232650.04|2018
+Columbus Crew|Afful|Harrison|D|288099.96|363799.96|2018
+New England Revolution|Agudelo|Juan|F|575000|602500|2018
+FC Dallas|Aguilar|Abel|M|272727.24|328127.24|2018
+NYRB|Abang|Anatole|F|65625|65625|2017
+KC|Abdul-Salaam|Saad|D|96800|110550|2017
+CLB|Abu|Mohammed|M|165000|171250|2017
+CLB|Abubakar|Alhassan "Lalas"|D|65000.04|72500.04|2017
+CHI|Accam|David|F-M|750000|820937.5|2017
+DAL|Acosta|Kellyn|M|260000|280000|2017
+DC|Acosta|Luciano|M-F|5e+05|602000|2017
+RSL|Acosta|Danilo|M|65625|65625|2017
+NYRB|Adams|Tyler|M|75000|91041.67|2017
+SEA|Adekoya|Seyi|F|53004|53004|2017
+VAN|Adekugbe|Samuel|D|80000|85000|2017
+POR|Adi|Fanendo|F|1190004|1736254|2017
+COL|Adjei-Boateng|Bismark|M|3e+05|341246|2017
+SJ|Affolter|Francois|D|120000|154250|2017
+CLB|Afful|Harrison|D|280000|296666.67|2017
+NE|Agudelo|Juan|F|475000|502500|2017
+COL|Aigner|Stefan|M|425000.04|470885.46|2017
+ORL|Aja|Jose|D|216000|216000|2017
+DAL|Akindele|Tesho|F-M|95000|112500|2017
+SJ|Alashe|Fatai|M|98175|114425|2017
+PHI|Alberg|Roland|M|345000|394250|2017
+LA|Alessandrini|Romain|M|1669400.64|1999400.64|2017
+HOU|Alexander|Eric|M|190000|203750|2017
+SEA|Alfaro|Tony|D|54075|54075|2017
+MNUFC|Allen|Brandon|F|65625|65625|2017
+NYCFC|Allen|RJ|D|100000.08|101666.75|2017
+RSL|Allen|Jordan|M|178000|178000|2017
+ATL|Almiron|Miguel|M|1912500|2297000|2017
+SEA|Alonso|Osvaldo|M|1100000.04|1141667.04|2017
+TOR|Alseth|Oyvind|M-D|53004|53004|2017
+ORL|Alston|Kevin|D|135000|135000|2017
+TOR|Altidore|Jozy|F|4875000|4875000|2017
+CHI|Alvarez|Arturo|M|135000|142500|2017
+LAFC|Alvarez|Carlos|M|65004|65004|2017
+SJ|Amarikwa|Quincy|F|256500|270166.67|2017
+ATL|Ambrose|Mikey|D|65625|65625|2017
+POR|Andriuskevicius|Vytautas|D|222500|244375|2017
+NE|Angoua|Benjamin|D|6e+05|654333.33|2017
+HOU|Anibaba|Jalil|D|110004|110004|2017
+MNUFC|Anor|Bernardo|M|105000|105000|2017
+POR|Arboleda|Victor|M-F|65000.04|65000.04|2017
+LA|Arellano|Hugo|D|65000|72375|2017
+POR|Arokoyo|Gbenga|D|135000|155600|2017
+DC|Arriola|Paul|M|336000|350000|2017
+CHI|Arshakyan|David|F|156000|178850|2017
+ATL|Asad|Yamil|M|150000|150000|2017
+POR|Asprilla|Dairon|M-F|138000|138000|2017
+POR|Attinella|Jeff|GK|1e+05|105083.33|2017
+TOR|Aubrey|Brandon|D|75000|93750|2017
+NYCFC|Awuah|Kwame|D-M|53004|53004|2017
+PHI|Ayuk|Eric|M|65625|65625|2017
+COL|Azira|Michael|M|110000|116625|2017
+NYRB|Baah|Gideon|D|230000|315500|2017
+COL|Badji|Dominique|F|65000|65000|2017
+POR|Barmby|Jack|M-F|65004|65004|2017
+ORL|Barnes|Giles|F-M|725000|781250|2017
+SJ|Barrera|Leandro|F|1e+05|1e+05|2017
+RSL|Barrett|Chad|F|99000|105000|2017
+DAL|Barrios|Michael|M|200000.04|200000.04|2017
+ORL|Barry|Hadji|F|68750|73312.5|2017
+NYRB|Basuljevic|Arun|M|53004|53004|2017
+CHI|Bava|Jorge Rodrigo|GK|240000|267133.34|2017
+HOU|Beasley|DaMarcus|D|316008|351008|2017
+RSL|Beckerman|Kyle|M|750000|825000|2017
+PHI|Bedoya|Alejandro|M|1131000|1197250|2017
+TOR|Beitashour|Steven|D|250000|264000|2017
+MTL|Beland Goyette|Louis|M|53000|54250|2017
+KC|Belmar|Kharlton|F|65004|65004|2017
+RSL|Beltran|Anthony|D|220000|230950|2017
+ORL|Bendik|Joe|GK|165000|174083.4|2017
+MTL|Bernardello|Hernan|M|288000|288000|2017
+SJ|Bernardez|Victor|D|225000|266600|2017
+COL|Berner|John|GK|66150|66150|2017
+MTL|Bernier|Patrice|M|165000|165000|2017
+SJ|Bersano|Matt|GK|65004|65004|2017
+KC|Besler|Matt|D|725000|758250|2017
+RSL|Besler|Nick|M|53000.04|53000.04|2017
+NYRB|Bezecourt|Vincent|M|53004|53004|2017
+SJ|Bingham|David|GK|190000|197750|2017
+DC|Birnbaum|Steven|D|474996|499996|2017
+MTL|Bitolo Oyongo|Ambroise|D|1e+05|1e+05|2017
+PHI|Blake|Andre|GK|148500|186500|2017
+POR|Blanco|Sebastian|M|1000008|1075008|2017
+KC|Blessing|Latif|F|65004|74379|2017
+ATL|Bloom|Mark|D|99225|106573.89|2017
+LA|Boateng|Emmanuel|F|115000|115000|2017
+VAN|Bolanos|Christian|M|250000|253500|2017
+MTL|Boldor|Deian|D|324000|324000|2017
+TOR|Bono|Alex|GK|70000|90200|2017
+ATL|Boswell|Bobby|D|260000|260000|2017
+MNUFC|Boxall|Michael|D|225000|242333.33|2017
+TOR|Bradley|Michael|M|6e+06|6500000|2017
+NYCFC|Brilliant|Frederic|D|280000|319666.67|2017
+CHI|Bronico|Brandt|M|65004|65004|2017
+DC|Brown|Deshorn|F|264996|337329.33|2017
+HOU|Brown|Calle|GK|65000|65000|2017
+SEA|Bruin|Will|F|325000|326666.67|2017
+DC|Buescher|Julian|M|80000|94700|2017
+NE|Bunbury|Teal|F|215000|260000|2017
+MNUFC|Burch|Marc|D|135000|135000|2017
+COL|Burling|Bobby|D|120000|152000|2017
+MTL|Bush|Evan|GK|136750|136750|2017
+KC|Busio|Gianluca|F|53004|55504|2017
+VAN|Bustos|Marco|M|65625|70475|2017
+HOU|Cabezas|Juan David|M|243000|267000|2017
+MTL|Cabrera|Victor|D|260000|260000|2017
+NE|Caldwell|Scott|M|115000|125000|2017
+CHI|Calistri|Joey|M|54075|54075|2017
+NYCFC|Callens|Alexander|D|180000|203333.33|2017
+COL|Calvert|Caleb|F|1e+05|107500|2017
+MNUFC|Calvo|Francisco|D|3e+05|330843.63|2017
+MTL|Camara|Hassoun|D|255000|255000|2017
+NYCFC|Camargo|Miguel|M|99999.96|108249.96|2017
+TOR|Camargo|Sergio|M|65004|65004|2017
+CHI|Campbell|Jonathan|D|101750|109875|2017
+DAL|Cannon|Reggie|D|53000.04|53000.04|2017
+DC|Canouse|Russell|M|65000.04|65000.04|2017
+ATL|Carleton|Andrew|M-F|65000|77400|2017
+ATL|Carmona|Carlos|M|675000|725000|2017
+ORL|Carrasco|Servando|M|114996|114996|2017
+PHI|Carroll|Brian|M|132000|140000|2017
+COL|Castillo|Dennis|D|54075|54075|2017
+SJ|Cato|Cordell|D-M|137000|138666.67|2017
+SJ|Ceren|Darwin|M|2e+05|249375|2017
+DAL|Cermeno|Carlos|M|120000|123000|2017
+DAL|Chala|Anibal|D|250000.08|333000.08|2017
+NYCFC|Chanot|Maxime|D|350000|383000|2017
+TOR|Chapman|Jay|M|90000|108500|2017
+POR|Chara|Diego|M|5e+05|522000|2017
+TOR|Cheyrou|Benoit|M|65004|65004|2017
+MTL|Choiniere|David|M|54075|54075|2017
+LA|Ciani|Michael|D|6e+05|620000|2017
+MTL|Ciman|Laurent|D|630000|661666.67|2017
+DC|Clark|Steven|GK|72000|72000|2017
+HOU|Clark|Ricardo|M|335160|372660|2017
+POR|Clarke|Rennico|D|53004|58004|2017
+CHI|Cleveland|Stefan|GK|53004|53004|2017
+LA|Cole|Ashley|D|350000|377625|2017
+NYRB|Collin|Aurelien|D|450000|450000|2017
+DAL|Colman|Cristian|F|3e+05|385000|2017
+SJ|Colvey|Kip|D|54075|54075|2017
+CHI|Conner|Drew|M|65625|65625|2017
+TOR|Cooper|Armando|M|189000|202333.33|2017
+CHI|Corrales|Jorge|D|65004|65004|2017
+DAL|Cortes|Eduardo|GK|65004|65004|2017
+DAL|Craft|Coy|F-M|85000|102083.33|2017
+PHI|Creavalle|Warren|M|125000|138000|2017
+MTL|Crepeau|Maxime|GK|75000|79083.33|2017
+CLB|Crognale|Alex|D|84996|84996|2017
+MNUFC|Cronin|Sam|M|3e+05|324750|2017
+NE|Cropper|Cody|F|65625|65625|2017
+SJ|Cummings|Harold|D|249996|300662.67|2017
+COL|Da Fonte|Mike|D|65004|65004|2017
+HOU|Da Silva|Leonardo|D|140004|147670.67|2017
+ORL|Da Silva|Pierre|M|53004|53004|2017
+MNUFC|Danladi|Abu|F|125000.04|176000.04|2017
+PHI|Davies|Charlie|F|108960|114684.94|2017
+VAN|Davies|Alphonso|M|65000|65000|2017
+MNUFC|Davis|Justin|D|80000|89750|2017
+NYRB|Davis|Sean|M|110000|127500|2017
+SJ|Dawkins|Simon|M|8e+05|8e+05|2017
+VAN|de Jong|Marcel|D-M|140000|140000|2017
+CHI|De Leeuw|Michael|F|5e+05|564212.5|2017
+CLB|De Lima Junior|Artur|M|80004|99879|2017
+MNUFC|De Villardi|Thomas|D|53004|53004|2017
+CHI|Dean|Christian|D|90000|93125|2017
+CHI|Dekovic|Matej|D|65004|65004|2017
+HOU|DeLaGarza|AJ|D|250000|252500|2017
+SEA|Delem|Jordy|M|53004|53004|2017
+DC|DeLeon|Nick|M|255000|255000|2017
+TOR|Delgado|Marco|M|210000|210000|2017
+MNUFC|Demidov|Vadim|D|550008|555008|2017
+SEA|Dempsey|Clint|F|3200000|3892933.5|2017
+MTL|Depuy|Nick|F|65000.04|72500.04|2017
+HOU|Deric|Tyler|GK|185000|185000|2017
+LA|Diallo|Bradley|D|65004|65004|2017
+DAL|Diaz|Mauro|M|784000|880890|2017
+KC|Didic|Amer|D|53004|53004|2017
+NE|Dielna|Claude|D|780000|909861|2017
+LA|Diop|Clement|GK|65625|65625|2017
+NYCFC|Diskerud|Mix|M|772669|772669|2017
+MTL|Donadel|Marco|M|72000|257328|2017
+ORL|Donovan|Conor|D|1e+05|128000|2017
+CHI|Doody|Patrick|D|65000|65000|2017
+LA|Dos Santos|Giovani|F|3750000|5500000|2017
+LA|Dos Santos|Jonathan|M|2000000.04|2000000.04|2017
+COL|Doyle|Kevin|F|1e+06|1045000|2017
+NYRB|Duka|Dilly|M|175000|175000|2017
+RSL|Dunk|Reagan|D|53004|53004|2017
+DC|Durkin|Chris|D-M|70000|79166.67|2017
+MTL|Duvall|Chris|D|70875|70875|2017
+ORL|Dwyer|Dom|F|550000|668750|2017
+KC|Dykstra|Andrew|GK|80004|87654.51|2017
+MTL|Dzemaili|Blerim|M|750000|750000|2017
+POR|Ebobisse|Jeremy|F|130000|173000|2017
+VAN|Edgar|David|D|175000|183833.33|2017
+PHI|Edu|Maurice|M|750000|818750|2017
+ORL|Edwards|Earl|GK|65000|65000|2017
+TOR|Edwards|Raheem|F|53004|53004|2017
+HOU|Elis|Alberth|F|423000|423000|2017
+PHI|Elliott|Jack|D|53004|53004|2017
+KC|Ellis|Kevin|D|140004|148337.33|2017
+TOR|Endoh|Tsubasa|F|54075|54075|2017
+PHI|Epps|Marcus|M|53004|53004|2017
+HOU|Escalante|Jose|M|53004|53004|2017
+NYRB|Escobar|Fidel|D|95000.04|95000.04|2017
+KC|Espinoza|Roger|M|850000|850000|2017
+NYRB|Etienne|Derrick|M|53000|58000|2017
+LAFC|Etim|Monday Bassey|M|53004|53004|2017
+SEA|Evans|Brad|D-M|3e+05|338501.25|2017
+PHI|Fabinho||D|159759|167759|2017
+NE|Fagundez|Diego|M|160000|180000|2017
+POR|Farfan|Marco|D|53000|53000|2017
+NE|Farrell|Andrew|D|182600|263600|2017
+KC|Feilhaber|Benny|M|6e+05|6e+05|2017
+KC|Fernandes|Gerso|M-F|550008|591258|2017
+CHI|Fernandez|Collin|M|85000|87000|2017
+DAL|Ferreira|Jesus|F|53000|53000|2017
+DAL|Figueroa|Maynor|D|320000|343333.33|2017
+MNUFC|Finlay|Ethan|M|290000|290000|2017
+MTL|Fisher|Kyle|D|53004|53004|2017
+SEA|Fisher|Oniel|M-D|65625|65625|2017
+VAN|Flores|Deybi|M|53000.04|53000.04|2017
+PHI|Fontana|Anthony|M|53004|61421.6|2017
+COL|Ford|Kortne|D|69996|76996|2017
+CLB|Francis|Waylon|D|227500|251875|2017
+MTL|Francis|Shaun|D|115000|123333.33|2017
+DC|Franklin|Sean|D|258756|283756|2017
+SEA|Frei|Stefan|GK|250000|256250|2017
+PHI|Gaddis|Raymon|D|165000|167500|2017
+HOU|Garcia|Boniek|M|225000|247500|2017
+HOU|Garcia|Kevin|D|65633.4|65633.4|2017
+LA|Garcia|Rafael|M|82500|82500|2017
+ORL|Garcia|Devron|M-F|53004|53004|2017
+ATL|Garza|Greg|D|150000|150000|2017
+COL|Gashi|Shkelzen|F|1575000|1668750|2017
+COL|Gatt|Joshua|M|175008|193508|2017
+VAN|Ghazal|Ali|D-M|86799.96|212366.63|2017
+COL|Gil|Luis|M|144000|144000|2017
+TOR|Giovinco|Sebastian|F|5600000|7115555.67|2017
+ORL|Giro|Victor|D-M|80004|85316.5|2017
+RSL|Glad|Justen|D|225000|246700|2017
+POR|Gleeson|Jake|GK|110000|115166.67|2017
+SJ|Godoy|Anibal|M|229992|256242|2017
+NYCFC|Gomez|Shannon|D|54075|54075|2017
+DAL|Gonzalez|Jesse|GK|85000.08|109000.08|2017
+DAL|Gonzalez|Luis|M|65000.04|83125.04|2017
+ATL|Gonzalez Pirez|Leandro|D|250008|285008|2017
+CHI|Goossens|John|M|230000|233333.33|2017
+COL|Gordon|Alan|F|180000|180000|2017
+ATL|Goslin|Chris|M|70000|74000|2017
+DAL|Grana|Hernan|D|200000.04|225500.04|2017
+MNUFC|Greenspan|Joseph|D|65000|66469.08|2017
+VAN|Greig|Kyle|F|65004|66849|2017
+NYRB|Grella|Mike|F|186000|188250|2017
+ATL|Gressel|Julian|M|75000|93750|2017
+DAL|Gruezo|Carlos|M|495000|731500|2017
+DAL|Guillen|Aaron|D|54075|54075|2017
+ATL|Guzan|Brad|GK|340008|400008|2017
+POR|Guzman|David|M|185004|188337.33|2017
+TOR|Hagglund|Nick|D|100008|109633|2017
+COL|Hairston|Marlon|D-M|110004|110004|2017
+DC|Hamid|Bill|GK|350000|395500|2017
+COL|Hamilton|Sam|M|65004|65004|2017
+TOR|Hamilton|Jordan|F|69457.5|81957.5|2017
+CLB|Hansen|Nikolaj|F|65000.04|72500.04|2017
+DC|Harkes|Ian|M|90000|123237.5|2017
+CHI|Harrington|Michael|D|135000|136666.67|2017
+DAL|Harris|Atiba|D-M|155004|155004|2017
+NYCFC|Harrison|Jack|M|130000|165500|2017
+VAN|Harvey|Jordan|D|180000|180000|2017
+TOR|Hasler|Nicolas|D|65004|80670.67|2017
+DAL|Hayes|Jacori|M|65000.04|72500.04|2017
+ATL|Heath|Harrison|M|66150|66150|2017
+POOL|Heavner|Billy|GK|53004|53004|2017
+DAL|Hedges|Matt|D|399996|424996|2017
+PHI|Herbers|Fabian|M-F|110000|135500|2017
+NE|Herivaux|Zachary|M|65625|65625|2017
+RSL|Hernandez|Jose|M|53004|56379|2017
+TOR|Hernandez|Jason|D|65004|65004|2017
+NYCFC|Herrera|Yangel|M|123557.04|123557.04|2017
+CLB|Higuain|Federico|M|1050000|1050000|2017
+ORL|Higuita|Cristian|M|150000|286666.67|2017
+ORL|Hines|Sebastian|D|129996|129996|2017
+SJ|Hoesen|Danny|F|425004|503129|2017
+HOU|Holland|Joseph|M|53004|53004|2017
+NE|Hollinger-Janzen|Femi|F|54075|54075|2017
+DAL|Hollingshead|Ryan|M-D|132500|132500|2017
+CLB|Hollingsworth|Marshall|M|54075|54075|2017
+RSL|Holness|Omar|F|110000|133500|2017
+RSL|Horst|David|D|110004|115004|2017
+COL|Howard|Tim|GK|2e+06|2475000|2017
+DAL|Hume|Walker|D|53004|53004|2017
+HOU|Hunter|Taylor|D|53004|53004|2017
+VAN|Hurtado|Erik|F/M|125000|131250|2017
+LA|Husidic|Baggio|M|175000|175000|2017
+SJ|Hyka|Jahmir|M|470004|520004|2017
+MNUFC|Ibarra|Miguel|M|290004|322326|2017
+VAN|Ibini|Bernie|F|135000|174000|2017
+MNUFC|Ibson||M|200004|210337.4|2017
+VAN|Igiebor|Nosa|M|65000.04|98333.37|2017
+PHI|Ilsinho||M|470000|518333.33|2017
+SJ|Imperiale|Andres|D|105000|107500|2017
+TOR|Irwin|Clint|GK|200004|211316.7|2017
+KC|Iwasa|Cameron|F|65004|65004|2017
+MTL|Jackson-Hamel|Anthony|F|66150|66150|2017
+VAN|Jacobson|Andrew|M|150000|175000|2017
+CLB|Jahn|Adam|F|92500|92500|2017
+LA|Jamieson|Bradford|F|66150|66150|2017
+DC|Jeffrey|Jared|M|105000|115000|2017
+CLB|Jimenez|Hector|M|150000|150000|2017
+NYCFC|Johansen|Eirik|GK|65625|65625|2017
+CHI|Johnson|Daniel|M|65004|65004|2017
+NYCFC|Johnson|Sean|GK|220008|220008|2017
+ORL|Johnson|Will|M|414000|450000|2017
+MNUFC|Jome|Ismaila|M|65004|67837.33|2017
+ATL|Jones|Kenwyne|F|390000|413333.33|2017
+LA|Jones|Jermaine|M|6e+05|722500.2|2017
+PHI|Jones|Derrick|M|65000|70900|2017
+PHI|Jones|Aaron|D|53004|53004|2017
+SEA|Jones|Joevin|D|90000|96166.67|2017
+SJ|Jungwirth|Florian|D-M|450000|516667.07|2017
+CHI|Juninho||M|700008|716674.67|2017
+ORL|Kaka||M|6660000|7167500|2017
+MNUFC|Kallman|Brent|D|65004|68295.67|2017
+CLB|Kamara|Ola|F|450000|482500|2017
+NE|Kamara|Kei|F|8e+05|8e+05|2017
+ATL|Kann|Alec|GK|77004|77004|2017
+MNUFC|Kapp|Alex|GK|53004|53004|2017
+CHI|Kappelhof|Johan|D|530000|570000|2017
+NYRB|Keita|Muhamed|F|200012.04|256401.04|2017
+DC|Kemp|Taylor|D|120000|120000|2017
+LA|Kempin|Jonathan|GK|65004|65004|2017
+CLB|Ketterer|Logan|GK|53004|53004|2017
+DC|Klenofsky|Eric|GK|53004|56754|2017
+NYRB|Kljestan|Sacha|M|650000|787500|2017
+NE|Knighton|Brad|GK|100910.25|100910.25|2017
+NE|Kobayashi|Daigo|M|69996|76996|2017
+NE|Koffie|Gershon|M|120000|120000|2017
+DC|Korb|Chris|D|65004|71004|2017
+NE|Kouassi|Xavier|M|840000|890541.75|2017
+SEA|Kovar|Aaron|M|66150|66350|2017
+ATL|Kratz|Kevin|M|150000|164250|2017
+MTL|Kronberg|Eric|GK|99999.96|104999.96|2017
+VAN|Laba|Matias|M|725000|885500|2017
+NYRB|Lade|Connor|D|85000|92812.5|2017
+DAL|Lamah|Roland|M|630000|773500|2017
+CHI|Lampson|Matt|GK|76000|81375|2017
+ATL|Larentowicz|Jeff|M|175008|175008|2017
+ORL|Larin|Cyle|F|150000|192000|2017
+ORL|Laryea|Richmond|M|130000|159000|2017
+LA|Lassiter|Ariel|F|54075|54075|2017
+NYRB|Lawrence|Kemar|D|1e+05|205600|2017
+SEA|Leerdam|Kelvin|D|380640|455640|2017
+MTL|Lefevre|Wandrille|D|94999.92|104499.92|2017
+MNUFC|Leiton|Jose|F-M|53004|68504|2017
+RSL|Lennon|Brooks|F|53004|53004|2017
+VAN|Levis|Brett|D|65000|67500|2017
+NYCFC|Lewis|Jonathan|F|80000.04|115500.04|2017
+NYRB|Lewis|Zeiko|M|75000|93750|2017
+SJ|Lima|Nick|D|80004|86208.03|2017
+LA|Lletget|Sebastian|M|230000|242666.67|2017
+KC|Lobato|Cristian|M|180000|180000|2017
+SEA|Lodeiro|Nicolas|M|1371428.57|1743428.57|2017
+NYRB|Long|Aaron|D|65000|65000|2017
+NYCFC|Lopez|Mikey|M|75000|75000|2017
+NYRB|Louro|Evan|GK|53004|53004|2017
+MTL|Lovitz|Daniel|M|78750|78750|2017
+ATL|Loyd|Zach|D|85008|85008|2017
+HOU|Lucatero|Christian|M|53000|53250|2017
+POR|Mabiala|Larrys|D|431666.64|480916.64|2017
+HOU|Machado|Adolfo|D|200004|216504|2017
+COL|MacMath|Zac|GK|150000|150000|2017
+HOU|Malki|George|D|65004|65004|2017
+SEA|Mallace|Calum|M|115000|131250|2017
+CLB|Maloney|Connor|D|53004|53004|2017
+MTL|Mancosu|Matteo|F|700000.08|719541.75|2017
+CLB|Manneh|Kekuta|M-F|138875|168375|2017
+HOU|Manotas|Mauro|F|215746.08|215746.08|2017
+VAN|Marinovic|Stefan|GK|65000.04|77562.54|2017
+PHI|Marquez|Richard|D|133000|139430|2017
+SEA|Marshall|Chad|D|350000|366250|2017
+MNUFC|Martin|Collin|M|84996|84996|2017
+ATL|Martinez|Josef|F|924000|1041310|2017
+CLB|Martinez|Cristian|M|65633.4|70133.4|2017
+HOU|Martinez|Tomas|M|315000|497925|2017
+NYRB|Martins|Felipe|M|385000.08|385000.08|2017
+NYCFC|Matarrita|Ronald|D|175000|2e+05|2017
+SEA|Mathers|Zach|M|53004|53004|2017
+POR|Mattocks|Darren|F|3e+05|316666.67|2017
+VAN|Maund|Aaron|D|165000|174437.5|2017
+TOR|Mavinga|Chris|D|265008|300691.6|2017
+LA|McBean|Jack|F|65625|65625|2017
+ATL|McCann|Chris|M|540000|568000|2017
+PHI|McCarthy|John|GK|86500|95750|2017
+CHI|McCarty|Dax|M|400000.08|412500.08|2017
+PHI|McGuire|Jake|GK|53004|53004|2017
+LA|McInerney|Jack|F|325000|325000|2017
+POR|McIntosh|Kendall|GK|53000|53000|2017
+VAN|McKendry|Ben|M|65000|65000|2017
+MNUFC|McLain|Patrick|GK|80000|80000|2017
+NYCFC|McNamara|Thomas|M|185000.04|185000.04|2017
+NYRB|Meara|Ryan|GK|100008|105008|2017
+ATL|Mears|Tyrone|D|183756|183756|2017
+KC|Medranda|Jimmy|D|130008|130008|2017
+PHI|Medunjanin|Haris|M|460008|505008|2017
+CHI|Meira|Joao|D-M|150000|165000|2017
+POR|Melano|Lucas|F|790000|1010000|2017
+KC|Melia|Tim|GK|165000|167500|2017
+NYCFC|Mena|Jefferson|D|250000|261400|2017
+LA|Mendiola|Raul|F|65625|65625|2017
+CLB|Mensah|Jonathan|D|750000|844000|2017
+CLB|Meram|Justin|M|3e+05|328750|2017
+SEA|Meredith|Bryan|GK|66150|66150|2017
+NYRB|Metzger|Dan|M|53004|53004|2017
+VAN|Mezquida|Nicolas|M-F|120000|120000|2017
+SJ|Mfeka|Lindo|M-F|53004|53004|2017
+CHI|Mihailovic|Djordje|M|80000.04|80000.04|2017
+COL|Miller|Eric|D|75553.75|86553.75|2017
+POR|Miller|Roy|D|150000|150000|2017
+SEA|Miller|Tyler|GK|65633.4|65633.4|2017
+DC|Miranda|Bruno|F|53000.04|57476.13|2017
+NE|Mlinar Delamea|Antonio|D|400008|400008|2017
+MNUFC|Molino|Kevin|M|350004|402504|2017
+HOU|Monteiro de Lima|Alex|M|170000|170000|2017
+VAN|Montero|Fredy|F|1400000.04|1800000.04|2017
+TOR|Moor|Drew|D|246750|261750|2017
+DAL|Morales|Javier|M|3e+05|315000|2017
+NYCFC|Moralez|Maximiliano|M|2000000.04|2000000.04|2017
+TOR|Morgan|Ashtone|D|100008|101508|2017
+SEA|Morris|Jordan|F|225000|237500|2017
+TOR|Morrow|Justin|D|210000|226666.67|2017
+RSL|Movsisyan|Yura|F|1750000|1973750|2017
+RSL|Mulholland|Luke|M|172500|172500|2017
+DC|Mullins|Patrick|F|114125|144125|2017
+NYRB|Murillo|Michael|D|65004|73754|2017
+KC|Musa|James|D-M|65004|65004|2017
+KC|Mustivar|Soni|M|2e+05|2e+05|2017
+NYRB|Muyl|Alex|F|65625|69625|2017
+POR|Myers|Chance|D|125004|125004|2017
+POR|Nagbe|Darlington|M/F|550000|565000|2017
+PHI|Najem|Adam|M|65000.04|65000.04|2017
+NYRB|N'dam|Hassan|D|53004|53004|2017
+SEA|Neagle|Lamar|M-F|2e+05|202833.33|2017
+NE|Nemeth|Krisztian|F|547200|654866.67|2017
+VAN|Nerwinski|Jake|D|65004|65004|2017
+NE|Nguyen|Lee|M|5e+05|5e+05|2017
+MNUFC|Nicholson|Sam|M|235008|281456|2017
+CHI|Nikolic|Nemanja|F|1700000.04|1906333.37|2017
+ORL|Nocerino|Antonio|M|8e+05|850000|2017
+DC|Nyarko|Patrick|F-M|235000|250750|2017
+CLB|Obinwa|Abuchi|M|65004|65004|2017
+ATL|Oblitey Otoo|Jeffrey|M-F|53000|53000|2017
+DC|Odoi-Atsem|Chris|D|65000.04|72500.04|2017
+MTL|Oduro|Dominic|F|330000|330000|2017
+NYCFC|Okoli|Sean|F|52999.92|52999.92|2017
+POR|Okugo|Amobi|D-M|65004|187941.5|2017
+KC|Oliveira|Kevin|M|65004|68337.33|2017
+POR|Olum|Lawrence|M|142500|157500|2017
+PHI|Onyewu|Oguchi|D|65004|65004|2017
+KC|Opara|Ike|D|150000|150000|2017
+DC|Opare|Kofi|D|105000|120000|2017
+TOR|Osorio|Jonathan|M|191762.5|200237.13|2017
+VAN|Ousted|David|GK|360000|378933.33|2017
+LAFC|Pacheco|Rodrigo|F|99999.96|99999.96|2017
+TOR|Pais|Mark|GK|65004|65004|2017
+KC|Palmer-Brown|Erik|D|75000|75500|2017
+VAN|Parker|Tim|D|80850|99600|2017
+ATL|Parkhurst|Michael|D|325008|325008|2017
+KC|Pasher|Tyler|D-M|53000|53000|2017
+LA|Pedro|Joao|M|120000|141000|2017
+SJ|Pelosi|Marc|M|65004|75004|2017
+ORL|Pereira|Leonardo|D|53004|53004|2017
+COL|Perez|Ricardo|M|53004|54254|2017
+NYRB|Perrinelle|Damien|D|175008|175008|2017
+ATL|Peterson|Jacob|M-F|165300|172550|2017
+RSL|Phillips|Demar|D|155004|162837.33|2017
+MTL|Piatti|Ignacio|M|450000|450000|2017
+PHI|Picault|Fabrice|F|114999.96|128666.63|2017
+MTL|Piette|Samuel|M|90000|99234.37|2017
+NYCFC|Pirlo|Andrea|M|5600000|5915690|2017
+RSL|Plata|Joao|F|450000|608333.33|2017
+CHI|Polster|Matt|D-M|99900|114900|2017
+DAL|Pomykal|Paxton|M|70000|75000|2017
+PHI|Pontius|Chris|M-F|4e+05|431000|2017
+KC|Porter|Cameron|F|65000|117500|2017
+POR|Powell|Alvas|D|115000|123700|2017
+ORL|Powers|Dillon|M|295000|325000|2017
+SJ|Qazaishvili|Valeri "Vako"|M|1325004|1454042.36|2017
+HOU|Quioto|Romell|F|200004|212504|2017
+CLB|Raitala|Jukka|D|125004|161670.67|2017
+MNUFC|Ramirez|Christian|M|350004|392504.4|2017
+ORL|Ramos|Rafael|D|100800|100800|2017
+NYCFC|Rawls|Andre|GK|65633.4|65633.4|2017
+ORL|Redding|Tommy|D|110000|117500|2017
+DAL|Reid|Adonijah|F|70000.08|84375.08|2017
+HOU|Remick|Dylan|D|66150|66150|2017
+VAN|Reyna|Yordy|M-F|440000.04|533700.04|2017
+ATL|Reynish|Kyle|GK|65004|65004|2017
+DAL|Reynolds|Bryan|F|53000|55000|2017
+VAN|Richey|Spencer|GK|65004|65004|2017
+TOR|Ricketts|Tosaint|F|180000|193166.67|2017
+POR|Ridgewell|Liam|D|615000|615000|2017
+RSL|Rimando|Nick|GK|450000|470000|2017
+NYCFC|Ring|Alexander|M|340000.08|381666.75|2017
+ORL|Rivas|Carlos|M|375000|375000|2017
+ATL|Robinson|Miles|D|125000.04|195000.04|2017
+DC|Robinson|Jalen|D|69996|69996|2017
+NYRB|Robles|Luis|GK|430000.08|430000.08|2017
+ORL|Rocha|Tony|M|65620.8|65620.8|2017
+HOU|Rodriguez|Memo|M|53004|53004|2017
+SEA|Rodriguez|Victor|M|999999.96|1087499.96|2017
+LA|Rogers|Robbie|M|225000|233500|2017
+SEA|Roldan|Cristian|M|115000|137000|2017
+DC|Rolfe|Chris|F|275000|275000|2017
+MTL|Romero|Andres|M|245000.04|405000.04|2017
+LA|Romney|David|D|66150|66150|2017
+VAN|Rosales|Mauro|M|65004|65004|2017
+PHI|Rosenberry|Keegan|D|104500|110312.5|2017
+LA|Rowe|Brian|GK|120000|120000|2017
+NE|Rowe|Kelyn|M|165000|230000|2017
+NYRB|Royer|Daniel|M|450000|471666.67|2017
+KC|Rubio Kostner|Diego|F|202000|218875|2017
+RSL|Rusnak|Albert|M|825000|882812.5|2017
+KC|Saad|Soony|F|65004|65004|2017
+COL|Saeid|Mohammed|M|160000|170000|2017
+MTL|Salazar|Michael|F|54075|54075|2017
+SJ|Salinas|Shea|M|185000|185000|2017
+KC|Salloi|Daniel|F|53000|53000|2017
+DC|Sam|Lloyd|M-F|240000|250000|2017
+CHI|Sanchez|Richard|M|64999.92|64999.92|2017
+HOU|Sanchez|Vicente|F|65004|65004|2017
+KC|Sanchez|Ilie|M|3e+05|305000|2017
+NYCFC|Sands|James|D-M|53000.04|73833.37|2017
+CLB|Santos|Pedro|M|684000|731000|2017
+PHI|Sapong|CJ|F|3e+05|3e+05|2017
+CLB|Saravia|Rodrigo|M|65625|65625|2017
+SJ|Sarkodie|Kofi|D|135000|140000|2017
+DC|Sarvas|Marcelo|M|360000|425000|2017
+RSL|Saucedo|Sebastian|M|90000|100500|2017
+ORL|Saunders|Josh|GK|150000|150000|2017
+CLB|Sauro|Gaston|D|585000|601312.5|2017
+RSL|Savarino|Jefferson|F|352500|376187.65|2017
+RSL|Schmidt|Justin|D|53004|53004|2017
+RSL|Schuler|Chris|D|127500|132500|2017
+MNUFC|Schuller|Rasmus|M|200004|225004|2017
+CHI|Schweinsteiger|Bastian|M|5400000|5400000|2017
+VAN|Seiler|Cole|D|54075|54075|2017
+DAL|Seitz|Chris|GK|153000|153000|2017
+HOU|Senderos|Philippe|D|225000|242500|2017
+COL|Serna|Dillon|M|72600|85600|2017
+VAN|Shea|Brek|M-D|625000|670000|2017
+NYCFC|Shelton|Khiry|F|92950|110450|2017
+SEA|Shipp|Harrison|M|144999.96|144999.96|2017
+MTL|Shome|Shamit|M|100000.08|128500.08|2017
+MNUFC|Shuttleworth|Bobby|GK|155000|171875|2017
+RSL|Silva|Luis|M-F|200004|208670.67|2017
+RSL|Silva|Marcelo|D|675000|711875|2017
+SJ|Silva|Matheus|M|65000|65000|2017
+PHI|Simpson|Jay|F|465000|508333.33|2017
+KC|Sinovic|Seth|D|125000|132666.67|2017
+COL|Sjoberg|Axel|D|108350|123350|2017
+LA|Smith|Nathan|D|53004|55499.85|2017
+NE|Smith|Donnie|M|66150|66150|2017
+NE|Smith|Joshua|D|65000|65000|2017
+CHI|Solignac|Luis|F|274999.92|328312.42|2017
+RSL|Sparrow|Connor|GK|53004|53004|2017
+ORL|Spector|Jonathan|D|549996|611933.5|2017
+TOR|Spencer|Ben|F|65004|71554.28|2017
+ORL|Stajduhar|Mason|GK|53000|53000|2017
+CLB|Steffen|Zack|GK|105000|105000|2017
+LA|Steres|Daniel|D|105000|112062.6|2017
+NYCFC|Stertzer|John|M|65000|65000|2017
+DC|Stieber|Zoltan|M|99999.96|99999.96|2017
+KC|Storm|Colton|D|53004|53004|2017
+NYCFC|Struna|Andraz|D|75600|75600|2017
+CLB|Stuver|Brad|GK|80004|80004|2017
+RSL|Sunday|Stephen|M|240000|253000|2017
+ORL|Sutter|Scott|D|240000|240000|2017
+SEA|Svensson|Gustav|M|170000.04|170000.04|2017
+CLB|Swanson|Ben|M|85000|105416.67|2017
+NYCFC|Sweat|Ben|D|65004|65004|2017
+MTL|Tabla|Ballou Jean-Yves|M|70000|78999.8|2017
+ATL|Tambakis|Alexander|GK|65004|65004|2017
+SJ|Tarbell|Andrew|GK|80000|94000|2017
+MNUFC|Taylor|Jermaine|D|125004|135004|2017
+VAN|Tchani|Tony|M|275000|308333.33|2017
+VAN|Techera|Cristian|M|352000|377000|2017
+VAN|Teibert|Russell|M|126500|194000|2017
+MNUFC|Thiesson|Jerome|D|171000|210166.67|2017
+SJ|Thompson|Tommy|M|150000|155000|2017
+NE|Tierney|Chris|D-M|140000|148333.33|2017
+ORL|Toia|Donny|D|110004|110004|2017
+SEA|Tolo|Nouhou|D|52999.92|52999.92|2017
+HOU|Torres|Erick|F|650000|695000|2017
+SEA|Torres|Roman|D|433000|508812.5|2017
+CLB|Trapp|Wil|M|3e+05|350000|2017
+PHI|Tribbett|Ken|D|65000|65000|2017
+PHI|Trusty|Auston|D|75000|104100|2017
+POR|Tuiloma|Bill|D-M|53004|64254|2017
+NE|Turner|Matt|GK|54075|54075|2017
+DAL|Ulloa|Victor|M|150000|152500|2017
+SJ|Urena|Marco|F|275004|289420.67|2017
+DAL|Urruti|Maximiliano|F|3e+05|560000|2017
+POR|Valentin|Zarek|D|110000|110000|2017
+POR|Valeri|Diego|M|2227500|2607500|2017
+LA|Van Anholt|Pele|D|216000|216000|2017
+RSL|Van Oekel|Matt|GK|96000|96000|2017
+ATL|Vazquez|Brandon|F|100008|120008|2017
+TOR|Vazquez|Victor|M|630000|7e+05|2017
+RSL|Velazco|Ricardo|F|65633.4|65633.4|2017
+MNUFC|Venegas|Johan|M|215000|227500|2017
+MNUFC|Venegas|Kevin|D|85000|88333.33|2017
+NYRB|Veron|Gonzalo|M-F|5e+05|5e+05|2017
+NYCFC|Villa|David|F|5610000|5610000|2017
+ATL|Villalba|Hector|F|663000|770750|2017
+LA|Villarreal|Jose|F|105000|105000|2017
+LA|Villarreal|Jaime|M|53004|53004|2017
+CHI|Vincent|Brandon|D|96250|118125|2017
+DC|Vincent|Rob|M-F|65633.4|65633.4|2017
+ATL|Walkes|Anton|D|53004|53004|2017
+NYCFC|Wallace|Rodney|M|220000.08|220000.08|2017
+HOU|Ward|Charlie|M|53004|53004|2017
+MNUFC|Warner|Collen|M|230004|230004|2017
+VAN|Waston|Kendall|D|350000|368125|2017
+NE|Watson|Je-Vaughn|D-M|150000|155666.67|2017
+COL|Watts|Jared|D-M|75000|75000|2017
+HOU|Wenger|Andrew|M|210000|210000|2017
+ATL|Wheeler-Omiunu|Andrew|M|53004|53004|2017
+NYCFC|White|Ethan|D|65000|65000|2017
+PHI|Wijnaldum|Giliano|D|65004|78337.33|2017
+ATL|Williams|Romario|F|65000|65000|2017
+CLB|Williams|Josh|D|110004|110004|2017
+COL|Williams|Mekeil|D|110000|115000|2017
+VAN|Williams|Sheanon|D|175000|184000|2017
+HOU|Willis|Joe|GK|106312.5|106312.5|2017
+RSL|Wingert|Chris|D|134004|145394|2017
+SEA|Wingo|Henry|D-M|53004|53004|2017
+SJ|Wondolowski|Chris|F|8e+05|8e+05|2017
+NE|Woodberry|London|D|69300|69300|2017
+DC|Worra|Travis|GK|65625|65625|2017
+NE|Wright|Brian|F|65000.04|83750.04|2017
+NYRB|Wright-Phillips|Bradley|F|1500000|1635000|2017
+SJ|Wynne|Marvell|D|245808|257058|2017
+PHI|Yaro|Joshua|D|130000|194000|2017
+ORL|Yotun|Yoshimar|M|549996|599996|2017
+SJ|Yueill|Jackson|M|124992|175992|2017
+LA|Zardes|Gyasi|F|577500|577500|2017
+TOR|Zavaleta|Eriq|D|102850|133450|2017
+POR|Zemanski|Ben|M|105000|109000|2017
+KC|Zendejas|Adrian|GK|53000|53000|2017
+DAL|Zimmerman|Walker|D|205000|205000|2017
+NYRB|Zizzo|Sal|D|110000|110000|2017
+KC|Zusi|Graham|M|725000|757102.27|2017
+NYRB|Abang|Anatole|F|62500|62500|2016
+KC|Abdul-Salaam|Saad|D|63000|76750|2016
+CHI|Accam|David|F-M|7e+05|770937.5|2016
+DAL|Acosta|Kellyn|M|220000|240000|2016
+DC|Acosta|Luciano|M-F|327272.76|429272.76|2016
+RSL|Acosta|Danilo|M|62500|62500|2016
+NYRB|Adams|Tyler|M|65000|81041.67|2016
+VAN|Adekugbe|Samuel|D|70000|75000|2016
+POR|Adi|Fanendo|F|640000|712500|2016
+CLB|Afful|Harrison|D|275000|291666.67|2016
+NE|Agudelo|Juan|F|425000|452500|2016
+DC|Aguilar|Miguel|M|63000|63000|2016
+VAN|Aird|Fraser|D-M|51500|58625|2016
+ORL|Aja|Jose|D|192000|192000|2016
+DAL|Akindele|Tesho|F-M|80000|97500|2016
+SJ|Alashe|Fatai|M|74250|90500|2016
+PHI|Alberg|Roland|M|328000|377250|2016
+HOU|Alexander|Eric|M|165000|178750|2016
+SEA|Alfaro|Tony|D|51500|51500|2016
+NYCFC|Allen|RJ|D|63000|63000|2016
+NYRB|Allen|Brandon|F|62500|62500|2016
+RSL|Allen|Jordan|M|1e+05|110000|2016
+SEA|Alonso|Osvaldo|M|9e+05|941667|2016
+ORL|Alston|Kevin|D|130000|130000|2016
+TOR|Altidore|Jozy|F|4825000|4825000|2016
+KC|Alvarado|Ever|D|51500.04|75166.71|2016
+CHI|Alvarez|Arturo|M|115000|118264|2016
+DAL|Alves Dos Santos|Getterson|F|144000|174500|2016
+SJ|Amarikwa|Quincy|F|247000|260666.67|2016
+ORL|Ambrose|Mikey|D|62496|62496|2016
+SEA|Anderson|Oalex|F|51504|51504|2016
+POR|Andriuskevicius|Vytautas|D|184992|204992|2016
+HOU|Anibaba|Jalil|D|62500|62500|2016
+KC|Anor|Bernardo|M|132624|132624|2016
+KC|Appiah|Emmanuel|M|51499.92|51499.92|2016
+HOU|Arboleda|Yair|M|62499.96|62499.96|2016
+DC|Arnaud|Davy|M|212500|212500|2016
+POR|Arokoyo|Gbenga|D|90000|110600|2016
+CHI|Arshakyan|David|F|120000|142850|2016
+CLB|Ashe|Corey|D|95000|105500|2016
+POR|Asprilla|Dairon|M-F|76000|126000|2016
+RSL|Attinella|Jeff|GK|90000|95083.33|2016
+PHI|Ayuk|Eric|M|62500|62500|2016
+COL|Azira|Michael|M|63000|65826.88|2016
+NYRB|Baah|Gideon|D|230000|315500|2016
+TOR|Babouli|Mo|F|51500|51500|2016
+COL|Badji|Dominique|F|53472|53472|2016
+RSL|Baez Benitez|Pedro|F|62499.96|94324.96|2016
+NYCFC|Ballouchy|Mehdi|M|71662.5|86662.5|2016
+ORL|Baptista|Julio|M-F|90000|90000|2016
+POR|Barmby|Jack|M-F|72000|73800|2016
+NE|Barnes|Darrius|D|110000|116666.67|2016
+VAN|Barnes|Giles|F-M|7e+05|756250|2016
+PHI|Barnetta|Tranquillo|M|650000|709100|2016
+SJ|Barrera|Leandro|F|75000|75000|2016
+SJ|Barrett|Chad|F|90000|95500|2016
+DAL|Barrios|Michael|M|70000|70000|2016
+ORL|Barry|Hadji|F|62500|67062.5|2016
+CLB|Barson|Chad|D|63000|63000|2016
+HOU|Beasley|DaMarcus|D|750000|813333.33|2016
+RSL|Beckerman|Kyle|M|675000|750000|2016
+PHI|Bedoya|Alejandro|M|1100004|1166254|2016
+TOR|Beitashour|Steven|D|230000|244000|2016
+MTL|Bekker|Kyle|M|67941.5|94191.5|2016
+RSL|Beltran|Anthony|D|210000|220950|2016
+ORL|Bendik|Joe|GK|140000|147666.67|2016
+MTL|Bernardello|Hernan|M|216000|216000|2016
+SJ|Bernardez|Victor|D|210000|251600|2016
+COL|Berner|John|GK|63000|63000|2016
+MTL|Bernier|Patrice|M|95000|140000|2016
+KC|Besler|Matt|D|7e+05|733250|2016
+POR|Besler|Nick|M|62500|62500|2016
+NYRB|Bilyeu|Justin|D|51500|51500|2016
+SJ|Bingham|David|GK|145000|152750|2016
+DC|Birnbaum|Steven|D|86350|116350|2016
+MTL|Bitolo|Ambroise|D|1e+05|1e+05|2016
+PHI|Blake|Andre|GK|1e+05|138000|2016
+TOR|Bloom|Mark|D|94500|101848.89|2016
+LA|Boateng|Emmanuel|F|1e+05|1e+05|2016
+ORL|Boden|Luke|D|82500|82500|2016
+VAN|Bolanos|Christian|M|250000|253500|2016
+DAL|Bonner|Colin|F|51504|51504|2016
+TOR|Bono|Alex|GK|65000|85200|2016
+POR|Borchers|Nat|D|245000|255000|2016
+DC|Boswell|Bobby|D|260000|260000|2016
+TOR|Bradley|Michael|M|6e+06|6500000|2016
+NYCFC|Brandt|Connor|M-D|53472|53472|2016
+NYCFC|Bravo|Federico|M|110000|110000|2016
+POR|Brett|Neco|M|51504|51504|2016
+NYCFC|Brilliant|Frederic|D|260000|299666.67|2016
+HOU|Brown|Calle|GK|51500|51500|2016
+HOU|Brown|Keyner|D|108000|108000|2016
+HOU|Bruin|Will|F|310000|311666.67|2016
+DC|Buescher|Julian|M|70000|84700|2016
+NE|Bunbury|Teal|F|205000|250000|2016
+COL|Burch|Marc|D|120000|120000|2016
+ATL|Burgos|Efrain|M|62508|62508|2016
+COL|Burling|Bobby|D|110000|116000|2016
+MTL|Bush|Evan|GK|117500|117500|2016
+VAN|Bustos|Marco|M|62500|67350|2016
+MTL|Cabrera|Victor|D|250000|250000|2016
+NE|Caldwell|Scott|M|1e+05|110000|2016
+CHI|Calistri|Joey|M|51500|51500|2016
+COL|Calvert|Caleb|F|75000|82500|2016
+MTL|Camara|Hassoun|D|180000|180000|2016
+CHI|Campbell|Jonathan|D|70000|78125|2016
+NE|Cande|Mamadu|D|75000|82287.5|2016
+VAN|Carducci|Marco|GK|63000|63000|2016
+ORL|Carrasco|Servando|M|95000|99625|2016
+PHI|Carroll|Brian|M|120000|128000|2016
+CLB|Casey|Conor|F|105000|105000|2016
+COL|Castillo|Dennis|D|51500.04|51500.04|2016
+DAL|Castillo|Fabian|M-F|155750|170750|2016
+SJ|Cato|Cordell|M|112500|114166.67|2016
+SJ|Ceren|Darwin|M|150000|199375|2016
+NYCFC|Chanot|Maxime|D|350004|383004|2016
+TOR|Chapman|Jay|M|75000|93500|2016
+POR|Chara|Diego|M|150000|172000|2016
+TOR|Cheyrou|Benoit|M|150000|159333.33|2016
+MTL|Choiniere|David|M|51500|51500|2016
+MTL|Ciman|Laurent|D|630000|661666.67|2016
+CLB|Clark|Steve|GK|220000|238333.33|2016
+HOU|Clark|Ricardo|M|319200|356700|2016
+CHI|Cocis|Razvan|M|160000|160000|2016
+KC|Coelho|Nuno|D|275000|412500|2016
+LA|Cole|Ashley|D|3e+05|327625|2016
+NYRB|Collin|Aurelien|D|5e+05|525000|2016
+SJ|Colvey|Kip|D|51499.92|51499.92|2016
+PHI|Conceicao|Anderson|D|150000|174166.67|2016
+CHI|Conner|Drew|M|62500|62500|2016
+TOR|Cooper|Armando|M|180000|193333.33|2016
+DAL|Craft|Coy|F-M|70000|87083.33|2016
+PHI|Creavalle|Warren|M|118000|125666.67|2016
+MTL|Crepeau|Maxime|GK|52500|52500|2016
+COL|Cronin|Sam|M|225000|227500|2016
+NE|Cropper|Cody|F|62508|62508|2016
+LA|Da Silva|Leonardo|D|160000|165000|2016
+NYRB|Damari|Omer|F|228499.92|228499.92|2016
+DAL|David|Aubrey|D|62508|83674.67|2016
+PHI|Davies|Charlie|F|108937.5|113315.63|2016
+VAN|Davies|Alphonso|M|62499.96|62499.96|2016
+KC|Davis|Brad|M|355000|355000|2016
+NYRB|Davis|Sean|M|90000|107500|2016
+SJ|Dawkins|Simon|M|8e+05|8e+05|2016
+VAN|de Jong|Marcel|D-M|62499.96|62499.96|2016
+CHI|De Leeuw|Michael|F|450000|514212.5|2016
+VAN|Dean|Christian|D|110000|191000|2016
+LA|DeLaGarza|AJ|D|225000|227500|2016
+DC|DeLeon|Nick|M|235000|235000|2016
+TOR|Delgado|Marco|M|1e+05|102500|2016
+SEA|Dempsey|Clint|F|3913008|4605941.5|2016
+HOU|Deric|Tyler|GK|170000|170000|2016
+MTL|Dia|Amadou|D|51500|51500|2016
+DAL|Diaz|Mauro|M|466000|562890|2016
+LA|Diop|Clement|GK|62500|62500|2016
+NYCFC|Diskerud|Mix|M|761250|761250|2016
+MTL|Donadel|Marco|M|350000|386666.67|2016
+LA|Donovan|Landon|F|456000|456000|2016
+ORL|Donovan|Conor|D|90000|118000|2016
+CHI|Doody|Patrick|D|53471|53471|2016
+LA|Dos Santos|Giovani|F|2500000|4250000|2016
+COL|Doyle|Conor|F|66000|67250|2016
+COL|Doyle|Kevin|F|1075000|1120000|2016
+MTL|Drogba|Didier|F|1666667|2191667|2016
+CLB|Duka|Dilly|M|62508|62508|2016
+DC|Durkin|Chris|D-M|51504|60670.67|2016
+NYRB|Duvall|Chris|D|63000|63000|2016
+KC|Dwyer|Dom|F|5e+05|618750|2016
+DC|Dykstra|Andrew|GK|75000|85700|2016
+|Ebobisse|Jeremy|F|53000.04|96000.04|2016
+VAN|Edgar|David|D|105000|113416.67|2016
+PHI|Edu|Maurice|M|725000|793750|2016
+ORL|Edwards|Earl|GK|52500|52500|2016
+KC|Ellis|Kevin|D|72000|75150|2016
+SJ|Emeghara|Innocent|F|988000|1300000|2016
+TOR|Endoh|Tsubasa|F|51500|51500|2016
+HOU|Escalante|Jose|M|51499.92|51499.92|2016
+KC|Espinoza|Roger|M|8e+05|8e+05|2016
+NYRB|Etienne|Derrick|M|51500|56500|2016
+SEA|Evans|Brad|D-M|276665|315166.25|2016
+PHI|Fabinho|Fabinho|D|142008|150008|2016
+NE|Fagundez|Diego|M|145000|165000|2016
+SEA|Farfan|Michael|M|80000|80000|2016
+NE|Farrell|Andrew|D|148500|229500|2016
+KC|Feilhaber|Benny|M|4e+05|412187.5|2016
+PHI|Fernandes|Leo|M|63000|63000|2016
+CHI|Fernandez|Collin|M|75000|77000|2016
+RSL|Fernandez|Eduardo|GK|63000|63000|2016
+SEA|Fernandez|Alvaro|M|264000|294000|2016
+DAL|Figueroa|Maynor|D|115000|138333.33|2016
+CLB|Finlay|Ethan|M|250000|250000|2016
+MTL|Fisher|Kyle|D|65000|73375|2016
+SEA|Fisher|Oniel|M-D|62500|62500|2016
+VAN|Flores|Deybi|M|62500|68385|2016
+CLB|Francis|Waylon|D|2e+05|224375|2016
+SJ|Francis|Shaun|D|95000|103333.33|2016
+DC|Franklin|Sean|D|225000|256666.67|2016
+SEA|Frei|Stefan|GK|2e+05|206250|2016
+SEA|Friberg|Erik|M|240000|262500|2016
+VAN|Froese|Kianz|M|66000|70500|2016
+PHI|Gaddis|Raymon|D|150000|152500|2016
+MTL|Gagnon-Lapare|Jeremy|M|51500|51500|2016
+HOU|Garcia|Boniek|M|225000|247500|2016
+HOU|Garcia|Kevin|D|62508|62508|2016
+LA|Garcia|Rafael|M|75000|75000|2016
+ORL|Garcia|Devron|M-F|62500|70937.5|2016
+RSL|Garcia|Olmes|F|160000|160000|2016
+|Gargan|Dan|D|145000|145000|2016
+COL|Gashi|Shkelzen|F|1575000|1668750|2016
+CHI|Gehrig|Eric|D|106875|112708.33|2016
+LA|Gerrard|Steven|M|6e+06|6132500|2016
+TOR|Giovinco|Sebastian|F|5600000|7115555.67|2016
+RSL|Glad|Justen|D|1e+05|111000|2016
+POR|Gleeson|Jake|GK|91556|96722.67|2016
+SJ|Godoy|Anibal|M|216000|242250|2016
+SJ|Goitom|Henok|F|682800|729300|2016
+NYCFC|Gomez|Shannon|D|51500.04|51500.04|2016
+SEA|Gomez|Herculez|F|62500.08|62500.08|2016
+NE|Goncalves|Jose|D|450000|479375|2016
+DAL|Gonzalez|Jesse|GK|67500|76875|2016
+SJ|Goodson|Clarence|D|315000|342000|2016
+CHI|Goossens|John|M|2e+05|203333.33|2016
+LA|Gordon|Alan|F|170000|170000|2016
+POR|Grabavoy|Ned|M|150000|150000|2016
+COL|Greenspan|Joseph|D|51500.04|52969.12|2016
+NYRB|Grella|Mike|F|155000|157250|2016
+DAL|Gruezo|Carlos|M|450000|686500|2016
+DAL|Guillen|Aaron|D|51500|51500|2016
+TOR|Hagglund|Nick|D|63000|63000|2016
+COL|Hairston|Marlon|D-M|90000|113000|2016
+KC|Hallisey|Connor|M|63000|76750|2016
+DC|Hamid|Bill|GK|325000|370500|2016
+POR|Hamilton|Wade|GK|51504|51504|2016
+TOR|Hamilton|Jordan|F|66150|78650|2016
+CHI|Harrington|Michael|D|125000|125000|2016
+DAL|Harris|Atiba|M-F|143000|143000|2016
+NYCFC|Harrison|Jack|M|125000|160500|2016
+VAN|Harvey|Jordan|D|165000|165000|2016
+ORL|Heath|Harrison|M|63000|63000|2016
+DAL|Hedges|Matt|D|152000|152000|2016
+PHI|Herbers|Fabian|M-F|1e+05|125500|2016
+NE|Herivaux|Zachary|M|62500|62500|2016
+DAL|Herman|Ryan|GK|62508|62508|2016
+DAL|Hernandez|Moises|D|1e+05|105000|2016
+NYCFC|Hernandez|Jason|D|2e+05|210000|2016
+CLB|Higuain|Federico|M|1175000|1175000|2016
+ORL|Higuita|Cristian|M|80000|80000|2016
+ORL|Hines|Sebastian|D|150000|151250|2016
+NE|Hollinger-Janzen|Femi|F|51500.04|51500.04|2016
+DAL|Hollingshead|Ryan|M-D|122500|122500|2016
+CLB|Hollingsworth|Marshall|M|51499.92|51499.92|2016
+RSL|Holness|Omar|F|1e+05|123500|2016
+HOU|Horst|David|D|88593.75|91343.75|2016
+DC|Horton|Charlie|GK|69999.96|76166.63|2016
+COL|Howard|Tim|GK|2100000|2575000|2016
+VAN|Hurtado|Erik|F/M|86091.5|121091.5|2016
+LA|Husidic|Baggio|M|150000|150000|2016
+HOU|Ibeagha|Sebastien|D|62500|62500|2016
+DC|Igboananike|Kennedy|F|8e+05|901666.67|2016
+PHI|Ilsinho|Ilsinho|M|430000|478333.33|2016
+SJ|Imperiale|Andres|D|85000|87500|2016
+HOU|Iniguez|Agustin|D|132000|132000|2016
+NYCFC|Iraola|Andoni|D|200004|200004|2016
+TOR|Irwin|Clint|GK|95625|107625|2016
+SEA|Ivanschitz|Andreas|M|250000|271250|2016
+MTL|Jackson-Hamel|Anthony|F|63000|63000|2016
+VAN|Jacobson|Andrew|M|62500.08|87500.08|2016
+CLB|Jahn|Adam|F|67500|67500|2016
+LA|Jamieson|Bradford|F|63000|63000|2016
+DC|Jeffrey|Jared|M|71662.5|77862.5|2016
+POR|Jewsbury|Jack|M|140000|147000|2016
+CLB|Jimenez|Hector|M|105000|105000|2016
+NYCFC|Johansen|Eirik|GK|62500|62500|2016
+CHI|Johnson|Sean|GK|250000|253000|2016
+TOR|Johnson|Will|M|375000|395333.33|2016
+ATL|Jones|Kenwyne|F|62508|85841.33|2016
+COL|Jones|Jermaine|M|6e+05|650000|2016
+PHI|Jones|Derrick|M|51504|57404|2016
+PHI|Jones|Matt|GK|75000|80625|2016
+SEA|Jones|Darwin|F|62500|68750|2016
+SEA|Jones|Joevin|D|70000|76166.67|2016
+KC|Joya|Benjamin|M|51504|51504|2016
+ORL|Kaka||M|6660000|7167500|2016
+CLB|Kamara|Ola|F|425000|457500|2016
+DC|Kamara|Alhaji|F|51500.04|59750.04|2016
+NE|Kamara|Kei|F|1e+06|1e+06|2016
+KC|Kann|Alec|GK|63000|63000|2016
+CHI|Kappelhof|Johan|D|480000|520000|2016
+RSL|Kavita|Phanuel|D|51500|51500|2016
+LA|Keane|Robbie|F|3500000|3500000|2016
+DC|Kemp|Taylor|D|1e+05|1e+05|2016
+KC|Kempin|Jonathan|GK|82750|82750|2016
+LA|Kennedy|Dan|GK|180000|195400|2016
+NYRB|Kljestan|Sacha|M|550000|687500|2016
+POR|Klute|Chris|D|86625|91921.8|2016
+NE|Knighton|Brad|GK|86105.25|86105.25|2016
+NE|Kobayashi|Daigo|M|120000|132000|2016
+NE|Koffie|Gershon|M|250000|261000|2016
+POR|Konopka|Chris|GK|62499.96|64999.96|2016
+DC|Korb|Chris|D|108900|116379.83|2016
+NE|Kouassi|Xavier|M|840000|890541.75|2016
+SEA|Kovar|Aaron|M|63000|63200|2016
+PHI|Kratz|Kevin|M|62508|76758|2016
+MTL|Kronberg|Eric|GK|145200|145200|2016
+VAN|Kudo|Masato|F|310000|370000|2016
+VAN|Laba|Matias|M|560000|720500|2016
+CHI|LaBrocca|Nick|M|110000|110000|2016
+NYRB|Lade|Connor|D|62500|65312.5|2016
+NYCFC|Lampard|Frank|M|6e+06|6e+06|2016
+CHI|Lampson|Matt|GK|71250|76625|2016
+LA|Larentowicz|Jeff|M|175000|175000|2016
+ORL|Larin|Cyle|F|135000|177000|2016
+ORL|Laryea|Richmond|M|125000|154000|2016
+LA|Lassiter|Ariel|F|51500|51500|2016
+NYRB|Lawrence|Kemar|D|1e+05|205600|2016
+COL|Le Toux|Sebastien|F-M|3e+05|310228.13|2016
+MTL|Lefevre|Wandrille|D|63000|63000|2016
+SJ|Lenhart|Steven|F|170000|179083.33|2016
+VAN|Levis|Brett|D|62499.96|64999.96|2016
+DAL|Lizarazo|Carlos|M-F|62508|130633|2016
+LA|Lletget|Sebastian|M|110000|115500|2016
+SEA|Lodeiro|Nicolas|M|1371428.52|1743428.52|2016
+NYRB|Long|Aaron|D|51504|51504|2016
+NYCFC|Lopez|Mikey|M|51500|51500|2016
+HOU|Lovejoy|Rob|M|52500|52500|2016
+TOR|Lovitz|Daniel|M|63000|63000|2016
+SEA|Lowe|Damion|D|66412.5|77412.5|2016
+DAL|Loyd|Zach|D|2e+05|221666.67|2016
+HOU|Lucatero|Christian|M|51500|51750|2016
+SEA|Lyon|Charlie|GK|52500|52500|2016
+CLB|Mabwati|Cedrick|M|235000|263350|2016
+COL|MacMath|Zac|GK|140004|140004|2016
+LA|Magee|Mike|M|250000|250000|2016
+HOU|Maidana|Cristian|M|223850|237600|2016
+MTL|Mallace|Calum|M|1e+05|116250|2016
+DC|Mancini|Andrea|F|82500|82500|2016
+MTL|Mancosu|Matteo|F|189000|189000|2016
+VAN|Manneh|Kekuta|M-F|127500|157000|2016
+TOR|Mannella|Chris|M|63000|63000|2016
+|Manning|Anthony|D|52500|52500|2016
+HOU|Manotas|Mauro|F|85000|85000|2016
+HOU|Mansally|Kenny|D|77500|84000|2016
+SEA|Mansaray|Victor|F|62500|66000|2016
+KC|Mapp|Justin|M|224070|239070|2016
+PHI|Marquez|Richard|D|63000|69400|2016
+SEA|Marshall|Chad|D|325000|341250|2016
+DC|Martin|Collin|M|75000|89166.67|2016
+CLB|Martinez|Cristian|M|62508|67008|2016
+NYCFC|Martinez|Diego|D|135000|135000|2016
+RSL|Martinez|Juan Manuel|F|1060000|1458666.67|2016
+NYRB|Martins|Felipe|M|250000|280000|2016
+NYCFC|Matarrita|Ronald|D|150000|175000|2016
+POR|Mattocks|Darren|F|215000|231666.67|2016
+RSL|Maund|Aaron|D|85000|88449.5|2016
+LA|McBean|Jack|F|62499.96|62499.96|2016
+ATL|McCann|Chris|M|62508|90508|2016
+PHI|McCarthy|John|GK|79000|88250|2016
+NYRB|McCarty|Dax|M|4e+05|5e+05|2016
+NE|McCrary|Jordan|D|62500|62500|2016
+POR|McInerney|Jack|F|270000|270000|2016
+VAN|McKendry|Ben|M|52500|52500|2016
+CHI|McLain|Patrick|GK|72500|72500|2016
+NYCFC|McNamara|Thomas|M|73500|85000|2016
+NYRB|Meara|Ryan|GK|75246.15|76496.15|2016
+SEA|Mears|Tyrone|D|175000|184000|2016
+KC|Medranda|Jimmy|D|63000|63000|2016
+CHI|Meira|Joao|D-M|110000|126500|2016
+POR|Melano|Lucas|F|760000|980000|2016
+KC|Melia|Tim|GK|150000|152500|2016
+NYCFC|Mena|Jefferson|D|220000|231400|2016
+LA|Mendiola|Raul|F|62500|62500|2016
+NYCFC|Mendoza|Stiven|F|207276|207276|2016
+CLB|Meram|Justin|M|175000|185000|2016
+SJ|Meredith|Bryan|GK|63000|63000|2016
+VAN|Mezquida|Nicolas|M-F|88000|88000|2016
+COL|Miller|Eric|D|66412.5|77412.5|2016
+SEA|Miller|Tyler|GK|62508|62508|2016
+DC|Mishu|Luke|D|62500|62500|2016
+PHI|Missimo|Cole|M|51500|51500|2016
+POOL|Mitchell|Trey|GK|62500|62500|2016
+ORL|Molino|Kevin|M|110000|121400|2016
+HOU|Monteiro de Lima|Alex|M|152000|152000|2016
+TOR|Moor|Drew|D|235000|250000|2016
+|Moore|Luke|F|115000|137500|2016
+RSL|Morales|Javier|M|590000|590000|2016
+VAN|Morales|Pedro|M|1232500|1471400|2016
+TOR|Morgan|Ashtone|D|120000|132000|2016
+CHI|Morrell|Alex|M|51500|51500|2016
+SEA|Morris|Jordan|F|178000|190500|2016
+TOR|Morrow|Justin|D|2e+05|216666.67|2016
+RSL|Movsisyan|Yura|F|2e+05|2e+05|2016
+RSL|Mulholland|Luke|M|160008|160008|2016
+DC|Mullins|Patrick|F|96250|126250|2016
+KC|Mustivar|Soni|M|2e+05|2e+05|2016
+NYRB|Muyl|Alex|F|62500|66500|2016
+KC|Myers|Chance|D|2e+05|225000|2016
+CLB|Naess|Nicolai|D|200004|207504|2016
+KC|Nagamura|Paulo|M|225000|225000|2016
+POR|Nagbe|Darlington|M/F|5e+05|515000|2016
+DC|Neagle|Lamar|M-F|185000|187833.33|2016
+NE|Neumann|Steve|M-F|62500|62500|2016
+NE|Nguyen|Lee|M|5e+05|5e+05|2016
+ORL|Nocerino|Antonio|M|6e+05|650000|2016
+DC|Nyarko|Patrick|F-M|210000|225750|2016
+SJ|Nyassi|Sanna|M|135000|141250|2016
+ATL|Oblitey Otoo|Jeffrey|M-F|51504|51504|2016
+SEA|Ockford|Jimmy|D|63000|63000|2016
+MTL|Oduro|Dominic|F|235000|235000|2016
+POR|Okugo|Amobi|D-M|3e+05|325000|2016
+RSL|Okwuonu|Boyd|D|66000|86000|2016
+RSL|Olave|Jamison|D|215000|215000|2016
+KC|Olum|Lawrence|M|105000|115000|2016
+MTL|Ontivero|Lucas|M|380000|440000|2016
+KC|Opara|Ike|D|125000|131250|2016
+DC|Opare|Kofi|D|90000|105000|2016
+DAL|Ortiz|Juan Esteban|M|160000|204500|2016
+TOR|Osorio|Jonathan|M|166750|174570.68|2016
+NYRB|Ouimette|Karl|D|63000|63000|2016
+VAN|Ousted|David|GK|360000|378933.33|2016
+CLB|Pacifici|Matt|GK|51499.92|51499.92|2016
+KC|Palmer-Brown|Erik|D|65000|65500|2016
+DAL|Paparatto|Norberto|D|174999.96|174999.96|2016
+COL|Pappa|Marco|M|110000|110000|2016
+VAN|Parker|Tim|D|66000|84750|2016
+CLB|Parkhurst|Michael|D|275000|3e+05|2016
+POR|Peay|Taylor|D|53472|53472|2016
+SJ|Pelosi|Marc|M|72000|84500|2016
+ORL|Perez|Matias|F|250000|250000|2016
+VAN|Perez|Blas|F|215000|225750|2016
+NYRB|Perrinelle|Damien|D|140000|140000|2016
+KC|Peterson|Jacob|F|137750|144625|2016
+COL|Pfeffer|Zach|M|101000|101000|2016
+RSL|Phillips|Demar|D|127500|135333.33|2016
+MTL|Piatti|Ignacio|M|425000|425000|2016
+NYCFC|Pirlo|Andrea|M|5600000|5915690|2016
+DAL|Pitter|Timo|M-F|51504|51504|2016
+RSL|Plata|Joao|F|175000|175000|2016
+POR|Polk|Ben|F|62500|68750|2016
+CHI|Polster|Matt|M|84000|99000|2016
+DAL|Pomykal|Paxton|M|51504|56504|2016
+PHI|Pontius|Chris|M-F|380000|411000|2016
+KC|Porter|Cameron|F|62500|69750|2016
+POR|Powell|Alvas|D|95000|103700|2016
+COL|Powers|Dillon|M|270000|3e+05|2016
+SJ|Quintero|Alberto|M|169992|190717|2016
+ORL|Ramajo|David Mateos|D|420000|453333.33|2016
+COL|Ramirez|Juan Edgardo|M|85000|85000|2016
+CHI|Ramos|Rodrigo|D|80000|84000|2016
+ORL|Ramos|Rafael|D|96000|96000|2016
+NYCFC|Rawls|Andre|GK|62508|62508|2016
+ORL|Redding|Tommy|D|95000|102500|2016
+SEA|Remick|Dylan|D|63000|63000|2016
+PHI|Restrepo|Walter|M|125000|139500|2016
+NYRB|Reynish|Kyle|GK|62500|62500|2016
+ORL|Ribeiro|Pedro|M-F|63000|63000|2016
+TOR|Ricketts|Tosaint|F|63000|81333.33|2016
+POR|Ridgewell|Liam|D|1100000|1140000|2016
+RSL|Rimando|Nick|GK|4e+05|420000|2016
+ORL|Rivas|Carlos|M|80000|80000|2016
+TOR|Roberts|Quillan|GK|63000|63000|2016
+DC|Robinson|Jalen|D|75000|87000|2016
+NYRB|Robles|Luis|GK|265000|267500|2016
+ORL|Rocha|Tony|M|62496|62496|2016
+ORL|Rochez|Bryan|F|180000|259500|2016
+HOU|Rodriguez|Raul|D|350000|379333.33|2016
+LA|Rogers|Robbie|M|220000|228500|2016
+SEA|Roldan|Cristian|M|95000|117000|2016
+DC|Rolfe|Chris|F|257500|272500|2016
+MTL|Romero|Andres|M|110000|110000|2016
+LA|Romney|David|D|63000|63000|2016
+DAL|Rosales|Mauro|M|62500|62500|2016
+PHI|Rosenberry|Keegan|D|62500|68312.5|2016
+LA|Rowe|Brian|GK|80000|80000|2016
+NE|Rowe|Kelyn|M|160000|241000|2016
+NYRB|Royer|Daniel|M|375000|375000|2016
+KC|Rubio Kostner|Diego|F|180000|196875|2016
+DAL|Ruiz|Carlos|F|72000|72000|2016
+DC|Saborio|Alvaro|F|420000|535500|2016
+CLB|Saeid|Mohammed|M|110000|120000|2016
+MTL|Salazar|Michael|F|51492|51492|2016
+SJ|Salinas|Shea|M|163125|166458.33|2016
+KC|Salloi|Daniel|F|51500|51500|2016
+DC|Sam|Lloyd|M-F|230000|240000|2016
+RSL|Sandoval|Devon|F|67500|67500|2016
+PHI|Sapong|CJ|F|225000|225000|2016
+CLB|Saravia|Rodrigo|M|51504|51504|2016
+SJ|Sarkodie|Kofi|D|62500|62500|2016
+DC|Sarvas|Marcelo|M|360000|425000|2016
+RSL|Saucedo|Sebastian|M|62500|73000|2016
+NYCFC|Saunders|Josh|GK|150000|150000|2016
+CLB|Sauro|Gaston|D|585000|601312.5|2016
+RSL|Schuler|Chris|D|62499.96|67499.96|2016
+SEA|Scott|Zach|D|62500|62500|2016
+VAN|Seiler|Cole|D|51500|51500|2016
+DAL|Seitz|Chris|GK|136000|136000|2016
+COL|Serna|Dillon|M|66000|79000|2016
+ORL|Shea|Brek|M-D|550000|595000|2016
+NYCFC|Shelton|Khiry|F|77000|94500|2016
+SJ|Sherrod|Mark|F|63000|63000|2016
+MTL|Shipp|Harrison|M|104500|129500|2016
+NE|Shuttleworth|Robert|GK|137500|154375|2016
+SJ|Silva|Matheus|M|52500|52500|2016
+TOR|Simonin|Clement|D|63000|63000|2016
+KC|Sinovic|Seth|D|105000|112666.67|2016
+COL|Sjoberg|Axel|D|66000|81000|2016
+NE|Smith|Donnie|M|63000|63000|2016
+VAN|Smith|Jordan|D|115000|122743|2016
+CHI|Solignac|Luis|F|85000|85000|2016
+LA|Sorto|Oscar|D|63000|64875|2016
+COL|St. Ledger|Sean|D|191875|194375|2016
+ORL|Stajduhar|Mason|GK|51500|51500|2016
+CLB|Steffen|Zack|GK|100008|100008|2016
+HOU|Steinberger|Zach|M|63000|79250|2016
+CHI|Stephens|Michael|M|105000|115000|2016
+LA|Steres|Daniel|D|62500|65086.04|2016
+RSL|Stertzer|John|M|66000|75166.67|2016
+SJ|Stewart|Jordan|M-D|1e+05|1e+05|2016
+SEA|Sturgis|Nathan|M|62508|62508|2016
+CLB|Stuver|Brad|GK|63000|63000|2016
+RSL|Sunday|Stephen|M|220000|233000|2016
+CLB|Swanson|Ben|M|70000|90416.67|2016
+ATL|Tambakis|Alexander|GK|63000|63000|2016
+SJ|Tarbell|Andrew|GK|70000|84000|2016
+NYCFC|Taylor|Tony|F|82500|91875|2016
+POR|Taylor|Jermaine|D|150000|150000|2016
+POR|Taylor|Steven|D|3e+05|319583.33|2016
+CLB|Tchani|Tony|M|250000|283333.33|2016
+VAN|Techera|Cristian|M|320000|345000|2016
+VAN|Teibert|Russell|M|115000|182500|2016
+CHI|Thiam|Khaly|M|144000|149000|2016
+POR|Thoma|Andy|D|62500|64000|2016
+SJ|Thompson|Tommy|M|150000|155000|2016
+NE|Tierney|Chris|D-M|125000|133333.33|2016
+MTL|Toia|Donny|D|67500|67500|2016
+VAN|Tornaghi|Paolo|GK|62500|62500|2016
+HOU|Torres|Erick|F|575000|590000|2016
+SEA|Torres|Roman|D|416000|491812.5|2016
+CLB|Trapp|Wil|M|151250|178250|2016
+PHI|Tribbett|Ken|D|51500|51500|2016
+PHI|Trusty|Auston|D|51500.04|80600.04|2016
+|Tshuma|Schillo|F|81999.96|119999.96|2016
+NE|Turner|Matt|GK|51500.04|51500.04|2016
+ORL|Turner|Tyler|D|63000|63000|2016
+DAL|Ulloa|Victor|M|130000|132500|2016
+DAL|Urruti|Maximiliano|F|250000|250000|2016
+SEA|Valdez|Nelson|F|1200000|1455000|2016
+POR|Valentin|Zarek|D|90000|90000|2016
+POR|Valeri|Diego|M|225000|605000|2016
+LA|Van Damme|Jelle|D|425000|468750|2016
+RSL|Velazco|Ricardo|F|62508|62508|2016
+MTL|Venegas|Johan|M|2e+05|212500|2016
+NYRB|Veron|Gonzalo|M-F|5e+05|5e+05|2016
+NYCFC|Villa|David|F|5610000|5610000|2016
+ATL|Villalba|Hector|F|62508|170258|2016
+LA|Villarreal|Jose|F|90000|90000|2016
+CHI|Vincent|Brandon|D|70000|91875|2016
+DC|Vincent|Rob|M-F|62508|62508|2016
+CLB|Wahl|Tyson|D|115000|115000|2016
+HOU|Warner|Collen|M|146933.85|174433.85|2016
+PHI|Washington|Taylor|D|51500|51500|2016
+VAN|Waston|Kendall|D|3e+05|318125|2016
+NE|Watson|Je-Vaughn|D-M|110004|115670.67|2016
+COL|Watts|Jared|D-M|68000|68000|2016
+RSL|Welshman|Emery|F|62500|62500|2016
+HOU|Wenger|Andrew|M|190000|190000|2016
+NYCFC|White|Ethan|D|62500|62500|2016
+COL|Williams|Mekeil|D|85000|90000|2016
+HOU|Williams|Sheanon|D|162500|171500|2016
+MTL|Williams|Romario|F|75000|97000|2016
+TOR|Williams|Josh|D|131250|131250|2016
+HOU|Willis|Joe|GK|94500|94500|2016
+RSL|Wingert|Chris|D|235000|235000|2016
+SJ|Wondolowski|Chris|F|650000|7e+05|2016
+NE|Woodberry|London|D|63000|63000|2016
+DC|Worra|Travis|GK|53472|53472|2016
+NYRB|Wright-Phillips|Bradley|F|650000|715000|2016
+NYRB|Wright-Phillips|Shaun|M|1e+05|125500|2016
+SJ|Wynne|Marvell|D|213750|224375|2016
+PHI|Yaro|Joshua|D|130000|194000|2016
+LA|Zardes|Gyasi|F|472500|472500|2016
+TOR|Zavaleta|Eriq|D|93500|124100|2016
+POR|Zemanski|Ben|M|85000|89000|2016
+DAL|Zimmerman|Walker|D|174000|174000|2016
+NYRB|Zizzo|Sal|M|105000|105000|2016
+NYRB|Zubar|Ronald|D|240000|320000|2016
+KC|Zusi|Graham|M|7e+05|732102.27|2016
+NY|Abang|Anatole|F|50000|50000|2015
+KC|Abdul-Salaam|Saad|D|60000|73750|2015
+CHI|Accam|David|F|650000|720937.5|2015
+DAL|Acosta|Kellyn|M|60000|84000|2015
+VAN|Adekugbe|Samuel|D|60000|65000|2015
+POR|Adi|Fanendo|F|651500|664000|2015
+CLB|Afful|Harrison|D|150000|150000|2015
+NE|Agudelo|Juan|F|4e+05|427500|2015
+DC|Aguilar|Miguel|M|60000|60000|2015
+DAL|Akindele|Tesho|F|70000|87500|2015
+SJ|Alashe|Fatai|M|60000|76250|2015
+HOU|Alex||M|142000|142000|2015
+MTL|Alexander|Eric|M|140000|153750|2015
+NYCFC|Allen|RJ|D|60000|60000|2015
+RSL|Allen|Jordan|M/F|80000|90000|2015
+SEA|Alonso|Osvaldo|M|748000|789667|2015
+NE|Alston|Kevin|D|140000|158333.33|2015
+TOR|Altidore|Jozy|F|4750000|4750000|2015
+COL|Alvarez|Carlos|M|70000|70000|2015
+NYCFC|Alvarez|Pablo|M|60000|63045.09|2015
+SJ|Amarikwa|Quincy|F|1e+05|1e+05|2015
+KC|Anibaba|Jalil|D|120000|150000|2015
+KC|Anor|Bernardo|M|135000|135000|2015
+TOR|Aparicio|Manuel|M|60000|60000|2015
+PHI|Aristeguieta|Fernando|F|350004|350004|2015
+DC|Arnaud|Davy|M|212500|212500|2015
+DC|Arrieta|Jairo|F|150000|165000|2015
+ORL|Ashe|Corey|M|180000|189750|2015
+POR|Asprilla|Dairon|F|60000|60000|2015
+RSL|Attinella|Jeff|GK|60000|65083.33|2015
+ORL|Avila|Eric|M|72000|77000|2015
+PHI|Ayuk|Eric|M|50000|50000|2015
+SEA|Azira|Michael|D|60000|62826.88|2015
+COL|Badji|Dominique|F|50000|50000|2015
+NYCFC|Ballouchy|Mehdi|M|68250|83250|2015
+HOU|Barnes|Giles|M|247500|258375|2015
+NE|Barnes|Darrius|D|95000|101666.67|2015
+PHI|Barnetta|Tranquillo|M|624000|661500|2015
+SJ|Barrera|Leandro|F|60000|60000|2015
+SEA|Barrett|Chad|F|95000|1e+05|2015
+DAL|Barrios|Michael|M|60000|60000|2015
+CLB|Barson|Chad|D|60000|60000|2015
+HOU|Beasley|DaMarcus|D|750000|813333.33|2015
+RSL|Beckerman|Kyle|M|625000|7e+05|2015
+ORL|Bedell|Adam|F|60000|60000|2015
+SEA|Bedinelli|Thomas|M|108000|133125|2015
+VAN|Beitashour|Steven|D|190000|197166.67|2015
+MTL|Bekker|Kyle|M|61765|88015|2015
+RSL|Beltran|Anthony|D|195000|205950|2015
+TOR|Bendik|Joe|GK|150000|157375|2015
+SJ|Bernardez|Victor|D|2e+05|241600|2015
+COL|Berner|John|GK|60000|60000|2015
+MTL|Bernier|Patrice|F-M|90000|135000|2015
+PHI|Berry|Austin|D|93519|108519|2015
+KC|Besler|Matt|D|650000|683250|2015
+POR|Besler|Nick|M|65000|81250|2015
+SJ|Bingham|David|GK|130000|137750|2015
+PHI|Bird|Eric|M|60000|60000|2015
+DC|Birnbaum|Steven|D|66000|96000|2015
+MTL|Bitolo|Ambroise|D|1e+05|1e+05|2015
+PHI|Blake|Andre|GK|85000|123000|2015
+TOR|Bloom|Mark|D|90000|97348.89|2015
+ORL|Boden|Luke|D|75000|75000|2015
+HOU|Boniek Garcia|Oscar|F|245000|303750|2015
+TOR|Bono|Alex|GK|60000|80200|2015
+POR|Borchers|Nat|D|235000|245000|2015
+DC|Boswell|Bobby|D|2e+05|2e+05|2015
+TOR|Bradley|Michael|M|6e+06|6500000|2015
+NYCFC|Brandt|Connor|M|50000|50000|2015
+NYCFC|Brovsky|Jeb|M|122500|129125|2015
+HOU|Bruin|Will|F|140000|185000|2015
+CHI|Bryce|Kingsley|M|50000|50000|2015
+LA|Buddle|Edson|F|1e+05|106250|2015
+NE|Bunbury|Teal|F|195000|240000|2015
+COL|Burch|Marc|D|110000|110000|2015
+COL|Burling|Bobby|D|132500|140000|2015
+CHI|Busch|Jon|GK|85000|90000|2015
+MTL|Bush|Evan|GK|1e+05|1e+05|2015
+VAN|Bustos|Marco|M|50000|54850|2015
+MTL|Cabrera|Victor|D|60000|60000|2015
+NE|Caldwell|Scott|M|60000|67500|2015
+NYCFC|Calle|Javier|M|2e+05|225750|2015
+COL|Calvert|Caleb|F|65000|72500|2015
+MTL|Camara|Hassoun|D/M|235000|246625|2015
+CLB|Campbell|Sergio|D/M|50000|52500|2015
+VAN|Carducci|Marco|GK|60000|60000|2015
+ORL|Carrasco|Servando|M|80750|85375|2015
+PHI|Carreiro|Fred|M|60000|60000|2015
+PHI|Carroll|Brian|M|150000|150000|2015
+ORL|Cascio|Tony|M|78529|112279|2015
+PHI|Casey|Conor|F|180000|180000|2015
+NY|Castano|Santiago|GK|60000|60000|2015
+DAL|Castillo|Fabian|F|145000|160000|2015
+PHI|Catic|Dzenan|F|60000|75000|2015
+SJ|Cato|Cordell|F|60000|60000|2015
+ORL|Ceren|Darwin|M|66000|96437.5|2015
+TOR|Chapman|Jay|M|70000|88500|2015
+POR|Chara|Diego|M|170000|170000|2015
+TOR|Cheyrou|Benoit|M|249999.96|259333.29|2015
+MTL|Ciman|Laurent|D|370000|401666.67|2015
+DAL|Cirigliano|Ezequiel|M|124999.92|167999.92|2015
+CLB|Clark|Steve|GK|170000|188333.33|2015
+HOU|Clark|Ricardo|M|304000|337750|2015
+VAN|Clarke|Caleb|F|60000|60000|2015
+HOU|Cochran|AJ|D|60375|76375|2015
+CHI|Cochrane|Greg|D|60000|60000|2015
+CHI|Cocis|Razvan|M|220000|226666.67|2015
+ORL|Collin|Aurelien|D|5e+05|525000|2015
+MTL|Cooper|Kenny|F|220000|285625|2015
+DC|Coria|Facundo|M|60000|70375|2015
+SEA|Correa|Andres|D|60000|68166.67|2015
+DAL|Craft|Coy|F|60000|77083.33|2015
+SEA|Craven|Andy|F|60000|60000|2015
+PHI|Creavalle|Warren|D|108500|119000|2015
+MTL|Crepeau|Maxime|GK|60000|60000|2015
+COL|Cronin|Sam|M|2e+05|202500|2015
+PHI|Cruz|Danny|M|125000|131666.67|2015
+CHI|Cyrus|Daneil|D|72000|77833.33|2015
+NE|Davies|Charlie|F|78750|82759.53|2015
+HOU|Davis|Brad|M|4e+05|445500|2015
+NY|Davis|Sean|M|80000|97500|2015
+KC|de Jong|Marcel|D|180000|191500|2015
+VAN|Dean|Christian|D|95000|176000|2015
+LA|DeLaGarza|AJ|D|2e+05|202500|2015
+DC|DeLeon|Nick|M|116259|151259|2015
+TOR|Delgado|Marco|M|80000|82500|2015
+SEA|Dempsey|Clint|F|3913008|4605941.5|2015
+HOU|Deric|Tyler|GK|105000|112666.67|2015
+KC|Dia|Amadou|D|50000|50000|2015
+DAL|Diaz|Mauro|M|364000|442400|2015
+|Dike|Bright|F|60638|64388|2015
+NYCFC|Diskerud|Mix|M|750000|750000|2015
+MTL|Donadel|Marco|M|190003.92|226670.59|2015
+ORL|Donovan|Conor|D|80000|108000|2015
+CHI|Doody|Patrick|D|50000|50000|2015
+NE|Dorman|Andy|M|145000|145000|2015
+LA|Dos Santos|Giovani|M|4000008|5750008|2015
+COL|Doyle|Kevin|F|1125000|1170000|2015
+DC|Doyle|Conor|F|60000|61250|2015
+MTL|Drogba|Didier|F|1666668|2166668|2015
+MTL|Duka|Dilaver|M|175000|2e+05|2015
+LA|Dunivant|Todd|D|185000|205750|2015
+NY|Duvall|Chris|D|60000|60000|2015
+KC|Dwyer|Dom|F|4e+05|518750|2015
+DC|Dykstra|Andrew|GK|60000|60000|2015
+DAL|Earle|Otis|D|60000|77125|2015
+VAN|Earnshaw|Robert|F|1e+05|1e+05|2015
+PHI|Edu|Maurice|M|7e+05|768750|2015
+ORL|Edwards|Earl|GK|50000|50000|2015
+KC|Ellis|Kevin|D|60000|63150|2015
+COL|Eloundou|Charles|F|60000|65000|2015
+SJ|Emeghara|Innocent|F|988000|1300000|2015
+DAL|Escobar|Rolando|M|180000|185000|2015
+DC|Espindola|Fabian|F|175000|175000|2015
+KC|Espinoza|Roger|M|750000|750000|2015
+SEA|Evans|Brad|F|276665|302666.25|2015
+PHI|Fabinho|Fabinho|D|114000|118500|2015
+NYCFC|Facey|Shay|D|120000|120000|2015
+NE|Fagundez|Diego|F|125000|152200|2015
+DC|Farfan|Michael|M|120000|120000|2015
+NE|Farrell|Andrew|D|117500|198500|2015
+KC|Feilhaber|Benny|M|350000|362187.5|2015
+PHI|Fernandes|Leo|M|60000|60000|2015
+CHI|Fernandez|Collin|M|65000|67000|2015
+RSL|Fernandez|Eduardo|GK|60000|60000|2015
+COL|Figueroa|Maynor|D|99996|99996|2015
+CHI|Filho|Adailton|D|2e+05|244500|2015
+TOR|Findley|Robbie|F|225000|255500|2015
+CLB|Finlay|Ethan|F|135000|142500|2015
+SEA|Fisher|Oniel|D|50000|50000|2015
+VAN|Flores|Deybi|M|60000|60000|2015
+POR|Fochive|George|M|50000|50000|2015
+ORL|Ford|Josh|GK|60000|60000|2015
+CLB|Francis|Waylon|D|144000|170166.67|2015
+SJ|Francis|Shaun|D|60000|62940.32|2015
+DC|Franklin|Sean|D|202500|234166.67|2015
+SEA|Frei|Stefan|GK|165000|165000|2015
+SEA|Friberg|Erik|M|180000|202500|2015
+VAN|Froese|Kianz|M-F|60000|64500|2015
+SJ|Fucito|Michael|MF|60638|63527.8|2015
+PHI|Gaddis|Raymon|D|130000|132500|2015
+MTL|Gagnon-Lapare|Jeremy|M|60000|64000|2015
+CLB|Gall|Romain|M|60000|63420.08|2015
+DAL|Garcia|Danny|M|70000|86000|2015
+LA|Garcia|Rafael|M|60000|60000|2015
+RSL|Garcia|Olmes|F|130000|130000|2015
+LA|Gargan|Dan|D|125000|125000|2015
+HOU|Garrido|Luis|M|150000|150000|2015
+CHI|Gehrig|Eric|M|95000|100833.33|2015
+CLB|George|Kevan|M|60000|60000|2015
+LA|Gerrard|Steven|M|6200004|6332504|2015
+RSL|Gil|Luis|M|240000|335083.33|2015
+TOR|Giovinco|Sebastian|M|5600000|7115555.67|2015
+RSL|Glad|Justen|D|60000|71000|2015
+POR|Gleeson|Jake|GK|72600|72600|2015
+SJ|Godoy|Anibal|M|204000|204000|2015
+SJ|Gomez|Tomas|GK|50000|50000|2015
+TOR|Gomez|Herculez|F|240000|261000|2015
+NE|Goncalves|Jose|D|450000|479375|2015
+TOR|Goncalves|Jackson|D|165000|192500|2015
+DAL|Gonzalez|Jesse|GK|60000|69375|2015
+LA|Gonzalez|Omar|D|1200000|1450000|2015
+SEA|Gonzalez|Leonardo|D|165000|165000|2015
+SJ|Goodson|Clarence|D|315000|342000|2015
+LA|Gordon|Alan|F|175000|175000|2015
+NYCFC|Grabavoy|Ned|M|2e+05|215000|2015
+COL|Greenspan|Joseph|D|50000.04|50000.04|2015
+NY|Grella|Mike|F|60000|60000|2015
+TOR|Hagglund|Nick|D|60000|60000|2015
+COL|Hairston|Marlon|M|80000|103000|2015
+NE|Hall|Jeremy|D|70000|70000|2015
+ORL|Hall|Tally|GK|215000|228500|2015
+KC|Hallisey|Connor|M|60000|73750|2015
+DC|Halsti|Markus|M|275000|336833.33|2015
+DC|Hamid|Bill|GK|360000|405500|2015
+TOR|Hamilton|Jordan|F|63000|75500|2015
+CHI|Harden|Ty|D|71663|75078.2|2015
+COL|Harrington|Michael|M-D|130000|130000|2015
+DAL|Harris|Atiba|M-F|130000|130000|2015
+VAN|Harvey|Jordan|D|150000|150000|2015
+ORL|Heath|Harrison|M|60000|60000|2015
+DAL|Hedges|Matt|D|135000|135000|2015
+NE|Herivaux|Zachary|M|60000|60000|2015
+DAL|Hernandez|Moises|D|60000|61625|2015
+NYCFC|Hernandez|Jason|D|175000|185000|2015
+CLB|Higuain|Federico|M-F|1175000|1175000|2015
+ORL|Higuita|Cristian|M|60000|60000|2015
+ORL|Hines|Sebastian|D|108576|109826|2015
+HOU|Hoffman|Chandler|F|60000|60000|2015
+DAL|Hollingshead|Ryan|M|60000|60000|2015
+PHI|Hoppenot|Antoine|F|60000|60000|2015
+HOU|Horst|David|D|78750|81500|2015
+HOU|Hunter|Taylor|D|50000|50000|2015
+VAN|Hurtado|Erik|F/M|78265|113265|2015
+|Hurtado|Jhon Kennedy|D|230000|230000|2015
+LA|Husidic|Baggio|M|125000|125000|2015
+CHI|Igboananike|Kennedy|F|8e+05|901666.67|2015
+NYCFC|Iraola|Andoni|D|200004|200004|2015
+COL|Irwin|Clint|GK|85000|97000|2015
+SEA|Ivanschitz|Andreas|M|180000|201250|2015
+MTL|Jackson-Hamel|Anthony|F|60000|60000|2015
+NYCFC|Jacobson|Andrew|M|150000|150000|2015
+SJ|Jahn|Adam|F|60000|60000|2015
+RSL|Jaime|Sebastian|F|2e+05|266666.67|2015
+LA|Jamieson|Bradford|F|60000|60000|2015
+DC|Jeffrey|Jared|M|68250|74450|2015
+POR|Jewsbury|Jack|D|120000|137500|2015
+CLB|Jimenez|Hector|M|90000|90000|2015
+NYCFC|Johansen|Eirik|GK|50000.04|50000.04|2015
+CHI|Johnson|Jason|F|90000|131000|2015
+CHI|Johnson|Sean|GK|250000|253000|2015
+POR|Johnson|Will|F|314000|334333.33|2015
+CHI|Jones|Joevin|M|60000|66166.67|2015
+NE|Jones|Jermaine|M|2800000|3052500|2015
+SEA|Jones|Darwin|F|60000|66250|2015
+LA|Juninho||M|350000|350000|2015
+CHI|Junior|Gilberto|F|1144992|1144992|2015
+VAN|Kah|Pa Modou|D|170000|170000|2015
+ORL|Kaka||M|6660000|7167500|2015
+CLB|Kamara|Kei|F|4e+05|536666.67|2015
+CHI|Kann|Alec|GK|60000|60000|2015
+TOR|Kantari|Ahmed|D|3e+05|345000|2015
+RSL|Kavita|Phanuel|D|50000|50000|2015
+LA|Keane|Robbie|F|4500000|4500000|2015
+DAL|Keel|Stephen|D|60000|60000|2015
+DC|Kemp|Taylor|D|60000|60000|2015
+KC|Kempin|Jonathan|GK|85000|92083.33|2015
+DAL|Kennedy|Dan|GK|233000|233000|2015
+DC|Kitchen|Perry|D|172000|257450|2015
+NY|Kljestan|Sacha|M|4e+05|537500|2015
+CLB|Klute|Chris|D|82500|87802.09|2015
+NE|Knighton|Brad|GK|82005|82005|2015
+NE|Kobayashi|Daigo|M|135000|146666.67|2015
+VAN|Koffie|Gershon|M|230000|241000|2015
+TOR|Konopka|Chris|GK|66000|66000|2015
+DC|Korb|Chris|D|99000|106479.83|2015
+SJ|Koval|JJ|M|60000|60000|2015
+SEA|Kovar|Aaron|M|60000|60200|2015
+MTL|Kronberg|Eric|GK|132000|132000|2015
+POR|Kwarasey|Adam|GK|260000|260000|2015
+VAN|Laba|Matias|M|325000|325000|2015
+COL|LaBrocca|Nick|M|160000|180000|2015
+NY|Lade|Connor|D|60638|64891.01|2015
+PHI|Lahoud|Michael|M|108900|112233.33|2015
+ORL|Lameira|Valdomiro|M|50000|50000|2015
+NYCFC|Lampard|Frank|M|6e+06|6e+06|2015
+CLB|Lampson|Matt|GK|60000|60000|2015
+CHI|Larentowicz|Jeff|D|265000|271000|2015
+ORL|Larin|Cyle|F|125000|167000|2015
+NY|Lawrence|Kemar|D|60000|60000|2015
+PHI|Le Toux|Sebastien|M|275000|285228.13|2015
+MTL|Lefevre|Wandrille|M|60000|60000|2015
+SJ|Lenhart|Steven|F|150000|159083.33|2015
+CLB|Lev-Ari|Sagi|F|60000|60000|2015
+VAN|Lewis|Andre|M|60000|75000|2015
+HOU|Lisch|Michael|GK|60000|60000|2015
+LA|Lletget|Sebastian|M|95000.04|100500.04|2015
+|Lochhead|Tony|D|134375|134375|2015
+HOU|Lopez|Alexander|M|115500|135500|2015
+KC|Lopez|Mikey|M|1e+05|172000|2015
+HOU|Lovejoy|Rob|M|50000|50000|2015
+TOR|Lovitz|Daniel|M|60000|60000|2015
+SEA|Lowe|Damion|D|60375|71375|2015
+DAL|Loyd|Zach|M|175000|196666.67|2015
+SEA|Lyon|Charlie|GK|50000|50000|2015
+CLB|Mabwati|Cedrick|M|201428.52|220178.52|2015
+COL|MacMath|Zac|GK|130000|130000|2015
+LA|Maganto|Ignacio|M|60000|60000|2015
+CHI|Magee|Mike|F|4e+05|467500|2015
+PHI|Maidana|Cristian|F|203500|217250|2015
+MTL|Mallace|Calum|M|60000|75000|2015
+VAN|Manneh|Kekuta|F|82500|112000|2015
+TOR|Mannella|Chris|M|60000|60000|2015
+POR|Manning|Anthony|D|50000.04|50000.04|2015
+HOU|Manotas|Mauro|F|60000|60000|2015
+RSL|Mansally|Kenny|F|60000|66500|2015
+SEA|Mansaray|Victor|F|50000|53500|2015
+MTL|Mapp|Justin|M|186725|199225|2015
+PHI|Marquez|Richard|D|60000|60000|2015
+SEA|Marshall|Chad|D|275000|291666.67|2015
+DC|Martin|Collin|M|70000|84166.67|2015
+RSL|Martinez|Juan Manuel|F|710000|1108666.67|2015
+NY|Martins|Felipe|M|175000|207500|2015
+SEA|Martins|Obafemi|F|2400000|3e+06|2015
+ORL|Mateos|David|D|3e+05|325000|2015
+VAN|Mattocks|Darren|F|180000|272000|2015
+RSL|Maund|Aaron|D|60000|63449.5|2015
+PHI|McCarthy|John|GK|60000|66250|2015
+NY|McCarty|Dax|M|220000|262500|2015
+CLB|McInerney|Jack|F|270000|334166.67|2015
+VAN|McKendry|Ben|M|50000|50000|2015
+PHI|McLaughlin|James|M|60000|60000|2015
+NY|McLaws|Shawn|D|50000|50000|2015
+NYCFC|McNamara|Thomas|M|60000|71500|2015
+NYCFC|Meara|Ryan|GK|71663|72913|2015
+SEA|Mears|Tyrone|D|165000|174000|2015
+KC|Medranda|Jimmy|M|60000|60000|2015
+POR|Melano|Lucas|F|799992|799992|2015
+KC|Melia|Tim|GK|80000|84203.33|2015
+NYCFC|Mena|Jefferson|D|2e+05|211400|2015
+LA|Mendiola|Raul|F|60000|60400|2015
+CLB|Meram|Justin|F|165000|175000|2015
+SJ|Meredith|Bryan|GK|60000|60000|2015
+LA|Meyer|Tommy|D|60000|73750|2015
+VAN|Mezquida|Nicolas|M-F|80000|80000|2015
+NY|Miazga|Matt|D|68250|74500|2015
+MTL|Miller|Eric|M/D|60375|71375|2015
+NY|Miller|Roy|M|2e+05|2e+05|2015
+HOU|Miranda|Leonel|M|60000|60000|2015
+DC|Mishu|Luke|D|50000|50000|2015
+POOL|Mitchell|Trey|GK|50000.04|50000.04|2015
+ORL|Molino|Kevin|M|1e+05|111400|2015
+COL|Moor|Drew|D|258500|270500|2015
+TOR|Moore|Luke|F|215000|235500|2015
+RSL|Morales|Javier|M|3e+05|3e+05|2015
+VAN|Morales|Pedro|M|1190000|1410900|2015
+TOR|Morgan|Ashtone|D|1e+05|112000|2015
+TOR|Morrow|Justin|D|170000|179562.5|2015
+NE|Mulgrew|Timothy|F|50000.04|50000.04|2015
+RSL|Mulholland|Luke|M|82500|83750|2015
+NYCFC|Mullins|Patrick|F|80000|110000|2015
+KC|Mustivar|Soni|M|250000|250000|2015
+ORL|Mwanga|Danny|F|75000|82500|2015
+KC|Myers|Chance|D-M|170000|195000|2015
+KC|Nagamura|Paulo|M|230000|230000|2015
+POR|Nagbe|Darlington|M/F|244000|263000|2015
+POR|Nanchoff|Michael|M|60000|60000|2015
+SEA|Neagle|Lamar|M|165000|167833.33|2015
+ORL|Neal|Lewis|M|112500|119103.28|2015
+KC|Nemeth|Krisztian|F|250000|250000|2015
+NE|Neumann|Steve|M-F|71500|92750|2015
+NE|Nguyen|Lee|M/F|175000|193750|2015
+PHI|Nogueira|Vincent|M|330000|330000|2015
+CHI|Nyarko|Patrick|F|2e+05|215750|2015
+SJ|Nyassi|Sanna|M|120000|126250|2015
+NY|Obekop|Marius|M|50000|50000|2015
+SEA|Ockford|Jimmy|D|60000|60000|2015
+MTL|Oduro|Dominic|F|250000|251666.67|2015
+NE|Okoli|Sean|F|50000|50000|2015
+KC|Okugo|Amobi|M|275000|3e+05|2015
+RSL|Okwuonu|Boyd|D|60000|80000|2015
+HOU|Olabiyi|Rasheed|M|60000|60000|2015
+RSL|Olave|Jamison|D|290000|3e+05|2015
+KC|Opara|Ike|D|115000|121250|2015
+DC|Opare|Kofi|D|60000|60000|2015
+TOR|Osorio|Jonathan|M|145000|152599.68|2015
+NY|Ouimette|Karl|D|60000|60000|2015
+VAN|Ousted|David|GK|286000|302570|2015
+RSL|Ovalle|Adolfo|M|60000|70500|2015
+CHI|Palmer|Lovel|M|118000|125500|2015
+KC|Palmer-Brown|Erik|D|60000|60500|2015
+POR|Paparatto|Norberto|D|120000|120000|2015
+SEA|Pappa|Marco|M|75000|75000|2015
+VAN|Parker|Tim|D|60000|78750|2015
+CLB|Parkhurst|Michael|D|275000|3e+05|2015
+POR|Peay|Taylor|D|50000|50000|2015
+RSL|Pecka||M|60000|64166.67|2015
+SJ|Pelosi|Marc|M|60000|72500|2015
+DAL|Pereira|Michel|M/D|140000|161500|2015
+POR|Pereira|Jeanderson|D|60000|60000|2015
+DAL|Perez|Blas|F|350000|374250|2015
+SJ|Perez|Matias|M|240000|240000|2015
+LA|Perk|Brian|GK|60000|60000|2015
+SEA|Perkins|Troy|GK|130000|136662.5|2015
+TOR|Perquis|Damien|D|323000|372500|2015
+NY|Perrinelle|Damien|D|132000|132000|2015
+KC|Peterson|Jacob|F|123500|130375|2015
+PHI|Pfeffer|Zach|M|60000|60000|2015
+RSL|Phillips|Demar|D|140000|149666.67|2015
+MTL|Piatti|Ignacio|M|4e+05|4e+05|2015
+SJ|Pierazzi|Jean Baptiste|M|260000|260000|2015
+SEA|Pineda|Gonzalo|M|160000|160000|2015
+NYCFC|Pirlo|Andrea|M|2000004|2315694|2015
+COL|Pittinari|Lucas|M|190000|210000|2015
+RSL|Plata|Joao|F|150000|150000|2015
+CLB|Pogatetz|Emanuel|D|250000|262500|2015
+NYCFC|Poku|Kwadwo|M|60000|63045.09|2015
+CHI|Polster|Matt|D|60000|75000|2015
+DC|Pontius|Chris|M-F|365000|396000|2015
+MTL|Porter|Cameron|F|50000|50000|2015
+POR|Powell|Alvas|D|60000|68700|2015
+COL|Powers|Dillon|M|245000|275000|2015
+KC|Quintilla|Jordi|M|50000.04|59525.04|2015
+COL|Ramirez|Juan Edgardo|M|75000|75000|2015
+ORL|Ramos|Rafael|D|50000|50000|2015
+ORL|Redding|Tommy|D|85000|92500|2015
+SEA|Remick|Dylan|D|60000|60000|2015
+SJ|Renato|Paulo|D|96000|96000|2015
+MTL|Reo-Coker|Nigel|D-M|275000|275000|2015
+NY|Reynish|Kyle|GK|86000|90316.67|2015
+ORL|Ribeiro|Pedro|M|60000|60000|2015
+LA|Ribeiro Da Silva|Leonardo|D|150000|155000|2015
+NY|Richards|Dane|M|105000|105000|2015
+LA|Ricketts|Donovan|GK|260000|260000|2015
+POR|Ridgewell|Liam|D|1e+06|1150000|2015
+COL|Riley|James|D|77500|83750|2015
+RSL|Rimando|Nick|GK|350000|370000|2015
+CHI|Ritter|Chris|M|60000|60000|2015
+ORL|Rivas|Carlos|M|60000|60000|2015
+ORL|Rivera|Sidney|F|50000|50000|2015
+VAN|Rivero|Octavio|F|890850|890850|2015
+TOR|Roberts|Quillan|GK|60000|60000|2015
+DC|Robinson|Jalen|D|70000|82000|2015
+NY|Robles|Luis|GK|130000|151375|2015
+ORL|Rochez|Bryan|F|2e+05|279500|2015
+HOU|Rodriguez|Jose "Memo"|M|60000|60000|2015
+HOU|Rodriguez|Raul|D|325000|354333.33|2015
+VAN|Rodriguez|Diego|D|124000|165750|2015
+LA|Rogers|Robbie|F|175000|191666.67|2015
+SEA|Roldan|Cristian|M|80000|102000|2015
+DC|Rolfe|Chris|F|210000|225000|2015
+MTL|Romero|Andres|F|1e+05|1e+05|2015
+LA|Romney|David|D|60000|60000|2015
+VAN|Rosales|Mauro|M|215000|265000|2015
+SEA|Rose|Andy|M|60000|60000|2015
+LA|Rowe|Brian|GK|60000|60000|2015
+NE|Rowe|Kelyn|M|140000|221000|2015
+NE|Rudy|Tyler|M|50000|50000|2015
+LA|Rugg|Charlie|F|60000|60000|2015
+DC|Saborio|Alvaro|F|4e+05|493333.33|2015
+CLB|Saeid|Mohammed|M|1e+05|110000|2015
+SJ|Salinas|Shea|M|145000|148333.33|2015
+NY|Sam|Lloyd|F|230000|240000|2015
+VAN|Sampson|Ethen|D|60000|60000|2015
+COL|Sanchez|Vicente|F|210000|286666.67|2015
+NY|Sanchez|Emmanuel|M|50000|50000|2015
+RSL|Sandoval|Devon|F|60000|60000|2015
+PHI|Sapong|CJ|F|125000|142000|2015
+HOU|Sarkodie|Kofi|D|190000|235500|2015
+COL|Sarvas|Marcelo|M|360000|425000|2015
+RSL|Saucedo|Sebastian|M|50000|60500|2015
+NYCFC|Saunders|Josh|GK|90000|90000|2015
+CLB|Sauro|Gaston|D|583200|599512.5|2015
+CLB|Schoenfeld|Aaron|F|60000|60000|2015
+RSL|Schuler|Chris|D|165000|182000|2015
+SEA|Scott|Zach|D|65000|65000|2015
+POR|Seaton|Michael|F|60000|63000|2015
+DAL|Seitz|Chris|GK|130000|130000|2015
+COL|Serna|Dillon|M|60000|73000|2015
+ORL|Shea|Brek|M-D|475000|520000|2015
+NYCFC|Shelton|Khiry|F|70000|87500|2015
+SJ|Sherrod|Mark|F|60000|60000|2015
+CHI|Shipp|Harrison|F|87500|112500|2015
+NE|Shuttleworth|Robert|GK|101250|111250|2015
+RSL|Silva|Luis|M|131384|162634|2015
+SJ|Silva|Matheus||50000.04|50000.04|2015
+TOR|Simonin|Clement|D|60000|60000|2015
+KC|Sinovic|Seth|M-D|140000|146750|2015
+COL|Sjoberg|Axel|D|60000|75000|2015
+NE|Smith|Donnie|M|60000|60000|2015
+VAN|Smith|Jordan|D|95000.04|102743.04|2015
+COL|Solignac|Luis|F|65004|65004|2015
+LA|Sorto|Oscar|D|60000|61875|2015
+DAL|Soumare|Bakary|D|225000|225000|2015
+NE|Spangenberg|Trevor|GK|50000|50000|2015
+CLB|Speas|Ben|F|68355|68355|2015
+COL|St. Ledger|Sean|D|124992|147492|2015
+HOU|Steinberger|Zach|M|60000|76250|2015
+CLB|Steindorsson|Kristinn|M|105000|119437.5|2015
+CHI|Stephens|Michael|M|95000|105000|2015
+SJ|Stephenson|Khari|M|68254.2|71645.94|2015
+RSL|Stertzer|John|M|60000|69166.67|2015
+SJ|Stewart|Jordan|M-D|150000|150000|2015
+NY|Stolz|Leo|M|70000|86250|2015
+HOU|Sturgis|Nathan|D-M|71250|75375|2015
+CLB|Stuver|Brad|GK|60000|60000|2015
+CLB|Swanson|Ben|M|60000|80416.67|2015
+PHI|Sylvestre|Brian|GK|60000|60000|2015
+NYCFC|Tasende|Jose Angel|D|60000|60000|2015
+HOU|Taylor|Jermaine|D|203500|213000|2015
+NYCFC|Taylor|Tony|F|75000|84375|2015
+CLB|Tchani|Tony|M|170000|195000|2015
+VAN|Techera|Cristian|F|60000|85000|2015
+VAN|Teibert|Russell|M|1e+05|167500|2015
+DAL|Texeira|David|F|338000|338000|2015
+POR|Thoma|Andy|D-M|60000|75000|2015
+SJ|Thompson|Tommy|M|140000|145000|2015
+NE|Tierney|Chris|D-M|110000|113333.33|2015
+MTL|Tissot|Maxim|D|60000|60000|2015
+MTL|Toia|Donny|D|60000|60000|2015
+VAN|Tornaghi|Paolo|GK|80000|80000|2015
+COL|Torres|Gabriel|F|262000|274500|2015
+HOU|Torres|Erick|F|350000|425000|2015
+SEA|Torres|Roman|D|438000|513812.5|2015
+CLB|Trapp|Wil|M|137500|164500|2015
+|Tshuma|Schillo|F|85000|123000|2015
+ORL|Turner|Tyler|D|60000|60000|2015
+DAL|Ulloa|Victor|M|60000|60000|2015
+POR|Urruti|Maximiliano|F|200000.04|200000.04|2015
+SEA|Valdez|Nelson|F|960000|1215000|2015
+POR|Valeri|Diego|M|550000|550000|2015
+RSL|Vasquez|Elias|D|110000|122136.67|2015
+LA|Vayrynen|Mika|M|204996|227496|2015
+NYCFC|Velasquez|Sebastian|M|60000|60000|2015
+MTL|Venegas|Johan|M|120000|132500|2015
+NY|Veron|Gonzalo|M-F|200004|200004|2015
+NYCFC|Villa|David|F|5610000|5610000|2015
+POR|Villafana|Jorge|F|130000|135000|2015
+LA|Villarreal|Jose|M|60000|61875|2015
+PHI|Vitoria|Steven|D|4e+05|4e+05|2015
+CLB|Wahl|Tyson|D|95000|99666.67|2015
+LA|Walker|Kenney|M|60000|60000|2015
+NY|Wallace|Anthony|M-D|60000|60000|2015
+POR|Wallace|Rodney|M-D|165000|190000|2015
+TOR|Warner|Collen|M-F|129937|157437|2015
+VAN|Waston|Kendall|D|225000|226250|2015
+CHI|Watson|Matt|M|80620|91689.16|2015
+DAL|Watson|Jevaughn|M-D|160000|180000|2015
+NYCFC|Watson-Siriboe|Kwame|D|65000|81666.67|2015
+COL|Watts|Jared|M|60000|60000|2015
+POR|Weber|Andrew|GK|60000|60000|2015
+PHI|Wenger|Andrew|D/F|180000|282000|2015
+PHI|White|Ethan|D|125000|125000|2015
+HOU|Williams|Sheanon|F|145000|150500|2015
+MTL|Williams|Romario|F|65000|87000|2015
+TOR|Williams|Josh|D|125000|125000|2015
+HOU|Willis|Joe|GK|90000|90000|2015
+NYCFC|Wingert|Chris|D|215000|215000|2015
+ORL|Winter|Adrian|M|180000|198333.33|2015
+LA|Wolverton|Andrew|GK|50000.04|50000.04|2015
+SJ|Wondolowski|Chris|M|625000|675000|2015
+NE|Woodberry|London|D|60000|60000|2015
+DC|Worra|Travis|GK|50000|50000|2015
+NY|Wright-Phillips|Bradley|F|6e+05|660000|2015
+NY|Wright-Phillips|Shaun|M|116004|145704|2015
+SJ|Wynne|Marvell|D|190000|200625|2015
+LA|Zardes|Gyasi|F|150000|223000|2015
+TOR|Zavaleta|Eriq|F|85000|115600|2015
+POR|Zemanski|Ben|M|81033|83533|2015
+DAL|Zendejas|Alejandro|F|60000|76666.67|2015
+DAL|Zimmerman|Walker|D|1e+05|180100|2015
+NY|Zizzo|Sal|F|80850|94895.71|2015
+NY|Zubar|Ronald|D|240000|320000|2015
+KC|Zusi|Graham|F-M|650000|682102.27|2015
+DAL|Acosta|Kellyn|M|55000|79000|2014
+VAN|Adekugbe|Samuel|D|50000|55000|2014
+POR|Adi|Fanendo|F|580800|593300|2014
+COL|Agbossoumonde|Gale|D|48825|55491.67|2014
+DAL|Akindele|Tesho|F|48500|48500|2014
+NE|Akpan|Andre|F|48500|51333.33|2014
+VAN|Alderson|Bryce|M|1e+05|115000|2014
+CHI|Alex||M|123750|133700|2014
+NY|Alexander|Eric|M|115000|128750|2014
+POR|Alhassan|Kalif|M|120000|120000|2014
+RSL|Allen|Jordan|M/F|80000|90000|2014
+SEA|Alonso|Osvaldo|M|4e+05|4e+05|2014
+NE|Alston|Kevin|D|125000|143333.33|2014
+COL|Alvarez|Carlos|M|73150|108150|2014
+ORL|Alvarez|Yordany|M|48500|56000|2014
+CHI|Amarikwa|Quincy|F|60000|60000|2014
+CHI|Anangono|Juan Luis|F|175000|175000|2014
+SEA|Anibaba|Jalil|D|119620|159620|2014
+CLB|Anor|Bernardo|M|48825|48825|2014
+SEA|Apam|Onyekachi|D|60000|60000|2014
+TOR|Aparicio|Manuel|M|36504|36504|2014
+HOU|Arena|Anthony|D|36504|36504|2014
+COL|Armstrong|David|M|36504|36504|2014
+DC|Arnaud|Davy|M|212500|212500|2014
+CLB|Arrieta|Jairo|F|135000|135000|2014
+HOU|Ashe|Corey|M|165000|174750|2014
+DC|Attakora|Nana|D|62500|65575.52|2014
+RSL|Attinella|Jeff|GK|48825|48825|2014
+CHV|Avila|Eric|M|115000|135000|2014
+SEA|Azira|Michael|D|48504|51147.54|2014
+CLB|Baiden|Kingsley|M|36504|36504|2014
+RSL|Balchan|Rich|D|48500|48500|2014
+VAN|Ballouchy|Mehdi|M|65000|65000|2014
+SJ|Barklage|Brandon|M|65000|68415.21|2014
+HOU|Barnes|Giles|M|230000|241158.33|2014
+NE|Barnes|Darrius|D|80000|86666.67|2014
+CHV|Barrera|Leandro|F|50000|50000|2014
+SEA|Barrett|Chad|F|80000|85000|2014
+CLB|Barson|Chad|D|48825|48825|2014
+HOU|Beasley|DaMarcus|D|750000|779166.67|2014
+RSL|Beckerman|Kyle|M|350000|378750|2014
+CLB|Bedell|Adam|F|36504|36504|2014
+VAN|Beitashour|Steven|D|170000|177166.67|2014
+TOR|Bekker|Kyle|M|51150|77400|2014
+MTL|Beland-Goyette|Louis|M|36504|36504|2014
+RSL|Beltran|Anthony|D|186450|186450|2014
+TOR|Bendik|Joe|GK|140000|147375|2014
+NE|Bengtson|Jerry|F|144000|144000|2014
+DAL|Benitez|Jair|D|97875|97875|2014
+SJ|Bernardez|Victor|D|100008|141608|2014
+COL|Berner|John|GK|36500|36500|2014
+MTL|Bernier|Patrice|F-M|165000|205000|2014
+PHI|Berry|Austin|D|86994|101994|2014
+KC|Besler|Matt|D|6e+05|633250|2014
+KC|Bieler|Claudio|F|225000|225000|2014
+SJ|Bingham|David|GK|85910|130285|2014
+DC|Birnbaum|Steven|D|55000|85000|2014
+MTL|Bissue|James|F|48500|48500|2014
+NY|Bitolo|Ambroise|D|36500|36500|2014
+PHI|Blake|Andre|GK|75000|113000|2014
+TOR|Bloom|Mark|D|48825|48825|2014
+CHV|Bocanegra|Carlos|D|3e+05|333333.33|2014
+CHV|Bolanos|Luis|F|48504|48504|2014
+PHI|Bone|Corben|M|48825|51325|2014
+HOU|Boniek Garcia|Oscar|F|199992|258742|2014
+RSL|Borchers|Nat|D|225000|236968.75|2014
+CHV|Borja|Felix|F|48504|48504|2014
+|Borja|Carlos|D|52313|52313|2014
+DC|Boswell|Bobby|D|189666.6|189666.6|2014
+NY|Bover|Ruben|M|36500|36500|2014
+SEA|Bowen|Tristan|F|65000|70000|2014
+TOR|Bradley|Michael|M|6e+06|6500000|2014
+NYCFC|Brovsky|Jeb|M|115000|119000|2014
+COL|Brown|Deshorn|F|75000|123000|2014
+PHI|Brown|Brian|F|48504|53004|2014
+HOU|Bruin|Will|F|127500|172500|2014
+HOU|Brunner|Eric|D|130000|130625|2014
+COL|Buddle|Edson|F|325000|325000|2014
+NE|Bunbury|Teal|F|135000|233000|2014
+COL|Burch|Marc|D|85000|85000|2014
+CHV|Burling|Bobby|D|115000|122500|2014
+SJ|Busch|Jon|GK|173250|184583.33|2014
+MTL|Bush|Evan|GK|48825|48825|2014
+NY|Bustamante|Michael|M-D|48825|48825|2014
+DAL|Cabrera|Walter|D|84000|96000|2014
+NY|Cahill|Tim|M|3500000|3625000|2014
+NE|Caldwell|Scott|M|52313|59813|2014
+TOR|Caldwell|Steven|D|325000|364166.67|2014
+CHV|Calvert|Caleb|F|55000|62500|2014
+MTL|Camara|Hassoun|D/M|215000|226625|2014
+VAN|Carducci|Marco|GK|36504|36504|2014
+HOU|Carrasco|Servando|M|48825|48825|2014
+PHI|Carreiro|Fred|M|65460|65460|2014
+PHI|Carroll|Brian|M|185220|185220|2014
+HOU|Cascio|Tony|M|71390|105140|2014
+PHI|Casey|Conor|F|192500|192500|2014
+DC|Caskey|Alex|M|48825|48825|2014
+NY|Castano|Santiago|GK|36500|36500|2014
+NE|Castillion|Geoffrey|F|276000|329033.33|2014
+DAL|Castillo|Fabian|F|70000|76250|2014
+SJ|Cato|Cordell|F|50400|50400|2014
+ORL|Ceren|Darwin|M|50000|80437.5|2014
+POR|Chara|Diego|M|170000|170000|2014
+CHV|Chavez|Marvin|M|2e+05|2e+05|2014
+NY|Christianson|Ian|M|48825|48825|2014
+CLB|Clark|Steven|GK|135000|138333.33|2014
+HOU|Clark|Ricardo|M|288000|321750|2014
+VAN|Clarke|Caleb|F|60000|60000|2014
+KC|Claros|Jorge|M|90000|90000|2014
+HOU|Cochran|AJ|D|57500|73500|2014
+CHI|Cochrane|Greg|D|48500|48500|2014
+CHI|Cocis|Razvan|M|140004|146670.67|2014
+KC|Collin|Aurelien|D|275000|281250|2014
+NY|Convey|Bobby|M|137500|147500|2014
+SEA|Cooper|Kenny|F|2e+05|265625|2014
+CHV|Correa|Jose Erick|F|70000|70000|2014
+DAL|Craft|Coy|F|48504|65587.33|2014
+TOR|Creavalle|Warren|D|90000|100500|2014
+MTL|Crepeau|Maxime|GK|48500|48500|2014
+SJ|Cronin|Sam|M|185000|187500|2014
+PHI|Cruz|Danny|M|125000|131666.67|2014
+HOU|Cummings|Omar|F|250000|264000|2014
+MTL|Danso|Mamadou|D|87500|87500|2014
+NE|Davies|Charlie|F|75000|78940.63|2014
+HOU|Davis|Brad|M|345000|392062.5|2014
+VAN|Dean|Christian|D|80000|161000|2014
+TOR|Defoe|Jermain|F|6e+06|6180000|2014
+LA|DeLaGarza|AJ|D|132500|155000|2014
+DC|DeLeon|Nick|M|85690|120690|2014
+CHV|Delgado|Marco|M|75000|77500|2014
+SEA|Dempsey|Clint|F|4913004|6695188.75|2014
+HOU|Deric|Tyler|GK|90000|97666.67|2014
+TOR|DeRosario|Dwayne|M|137000|173000|2014
+MTL|Di Vaio|Marco|F|1500000|2600000|2014
+DAL|Diaz|Mauro|M|325000|411000|2014
+TOR|Dike|Bright|F|60637.5|63575|2014
+VAN|Diouf|Mamadou|F|48500|61000|2014
+SJ|Djalo|Yannick|M|2e+05|3e+05|2014
+LA|Donovan|Landon|F|4250000|4583333.33|2014
+NE|Dorman|Andy|M|135000|135000|2014
+KC|Dovale|Toni|D|180000|185000|2014
+DC|Doyle|Conor|F|48500|49750|2014
+HOU|Driver|Andrew|M|130000|144583.33|2014
+MTL|Duka|Dilaver|M|165000|190000|2014
+KC|Duke|Christian|D|36500|36500|2014
+LA|Dunivant|Todd|D|140000|160750|2014
+CHV|Dunn|Matthew|M|48500.04|48500.04|2014
+NY|Duvall|Chris|D|36504|36504|2014
+KC|Dwyer|Dom|F|80000|92500|2014
+DC|Dykstra|Andrew|GK|48825|48825|2014
+CHI|Earnshaw|Robert|F|204000|206250|2014
+NY|Eckersley|Richard|D|255000|373333.33|2014
+PHI|Edu|Maurice|M|650000|650000|2014
+KC|Ellis|Kevin|D|48825|49575|2014
+COL|Eloundou|Charles|F|48825|53825|2014
+DAL|Escobar|Andres|F|625000|647000|2014
+DC|Espindola|Fabian|F|150000|150000|2014
+DC|Estrada|David|F|48825|48825|2014
+POR|Evans|Steven|M|48825|53825|2014
+SEA|Evans|Brad|F|267665|293666.25|2014
+PHI|Fabinho||D|96000|100500|2014
+NE|Fagundez|Diego|F|110000|137200|2014
+NE|Farrell|Andrew|D|95000|176000|2014
+KC|Feilhaber|Benny|M|325000|337187.5|2014
+PHI|Fernandes|Leo|M|48500|48500|2014
+DAL|Fernandez|Raul|GK|160000|247500|2014
+POR|Fernandez|Gaston|F|150000|150000|2014
+RSL|Fernandez|Eduardo|GK|36500|36500|2014
+VAN|Fernandez|Sebastian|M|143000|143000|2014
+MTL|Ferrari|Matteo|D|3e+05|355475|2014
+RSL|Findley|Robbie|F|215000|245500|2014
+CLB|Finlay|Ethan|F|50847.5|65847.5|2014
+CHV|Finley|Ryan|F|51150|78650|2014
+POR|Fochive|George|M|36500|36500|2014
+CHI|Fondy|Matthew|F|48500|48500|2014
+SEA|Ford|Josh|GK|48500|50239.94|2014
+CLB|Francis|Waylon|D|125000|153875|2014
+SJ|Francis|Shaun|D|55000|57889.79|2014
+CHI|Franco|Marco|D|36500|36500|2014
+DC|Franklin|Sean|D|178333.32|209999.99|2014
+SEA|Frei|Stefan|GK|150000|150000|2014
+CLB|Friedman|Ross|D|36500|36500|2014
+LA|Friend|Rob|F|85000|91000|2014
+VAN|Froese|Kianz|M-F|44004|48504|2014
+SJ|Fucito|Michael|MF|57750|60639.79|2014
+PHI|Gaddis|Raymon|D|52313|52313|2014
+MTL|Gagnon-Lapare|Jeremy|M|36504|40504|2014
+CLB|Gall|Romain|M|48504|51885.93|2014
+POR|Gallego|Bryan|D|36500|36750|2014
+DAL|Garcia|Danny|M|55000|71000|2014
+LA|Garcia|Rafael|M|48825|48825|2014
+RSL|Garcia|Olmes|F|125000|125000|2014
+|Gardner|Joshua|M|70000|70000|2014
+LA|Gargan|Dan|D|48500|48500|2014
+HOU|Garrido|Luis|M|150000|150000|2014
+CLB|Gehrig|Eric|M|48825|48825|2014
+CLB|George|Kevan|M|48825|48825|2014
+RSL|Gil|Luis|M|220000|315083.33|2014
+RSL|Glad|Justen|D|36500|47500|2014
+POR|Gleeson|Jake|GK|66000|69493.44|2014
+NE|Goncalves|Jose|D|450000|479375|2014
+TOR|Goncalves|Jackson|D|150000|202500|2014
+DAL|Gonzalez|Jesse|GK|48500|48500|2014
+LA|Gonzalez|Omar|D|1e+06|1250000|2014
+MTL|Gonzalez|Santiago|M/F|50000|50000|2014
+SEA|Gonzalez|Leonardo|D|150000|150000|2014
+SJ|Goodson|Clarence|D|315000|342000|2014
+LA|Gordon|Alan|F|185000|206666.67|2014
+SJ|Gorlitz|Andreas|D|90000|99737.19|2014
+RSL|Grabavoy|Ned|M|160000|175000|2014
+RSL|Grossman|Cole|M|48825|48825|2014
+KC|Gruenebaum|Andy|GK|85000|85000|2014
+TOR|Hagglund|Nick|D|48500|48500|2014
+SEA|Hahnemann|Marcus|GK|65000|65000|2014
+COL|Hairston|Marlon|M|70000|93000|2014
+HOU|Hall|Tally|GK|2e+05|213500|2014
+TOR|Hall|Jeremy|D|105000|115000|2014
+DC|Hamid|Bill|GK|1e+05|114750|2014
+TOR|Hamilton|Jordan|F|60000|72500|2014
+SJ|Harden|Ty|D|68250|71665.21|2014
+POR|Harrington|Michael|M-D|125000|125000|2014
+SJ|Harris|Atiba|M-F|181500|189775|2014
+VAN|Harvey|Jordan|D|123750|123750|2014
+DAL|Hedges|Matt|D|120000|120000|2014
+NY|Henry|Thierry|F|3750000|4350000|2014
+TOR|Henry|Doneil|D|75000|87083.33|2014
+DAL|Hernandez|Moises|D|48825|50450|2014
+PHI|Hernandez|Cristhian|M|72500|74375|2014
+SJ|Hernandez|Jason|D|210000|213333.33|2014
+CLB|Higuain|Federico|M-F|580000|744000|2014
+COL|Hill|Kamani|M|48825|48825|2014
+LA|Hoffman|Chandler|F|48500|48500|2014
+DAL|Hollingshead|Ryan|M|48500|48500|2014
+PHI|Hoppenot|Antoine|F|54450|54450|2014
+HOU|Horst|David|D|70000|72750|2014
+CHV|Hurtado|Jhon Kennedy|D|210000|210000|2014
+VAN|Hurtado|Erik|F/M|51150|86150|2014
+LA|Husidic|Baggio|M|90000|90000|2014
+CHI|Ianni|Patrick|D|150000|150000|2014
+NE|Imbongo|Dimitry|F|112500|122375|2014
+DC|Inkoom|Samuel|D|84000|103875|2014
+COL|Irwin|Clint|GK|75000|87000|2014
+LA|Ishizaki|Stefan|M|2e+05|213000|2014
+NE|Jackson|Larry|GK|36504|36504|2014
+MTL|Jackson-Hamel|Anthony|F|36504|36504|2014
+NYCFC|Jacobson|Andrew|M|180000|180000|2014
+SJ|Jahn|Adam|F|48500|48500|2014
+RSL|Jaime|Sebastian|F|216000|216000|2014
+LA|Jamieson|Bradford|F|36500|36500|2014
+CHV|Jean-Baptiste|Andrew|D|80000|95000|2014
+DC|Jeffrey|Jared|M|65000|71200|2014
+POR|Jewsbury|Jack|D|115000|132500|2014
+CLB|Jimenez|Hector|M|75000|75000|2014
+DAL|John|George|D|3e+05|326666.67|2014
+CHI|Johnson|Sean|GK|250000|253000|2014
+DC|Johnson|Eddie|F|505000|613333.33|2014
+HOU|Johnson|Jason|F|80000|121000|2014
+POR|Johnson|Will|F|3e+05|325000|2014
+NE|Jones|Jermaine|M|3e+06|3252500|2014
+NE|Joseph|Shalrie|M|248500|294000|2014
+CHI|Joya|Benji|M|48504|53504|2014
+KC|Juliao|Igor|D|48500|48500|2014
+CHI|Jumper|Hunter|D|48500|48500|2014
+LA|Juninho||M|325000|325000|2014
+TOR|Junior|Gilberto|F|1145000|1205000|2014
+KC|Kafari|Michael|M|36504|36504|2014
+POR|Kah|Pa Modou|D|240000|245000|2014
+CHV|Kaji|Akira|D|48504|48504|2014
+ORL|Kaka||M|6660000|7167500|2014
+CHI|Kann|Alec|GK|48500|48500|2014
+LA|Keane|Robbie|F|4500000|4500000|2014
+DAL|Keel|Stephen|D|48825|48825|2014
+DC|Kemp|Taylor|D|36504|36504|2014
+KC|Kempin|Jonathan|GK|70000|77083.33|2014
+CHV|Kennedy|Dan|GK|211750|213416.67|2014
+NY|Kimura|Kosuke|D|105000|105000|2014
+CHI|Kinney|Steven|D|48825|48825|2014
+DC|Kitchen|Perry|D|143500|228950|2014
+COL|Klute|Chris|D|75000|80144.1|2014
+COL|Knight|Zat|D|120000|139583.33|2014
+NE|Knighton|Brad|GK|78100|80700|2014
+SJ|Knutsen|Billy|GK|36504|36504|2014
+NE|Kobayashi|Daigo|M|125000|136666.67|2014
+VAN|Koffie|Gershon|M|2e+05|211000|2014
+TOR|Konopka|Chris|GK|60000|60000|2014
+DC|Korb|Chris|D|90000|97298.33|2014
+SJ|Koval|JJ|M|48500|48500|2014
+SEA|Kovar|Aaron|M|48500|48700|2014
+MTL|Krol|Krzysztof|D|153000|153000|2014
+KC|Kronberg|Eric|GK|120000|120000|2014
+VAN|Laba|Matias|M|3e+05|3e+05|2014
+COL|LaBrocca|Nick|M|135000|153333.33|2014
+NY|Lade|Connor|D|57750|61963.21|2014
+PHI|Lahoud|Michael|M|99000|102333.33|2014
+CLB|Lampson|Matt|GK|48825|48825|2014
+CHI|Larentowicz|Jeff|D|245000|251000|2014
+MTL|Larrea|Gorka|M|48500.04|48500.04|2014
+PHI|Le Toux|Sebastian|M|250000|262812.5|2014
+MTL|Lefevre|Wandrille|M|48500|48500|2014
+SJ|Lenhart|Steven|F|250000|257500|2014
+VAN|Leveron|Johnny|D|80000|91187.5|2014
+VAN|Lewis|Andre|M|48500|53500|2014
+HOU|Lisch|Michael|GK|36504|36504|2014
+CHV|Lochhead|Tony|D|125000|125000|2014
+SEA|Long|Aaron|M|36504|36504|2014
+HOU|Lopez|Alexander|M|90000|110000|2014
+KC|Lopez|Mikey|M|85000|157000|2014
+RSL|Lopez|Benjamin|F|48500|51105.43|2014
+TOR|Lovitz|Daniel|M|36504|36504|2014
+SEA|Lowe|Damion|D|57500|68500|2014
+DAL|Loyd|Zach|M|155000|176666.67|2014
+NY|Lozano|Armando|D|120000|130000|2014
+DAL|Luccin|Peter|M|75000|114333.33|2014
+NY|Luyindula|Peguy|F|90000|90000|2014
+PHI|MacMath|Zac|GK|120000|120000|2014
+CHI|Magee|Mike|F|350000|417500|2014
+PHI|Maidana|Cristian|F|185000|198750|2014
+MTL|Mallace|Calum|M|50848|65848|2014
+VAN|Manneh|Kekuta|F|70000|99500|2014
+TOR|Mannella|Chris|M|36504|36504|2014
+RSL|Mansally|Kenny|F|65000|72000|2014
+MTL|Mapp|Justin|M|162250|174750|2014
+PHI|Marquez|Richard|D|36504|36504|2014
+SEA|Marshall|Chad|D|270000|286666.67|2014
+COL|Martin|Jose|M|230000|261000|2014
+DC|Martin|Collin|M|55000|69166.67|2014
+MTL|Martins|Felipe|M|160000|192500|2014
+SEA|Martins|Obafemi|F|1620000|1753333.33|2014
+VAN|Mattocks|Darren|F|140000|232000|2014
+RSL|Maund|Aaron|D|36500|40250|2014
+PHI|Mbolhi|Rais|GK|240000|240000|2014
+LA|McBean|Jack|F|48500|48500|2014
+NE|McCarthy|Stephen|M|101332|132582|2014
+NY|McCarty|Dax|M|2e+05|242500|2014
+MTL|McInerney|Jack|F|230000|294166.67|2014
+POR|McKenzie|Rauwshan|D|48825|48825|2014
+PHI|McLaughlin|James|M|66000|75000|2014
+CHV|McNamara|Thomas|M|48500|60000|2014
+NY|Meara|Ryan|GK|68250|69500|2014
+KC|Medranda|Jimmy|M|48504|48504|2014
+|Melia|Tim|GK|70000|75000|2014
+LA|Mendiola|Raul|F|36500|36500|2014
+CLB|Meram|Justin|F|67452|91827|2014
+SJ|Meredith|Bryan|GK|48500|48500|2014
+MTL|Messoudi|Zakaria|M|36504|36504|2014
+LA|Meyer|Tommy|D|50848|64598|2014
+VAN|Mezquida|Nicolas|M-F|65000|65000|2014
+NY|Miazga|Matt|D|65000|71250|2014
+MTL|Miller|Eric|M/D|57500|68500|2014
+NY|Miller|Roy|M|2e+05|2e+05|2014
+CHV|Minda|Oswaldo|M|150000|168750|2014
+VAN|Mitchell|Carlyle|D|48825|50075|2014
+DAL|Moffat|Adam|M|165000|176608.33|2014
+ORL|Molino|Kevin|M|60000|71400|2014
+COL|Moor|Drew|D|235000|247000|2014
+TOR|Moore|Luke|F|120000|128333.33|2014
+RSL|Morales|Javier|M|3e+05|3e+05|2014
+VAN|Morales|Pedro|M|1190000|1410900|2014
+TOR|Morgan|Ashtone|D|80000|92000|2014
+TOR|Morrow|Justin|D|160000|169562.5|2014
+RSL|Mulholland|Luke|M|55000|56250|2014
+COL|Mullan|Brian|M|48500|48500|2014
+SJ|Muller|Tommy|D|48500|48500|2014
+NE|Mullins|Patrick|F|70000|1e+05|2014
+KC|Munoz|Victor|M|36504|36504|2014
+COL|Mwanga|Danny|F|130000|171250|2014
+KC|Myers|Chance|D-M|160000|185000|2014
+KC|Nagamura|Paulo|M|220000|220000|2014
+POR|Nagbe|Darlington|M/F|250000|260000|2014
+MTL|Nakajima-Farran|Issey|M|90000|110000|2014
+POR|Nanchoff|Michael|M|48825|48825|2014
+COL|Nasco|Joe|GK|50000|52693.83|2014
+SEA|Neagle|Lamar|M|110000|110000|2014
+DC|Neal|Lewis|M|1e+05|106440.63|2014
+COL|Neeskens|John|D|42504|42504|2014
+NE|Neumann|Stephen|M-F|65000|86250|2014
+NE|Nguyen|Lee|M/F|175000|193750|2014
+PHI|Nogueira|Vincent|M|330000|330000|2014
+CHV|Nwiloh|Michael|D|36504|36504|2014
+CHI|Nyarko|Patrick|F|265000|284500|2014
+CHI|Nyassi|Sanna|M|147000|154625|2014
+NY|Obekop|Marius|M|36500|41500|2014
+VAN|O'Brien|Andy|D|250000|280000|2014
+SEA|Ockford|Jimmy|D|36504|36504|2014
+TOR|Oduro|Dominic|F|250000|251666.67|2014
+SEA|Okoli|Sean|F|48500|48750|2014
+PHI|Okugo|Amobi|M|145000|228000|2014
+NY|Olave|Jamison|D|280000|290000|2014
+KC|Olum|Lawrence|M/D|48825|48825|2014
+COL|O'Neill|Shane|M|56250|67750|2014
+KC|Opara|Ike|D|97500|103750|2014
+DC|Opare|Kofi|D|48500|48500|2014
+POR|O'Rourke|Danny|D|55008|55008|2014
+TOR|Orr|Bradley|D|75000|75000|2014
+TOR|Osorio|Jonathan|M|135000|142599.68|2014
+MTL|Ouimette|Karl|D|48825|48825|2014
+VAN|Ousted|David|GK|250000|266156.25|2014
+HOU|Ownby|Brian|M|48825|48825|2014
+CLB|Paladini|Daniel|M|75000|76666.67|2014
+CHI|Palmer|Lovel|M|82500|87000|2014
+KC|Palmer-Brown|Erik|D|48500|49000|2014
+POR|Paparatto|Norbeto|D|1e+05|1e+05|2014
+SEA|Pappa|Marco|M|75000|75000|2014
+DC|Parke|Jeff|D|215000|235500|2014
+CLB|Parkhurst|Michael|D|275000|3e+05|2014
+SEA|Parsemain|Kevin|F|48504|54486.81|2014
+CHI|Pause|Logan|M|75000|75000|2014
+MTL|Pearce|Heath|D|1e+05|1e+05|2014
+POR|Peay|Taylor|D|36500.04|36500.04|2014
+CHV|Pelletieri|Agustin|M|90000|90000|2014
+LA|Penedo|Jaime|GK|135000|138562.5|2014
+DAL|Pereira|Michel|M/D|120000|141500|2014
+DAL|Perez|Blas|F|335000|359250|2014
+SJ|Perez|Matias|M|216000|216000|2014
+LA|Perk|Brian|GK|60000|63125|2014
+MTL|Perkins|Troy|GK|250000|271833.33|2014
+NY|Perrinelle|Damien|D|100008|100008|2014
+KC|Peterson|Jacob|F|110000|114833.33|2014
+PHI|Pfeffer|Zach|M|75000|85000|2014
+MTL|Piatti|Ignacio|M|387500|387500|2014
+SJ|Pierazzi|Jean Baptiste|M|240000|240000|2014
+COL|Piermayr|Thomas|D|70008|74429.56|2014
+CHI|Pineda|Victor|M|60000|66742.42|2014
+SEA|Pineda|Gonzalo|M|80000|80000|2014
+SJ|Pintos|Pablo|D|60000|122500|2014
+RSL|Plata|Joao|F|70000|70000|2014
+CLB|Pogatetz|Emanuel|D|360000|372500|2014
+CHI|Pongolle|Florent|F|72000|81000|2014
+DC|Pontius|Chris|M-F|350000|381000|2014
+DC|Porter|Kyle|M|52313|60955.71|2014
+POR|Powell|Alvas|D|48828|48828|2014
+COL|Powers|Dillon|M|95150|127650|2014
+ORL|Redding|Tommy|D|36500|44000|2014
+SEA|Remick|Dylan|D|36500|36500|2014
+CHV|Reo-Coker|Nigel|D-M|4e+05|446500|2014
+CHI|Reynish|Kyle|GK|74000|78316.67|2014
+PHI|Ribeiro|Pedro|M|36504|36504|2014
+LA|Ribeiro Da Silva|Leonardo|D|105000|105000|2014
+TOR|Richter|Ryan|F|48500|48500|2014
+POR|Ricketts|Donovan|GK|260000|260000|2014
+POR|Ridgewell|Liam|D|1200000|1200000|2014
+LA|Riley|James|D|80000|80000|2014
+RSL|Rimando|Nick|GK|225000|235833.33|2014
+CHI|Ritter|Chris|M|48500|48500|2014
+CHV|Rivero|Martin|M|50004|50004|2014
+TOR|Roberts|Quillan|GK|36504|36504|2014
+DC|Robinson|Jalen|D|55000|67000|2014
+NY|Robles|Luis|GK|1e+05|125000|2014
+MTL|Rodriguez|Adrian Lopez|D|240000|291250|2014
+LA|Rogers|Robbie|F|160000|167500|2014
+DC|Rolfe|Chris|F|210000|225000|2014
+MTL|Romero|Andres|F|60000|60000|2014
+VAN|Rosales|Mauro|M|450000|450000|2014
+SEA|Rose|Andy|M|48825|48825|2014
+LA|Rowe|Brian|GK|48825|48825|2014
+NE|Rowe|Kelyn|M|1e+05|181000|2014
+LA|Rugg|Charlie|F|48500|48500|2014
+KC|Saad|Soony|F|51150|51150|2014
+RSL|Saborio|Alvaro|F|360000|453333.33|2014
+HOU|Salazar|Bryan|F|48825|49825|2014
+RSL|Salcedo|Carlos|D|48500|48500|2014
+VAN|Salgado|Omar|F|1e+05|141868.67|2014
+SJ|Salinas|Shea|M|130000|133333.33|2014
+NY|Sam|Lloyd|F|136500|136500|2014
+VAN|Sampson|Ethen|D|36504|36504|2014
+COL|Sanchez|Vincente|F|210000|286666.67|2014
+NE|Sanchez|Jossimar|D|36504|36504|2014
+RSL|Sandoval|Devon|F|48500|48500|2014
+KC|Sapong|CJ|F|95000|112000|2014
+HOU|Sarkodie|Kofi|D|150000|195500|2014
+LA|Sarvas|Marcelo|M|192500|192500|2014
+NYCFC|Saunders|Josh|GK|48504|48504|2014
+CLB|Schoenfeld|Aaron|F|48825|48825|2014
+RSL|Schuler|Chris|D|145000|162000|2014
+SJ|Schuler|Billy|F|48500|48500|2014
+SEA|Scott|Zach|D|52500|52500|2014
+DC|Seaton|Michael|F|48500|51500|2014
+CHI|Segares|Gonzalo|D|160000|173333.33|2014
+DAL|Seitz|Chris|GK|105000|105000|2014
+NY|Sekagya|Ibrahim|D|190000|219000|2014
+NY|Sene|Saer|F|152145|163682.54|2014
+COL|Serna|Dillon|M|52500|65500|2014
+DC|Shanosky|Conor|D|36500|36500|2014
+HOU|Sherrod|Mark|F|48504|48504|2014
+CHI|Shipp|Harrison|F|70000|95000|2014
+NE|Shuttleworth|Robert|GK|90000|1e+05|2014
+DC|Silva|Luis|M|99440|134440|2014
+KC|Sinovic|Seth|M-D|125000|131750|2014
+MTL|Smith|Blake|M|51150|84900|2014
+NE|Smith|Donnie|M|36500|36500|2014
+NE|Soares|AJ|D|119180|159180|2014
+NE|Soffner|Luis|GK|36500|36500|2014
+MTL|Soriola|Gege|D|120000|120000|2014
+LA|Sorto|Oscar|D|48825|50700|2014
+CHI|Soumare|Bakary|D|330000|370000|2014
+DAL|Span|Brian|M|48500|48500|2014
+CHV|Spangenberg|Trevor|GK|36504|36504|2014
+CLB|Speas|Ben|F|65100|65100|2014
+SJ|Stephenson|Khari|M|65004|68336.02|2014
+RSL|Stertzer|John|M|36500|45875|2014
+KC|Steuble|Martin|M|120000|120000|2014
+NY|Stevenson|Eric|M|36504|36504|2014
+SJ|Stewart|Jordan|M-D|140000|140000|2014
+CHV|Sturgis|Nathan|D-M|114000|120333.33|2014
+CLB|Stuver|Brad|GK|48500|48500|2014
+NE|Sundly|Alec|M|36504|36504|2014
+CLB|Sweat|Ben|D|48500|48500|2014
+HOU|Taylor|Jermaine|D|185000|194500|2014
+NE|Taylor|Tony|F|69996|79371|2014
+CLB|Tchani|Tony|M|150000|175000|2014
+VAN|Teibert|Russell|M|70000|75600|2014
+DAL|Texeira|David|F|338000|338000|2014
+DAL|Thomas|Hendry|M|180000|180000|2014
+SJ|Thompson|Tommy|M|140000|145000|2014
+NE|Tierney|Chris|D-M|1e+05|103333.33|2014
+MTL|Tissot|Maxim|D|48500|48500|2014
+CHV|Toia|Donny|D|36500|36500|2014
+DAL|Top|Jonathan|F|36500|36500|2014
+VAN|Tornaghi|Paolo|GK|72000|72000|2014
+CHV|Torres|Erick|F|152004|152004|2014
+COL|Torres|Gabriel|F|250000|262500|2014
+SEA|Traore|Djimi|D|132000|132000|2014
+CLB|Trapp|Wil|M|125000|152000|2014
+POR|Tshuma|Schillo|F|75000|113000|2014
+CHV|Tyrpak|Kristopher|F|36504|36504|2014
+DAL|Ulloa|Victor|M|36504|36504|2014
+POR|Urruti|Maximiliano|F|200000.04|200000.04|2014
+PHI|Valdes|Carlos|D|294999.96|294999.96|2014
+POR|Valeri|Diego|M|5e+05|5e+05|2014
+COL|Van de Casteele|Grant|D|48500|60000|2014
+RSL|Velasquez|Sebastian|M|48825|48825|2014
+LA|Venter|Kyle|D|48500|61000|2014
+CLB|Viana|Agustin|D-M|115000|141666.67|2014
+NYCFC|Villa|David|F|60000|60000|2014
+POR|Villafana|Jorge|F|72765|74431.67|2014
+LA|Villarreal|Joseph|M|48825|50700|2014
+CLB|Wahl|Tyson|D|85000|89666.67|2014
+CLB|Walker|Matt|M|36500|36500|2014
+DAL|Walker|Nick|D|36500|36500|2014
+LA|Walker|Kenney|M|48825|48825|2014
+POR|Wallace|Rodney|M-D|150000|175000|2014
+CHI|Ward|Grant|F|48500|48500|2014
+TOR|Warner|Collen|M-F|115500|143000|2014
+VAN|Waston|Kendall|D|199992|201242|2014
+CHI|Watson|Matt|M|71663|82664.99|2014
+DAL|Watson|JeVaughn|M|110000|126875|2014
+NYCFC|Watson-Siriboe|Kwame|D|55000|56666.67|2014
+COL|Watts|Jared|M|36500|36500|2014
+SEA|Weaver|Cam|F|48504|49004|2014
+POR|Weber|Andrew|GK|48500.04|48500.04|2014
+PHI|Wenger|Andrew|D/F|140000|242000|2014
+PHI|Wheeler|Aaron|F|48825|48825|2014
+PHI|White|Ethan|D|80000|80000|2014
+TOR|Wiedeman|Andrew|F|60500|70500|2014
+CLB|Wiet|Matt|D|48500|48500|2014
+CLB|Williams|Josh|D|125000|125000|2014
+PHI|Williams|Sheanon|F|125000|130500|2014
+DC|Willis|Joe|GK|48825|48825|2014
+RSL|Wingert|Chris|D|163590|170590|2014
+POOL|Withrow|Daniel|GK|36504|36504|2014
+SJ|Wondolowski|Chris|M|6e+05|650000|2014
+NY|Wright-Phillips|Bradley|F|330000|372500|2014
+COL|Wynne|Marvell|D|2e+05|285000|2014
+SEA|Yedlin|DeAndre|D|80000|92000|2014
+POR|Zakuani|Steve|F|120000|120000|2014
+LA|Zardes|Gyasi|F|125000|198000|2014
+CHV|Zavaleta|Eriq|F|75000|105600|2014
+POR|Zemanski|Ben|M|80850|83350|2014
+DAL|Zendejas|Alejandro|F|36504|53170.67|2014
+DAL|Zimmerman|Walker|D|80000|160100|2014
+KC|Zizzo|Sal|F|77000|91045.71|2014
+KC|Zusi|Graham|F-M|6e+05|631388.89|2014
+VAN|Abdallah|Aminu|M|46500|46500|2013
+DAL|Acosta|Kellyn|M|46500|70500|2013
+VAN|Adekugbe|Samuel|D|46500|51500|2013
+TOR|Agbossoumonde|Gale|D|46500|53166.67|2013
+NE|Agudelo|Juan|F|145000|175000|2013
+NY|Akpan|Andre|F|67595|67595|2013
+SJ|Alas|Jaime|M|90000|91250|2013
+PHI|Albright|Chris|D|75000|75000|2013
+VAN|Alderson|Bryce|M|65000|80000|2013
+CHI|Alex||M|110000|119950|2013
+NY|Alexander|Eric|M|70867.5|70867.5|2013
+POR|Alhassan|Kalif|M|80000|89250|2013
+SEA|Alonso|Osvaldo|M|210000|210000|2013
+NE|Alston|Kevin|D|145000|194000|2013
+CHV|Alvarez|Carlos|M|46500|81500|2013
+RSL|Alvarez|Yordany|M|46500|46500|2013
+CHI|Amarikwa|Quincy|F|46500|46500|2013
+CHI|Anangono|Juan Luis|F|120000|120000|2013
+PHI|Anding|Don|F|35125|35125|2013
+CHI|Anibaba|Jalil|D|91245|131245|2013
+CLB|Anor|Bernardo|M|46500|46500|2013
+CHV|Antunez|Daniel|M|65000|72500|2013
+TOR|Aparicio|Manuel|M|35125|35125|2013
+|Araujo Jr.|Paulo|F|60000|60000|2013
+HOU|Arena|Anthony|D|35125|35125|2013
+COL|Armstrong|David|M|46500|55964.29|2013
+MTL|Arnaud|Davy|M|275000|290000|2013
+CLB|Arrieta|Jairo|F|216000|225375|2013
+HOU|Ashe|Corey|M|101250|105750|2013
+CHI|Atouba|Yazid|F|46500|51500|2013
+SJ|Attakora|Nana|D|61665|61665|2013
+RSL|Attinella|Jeff|GK|46500|46500|2013
+CHV|Avila|Eric|M|1e+05|120000|2013
+SJ|Baca|Rafael|M|49500|49500|2013
+DAL|Baladez|Bradlee|F|35125|36125|2013
+RSL|Balchan|Rich|D|35125|35125|2013
+SJ|Ballouchy|Mehdi|M|152006|152006|2013
+NY|Barklage|Brandon|M|65000|71428.54|2013
+HOU|Barnes|Giles|M|175000|184187.5|2013
+NE|Barnes|Darrius|D|71467|72717|2013
+CHI|Barouch|Orr|F|46500|46500|2013
+NE|Barrett|Chad|F|105000|110709.17|2013
+CLB|Barson|Chad|D|46500|46500|2013
+SEA|Bates|Will|F|35125|35125|2013
+RSL|Beckerman|Kyle|M|3e+05|328750|2013
+CLB|Beckie|Drew|D|35125|35125|2013
+SJ|Beitashour|Steven|D|49612.5|49612.5|2013
+TOR|Bekker|Kyle|M|46500|72750|2013
+RSL|Beltran|Anthony|D|166800|166800|2013
+TOR|Bendik|Joe|GK|46500|46500|2013
+NE|Bengtson|Jerry|F|132000|138840|2013
+DAL|Benitez|Jair|D|90000|90000|2013
+MTL|Bernardello|Hernan|M|250008|250008|2013
+SJ|Bernardez|Victor|D|100008|100008|2013
+MTL|Bernier|Patrice|F-M|143000|162333.25|2013
+CHI|Berry|Austin|D|63425|78425|2013
+CLB|Berti|Glauber|D|215000|263333.33|2013
+KC|Besler|Matt|D|180000|180000|2013
+KC|Bessone|Federico|D|46500|46500|2013
+KC|Bieler|Claudio|F|2e+05|2e+05|2013
+SJ|Bingham|David|GK|78100|122475|2013
+TOR|Bloom|Mark|D|46500|46500|2013
+CHV|Bocanegra|Carlos|D|228000|261333.33|2013
+CHI|Bone|Corben|M|46500|49000|2013
+HOU|Boniek Garcia|Oscar|F|130000|161250|2013
+RSL|Borchers|Nat|D|200004|211972.75|2013
+CHV|Borja|Carlos|D|46500|46500|2013
+HOU|Boswell|Bobby|D|220000|220000|2013
+NY|Bover|Ruben|M|35125|35125|2013
+CHV|Bowen|Tristan|F|125000|156363.63|2013
+TOR|Braun|Justin|F|112200|114700|2013
+MTL|Brovsky|Jeb|M|80000|84000|2013
+COL|Brown|Deshorn|F|65000|113000|2013
+HOU|Bruin|Will|F|120000|165000|2013
+HOU|Brunner|Eric|D|120000|120625|2013
+COL|Buddle|Edson|F|275000|275000|2013
+KC|Bunbury|Teal|F|110000|208000|2013
+SEA|Burch|Marc|D|75000|75000|2013
+CHV|Burling|Bobby|D|85000|88333.33|2013
+SJ|Busch|Jon|GK|165000|176333.33|2013
+MTL|Bush|Evan|GK|46500|46500|2013
+NY|Bustamante|Michael|M-D|46500|46500|2013
+NY|Cahill|Tim|M|3500000|3625000|2013
+COL|Calderon|Diego|D|50000|50000|2013
+NE|Caldwell|Scott|M|46500|54000|2013
+TOR|Caldwell|Steven|D|79999.98|89999.98|2013
+CHV|Calvert|Caleb|F|48000|55500|2013
+MTL|Camara|Hassoun|D/M|115000|126625|2013
+VAN|Cannon|Joe|GK|180500|189916.67|2013
+NY|Carney|David|M|144000|167000|2013
+HOU|Carr|Calen|F|90338|94588|2013
+HOU|Carrasco|Servando|M|46500|46500|2013
+PHI|Carroll|Brian|M|176400|176400|2013
+COL|Cascio|Tony|M|64900|98650|2013
+PHI|Casey|Conor|F|175000|175000|2013
+SEA|Caskey|Alex|M|46500|46500|2013
+NY|Castano|Santiago|GK|35125|35125|2013
+DAL|Castillo|Fabian|F|60000|66250|2013
+COL|Castrillon|Jaime|M|46500|46500|2013
+SJ|Cato|Cordell|F|48000|48000|2013
+COL|Ceus|Steward|GK|60000|70333.33|2013
+HOU|Chabala|Michael|M|55008|57508|2013
+POR|Chara|Diego|M|200004|243754|2013
+SJ|Chavez|Marvin|M|175000|175000|2013
+HOU|Ching|Brian|F|50000|75000|2013
+NY|Christianson|Ian|M|46500|46500|2013
+CHV|Chueca|Carlo|M|35125|35125|2013
+HOU|Clark|Ricardo|M|274000|307750|2013
+LA|Clark|Colin|M|80000|80000|2013
+VAN|Clarke|Caleb|F|46500|46500|2013
+LA|Cochrane|Greg|D|35125|35125|2013
+KC|Collin|Aurelien|D|250000|256250|2013
+TOR|Convey|Bobby|M|2e+05|215000|2013
+DAL|Cooper|Kenny|F|325000|342500|2013
+SJ|Corrales|Ramiro|M|60000|60000|2013
+CHV|Correa|Jose Erick|F|60000|60000|2013
+LA|Courtois|Laurent|M|46500|46500|2013
+HOU|Creavalle|Warren|D|46500|46500|2013
+MTL|Crepeau|Maxime|GK|35125|35125|2013
+SJ|Cronin|Sam|M|175000|177500|2013
+PHI|Cruz|Danny|M|120000|126500|2013
+LA|Cudicini|Carlo|GK|150000|150000|2013
+HOU|Cummings|Omar|F|225000|239000|2013
+PHI|Daniel|Keon|M|80004|82891.5|2013
+POR|Danso|Mamadou|D|83000|83000|2013
+VAN|Davidson|Jun Marques|M|74250|78019.66|2013
+NE|Davies|Charlie|F|48000|59250|2013
+HOU|Davis|Brad|M|325000|372062.5|2013
+CHV|de la Fuente|Bryan|F|35125|35125|2013
+CHV|de Luna|Mario|D|120000|120000|2013
+LA|DeLaGarza|AJ|D|120000|142500|2013
+DC|DeLeon|Nick|M|70400|105400|2013
+CHV|Delgado|Marco|M|50000|52500|2013
+MTL|DelPiccolo|Paolo|M|35125|35125|2013
+VAN|DeMerit|Jay|D|325000|375000|2013
+SEA|Dempsey|Clint|F|4913004|5038566.5|2013
+HOU|Deric|Tyler|GK|80000|87666.67|2013
+DC|DeRosario|Dwayne|M|6e+05|645333.33|2013
+MTL|Di Vaio|Marco|F|1000008|1937508|2013
+DAL|Diaz|Mauro|M|312000|398000|2013
+TOR|Dike|Bright|F|57750|60687.5|2013
+HOU|Dixon|Alex|M|49612.5|54612.5|2013
+LA|Donovan|Landon|F|2500000|2500000|2013
+NE|Dorman|Andy|M|125000|125000|2013
+CHI|Dos Santos|Maicon|F|157000|164433.33|2013
+PHI|Dos Santos|Gilberto|M|60000|80000|2013
+DC|Doyle|Conor|F|46500|46500|2013
+HOU|Driver|Andrew|M|95000|95000|2013
+NE|Duckett|Bilal|D|35125|35125|2013
+CHI|Duka|Dilaver|M|140000|273000|2013
+KC|Duke|Christian|D|35125|35125|2013
+|Dunfield|Terry|M|120000|120000|2013
+LA|Dunivant|Todd|D|150000|156750|2013
+KC|Dwyer|Dom|F|65000|77500|2013
+DC|Dykstra|Andrew|GK|46500|46500|2013
+TOR|Earnshaw|Robert|F|138000|155150|2013
+TOR|Eckersley|Richard|D|210000|310000|2013
+PHI|Ekra|Yann|F|46500|46500|2013
+KC|Ellis|Kevin|D|46500|47250|2013
+TOR|Elmer|Jonas|D|124999.92|131488.2|2013
+NY|Espindola|Fabian|F|150000|150000|2013
+SEA|Estrada|David|F|48400|48400|2013
+POR|Evans|Steven|M|46500|46500|2013
+SEA|Evans|Brad|F|167296|181046|2013
+PHI|Fabinho|Fabinho|D|78000|82500|2013
+NE|Fagundez|Diego|F|99996|127196|2013
+CHV|Farfan|Gabriel|M|50820|50820|2013
+PHI|Farfan|Michael|M|98670|136170|2013
+NE|Farrell|Andrew|D|80000|161000|2013
+KC|Feilhaber|Benny|M|3e+05|312187.5|2013
+PHI|Fernandes|Leo|M|35125|35125|2013
+CHI|Fernandez|Alvaro|M|3e+05|366666.67|2013
+DAL|Fernandez|Raul|GK|150000|237500|2013
+RSL|Fernandez|Eduardo|GK|35125|35125|2013
+MTL|Ferrari|Matteo|D|240000|295475|2013
+DAL|Ferreira|David|M-F|625000|730000|2013
+RSL|Findley|Robbie|F|175000|205500|2013
+CLB|Finlay|Ethan|F|47300|62300|2013
+CLB|Finley|Ryan|F|46500|74000|2013
+CHV|Fondy|Matthew|F|46500|46500|2013
+SEA|Ford|Josh|GK|46500|46500|2013
+CHI|Francis|Shaun|D|46500|46500|2013
+LA|Franklin|Sean|D|225000|248333.33|2013
+TOR|Frei|Stefan|GK|145000|2e+05|2013
+CHV|Frias|Jaime|D|60000|60000|2013
+SJ|Fucito|Michael|MF|55000|57889.79|2013
+PHI|Gaddis|Raymon|D|46500|46500|2013
+DAL|Garcia|Danny|M|48000|64000|2013
+LA|Garcia|Rafael|M|46500|46500|2013
+RSL|Garcia|Olmes|F|120000|120000|2013
+KC|Gardner|Joshua|M|60000|60000|2013
+SJ|Gargan|Daniel|M|88000|88000|2013
+SJ|Garza|Sam|M|71500|98000|2013
+LA|Gaul|Bryan|F|46500|46500|2013
+CLB|Gaven|Eddie|M-F|190000|195000|2013
+SEA|Gavin|Blair|M|35125|35125|2013
+CLB|Gehrig|Eric|M|46500|46500|2013
+CLB|George|Kevan|M|46500|46500|2013
+RSL|Gil|Luis|M|118750|213833.33|2013
+POR|Gleeson|Jake|GK|60000|63263.75|2013
+DAL|Goncalves|Jackson|D|144000|165375|2013
+NE|Goncalves|Jose|D|75000|104375|2013
+DAL|Gonzalez|Jesse|GK|35125|35125|2013
+LA|Gonzalez|Omar|D|205000|282000|2013
+SEA|Gonzalez|Leonardo|D|135000|135000|2013
+SJ|Goodson|Clarence|D|315000|342000|2013
+SJ|Gordon|Alan|F|175000|196666.67|2013
+RSL|Grabavoy|Ned|M|155000|161666.67|2013
+COL|Griffiths|Brenton|D|35125|35125|2013
+RSL|Grossman|Cole|M|46500|46500|2013
+CLB|Gruenebaum|Andy|GK|92220|93886.67|2013
+SEA|Gspurning|Michael|GK|210000|285000|2013
+CHI|Gulley|Kellen|F|65000|79000|2013
+NE|Guy|Ryan|F|48510|48510|2013
+SEA|Hahnemann|Marcus|GK|60000|60000|2013
+HOU|Hall|Tally|GK|185000|198500|2013
+TOR|Hall|Jeremy|D|80000|90000|2013
+DC|Hamid|Bill|GK|75000|89750|2013
+SJ|Harden|Ty|D|65000|68415.21|2013
+POR|Harrington|Michael|M-D|140000|166833.33|2013
+COL|Harris|Atiba|M-F|165000|173275|2013
+NY|Hartman|Kevin|GK|46500|54000|2013
+VAN|Harvey|Jordan|D|112500|112500|2013
+DAL|Hassli|Eric|F|237276|262276|2013
+DAL|Hedges|Matt|D|49500|64500|2013
+VAN|Heinemann|Tommy|F|51975|51975|2013
+NY|Henry|Thierry|F|3750000|4350000|2013
+TOR|Henry|Doneil|D|50000|62083.33|2013
+DAL|Hernandez|Moises|D|46500|48125|2013
+PHI|Hernandez|Cristhian|M|62500|64375|2013
+SJ|Hernandez|Jason|D|205000|208333.33|2013
+POOL|Herrick|Doug|GK|35125|35125|2013
+VAN|Hertzog|Corey|F|50004|60670.67|2013
+CLB|Higuain|Federico|M-F|440000|604000|2013
+COL|Hill|Kamani|M|46500|46500|2013
+LA|Hoffman|Chandler|F|71500|97500|2013
+NY|Holgersson|Markus|D|199500|199500|2013
+PHI|Hoppenot|Antoine|F|48400|48400|2013
+POR|Horst|David|D|70000|70000|2013
+NE|Horth|Matthew|F|35125|35125|2013
+CLB|Horton|Aaron|F|65000|80500|2013
+SEA|Hurtado|Jhon Kennedy|D|190000|190000|2013
+VAN|Hurtado|Erik|F/M|46500|81500|2013
+CLB|Hyland|Kyle|D|35125|35125|2013
+SEA|Ianni|Patrick|D|150000|150000|2013
+DC|Iapichino|Dennis|D|110000|110000|2013
+DAL|Ihemelu|Ugo|D|2e+05|2e+05|2013
+NE|Imbongo|Dimitry|F|90000|99875|2013
+CHV|Iraheta|Marvin|M|46500|46500|2013
+COL|Irwin|Clint|GK|35125|35125|2013
+DAL|Jacobson|Andrew|M|122500|135000|2013
+SJ|Jahn|Adam|F|35125|35125|2013
+DC|Jakovic|Dejan|D|280000|303341.33|2013
+CHV|Jazic|Ante|D|132187.5|132187.5|2013
+POR|Jean-Baptiste|Andrew|D|65000|80000|2013
+DC|Jeffrey|Jared|M|54000|60200|2013
+POR|Jewsbury|Jack|D|185000|194750|2013
+LA|Jimenez|Hector|M|46500|46500|2013
+DAL|John|George|D|275000|301666.67|2013
+CHI|Johnson|Sean|GK|120000|153000|2013
+HOU|Johnson|Jason|F|70000|111000|2013
+POR|Johnson|Ryan|M|144704|144704|2013
+POR|Johnson|Will|F|243750|243750|2013
+SEA|Johnson|Eddie|F|150000|156333.33|2013
+PHI|Jordan|Greg|M|46500|46500|2013
+KC|Joseph|Peterson|M|46500|46500|2013
+SEA|Joseph|Shalrie|M|60000|105500|2013
+CHI|Jumper|Hunter|D|35125|35125|2013
+LA|Juninho||M|290000|290000|2013
+POR|Kah|Pa Modou|D|63999.96|68999.96|2013
+CHI|Kann|Alec|GK|35125|35125|2013
+PHI|Kassel|Matt|M|46500|46500|2013
+LA|Keane|Robbie|F|4e+06|4333333.33|2013
+DAL|Keel|Stephen|D|46500|46500|2013
+DC|Kemp|Taylor|D|35125|35125|2013
+KC|Kempin|Jonathan|GK|60000|67083.33|2013
+CHV|Kennedy|Dan|GK|192500|194166.67|2013
+NY|Kimura|Kosuke|D|1e+05|1e+05|2013
+COL|Kindle|Kory|D|35125|35125|2013
+CHI|King|Brendan|M|35125|35125|2013
+CHI|Kinney|Steven|D|46500|46500|2013
+DC|Kitchen|Perry|D|105000|190450|2013
+VAN|Klazura|Greg|D|46500|46500|2013
+PHI|Kleberson|Jose|M|495000|495000|2013
+COL|Klute|Chris|D|46500|46500|2013
+VAN|Knighton|Brad|GK|66000|68600|2013
+VAN|Kobayashi|Daigo|M|225000|238833.33|2013
+POR|Kocic|Milos|GK|49612|49612|2013
+TOR|Koevermans|Danny|F|1250000|1663323.33|2013
+VAN|Koffie|Gershon|M|165000|176000|2013
+TOR|Konopka|Chris|GK|46500|46500|2013
+DC|Korb|Chris|D|49613|49613|2013
+KC|Kronberg|Eric|GK|76835|76835|2013
+TOR|Laba|Matias|M|2e+05|2e+05|2013
+COL|LaBrocca|Nick|M|120000|138333.33|2013
+NY|Lade|Connor|D|55000|59213.21|2013
+PHI|Lahoud|Michael|M|90000|93333.33|2013
+TOR|Lambe|Reggie|M|67500|70000|2013
+CLB|Lampson|Matt|GK|46500|46500|2013
+CHI|Larentowicz|Jeff|D|225000|231000|2013
+NE|Latigue|Gabe|M|35125|35125|2013
+PHI|Le Toux|Sebastian|M|2e+05|212812.5|2013
+MTL|Lefevre|Wandrille|M|35125|35125|2013
+SJ|Lenhart|Steven|F|210000|217500|2013
+VAN|Leveron|Johnny|D|60000|71187.5|2013
+CHI|Lindpere|Joel|M|180000|205000|2013
+HOU|Lopez|Alexander|M|192000|212000|2013
+KC|Lopez|Mikey|M|75000|147000|2013
+RSL|Lopez|Benjamin|F|35125|37730.43|2013
+DAL|Loyd|Zach|M|92372.5|136997.5|2013
+DAL|Luccin|Peter|M|90000|131000|2013
+SEA|Lund|Philip|M|35125|35125|2013
+NY|Luyindula|Peguy|F|79999.92|79999.92|2013
+PHI|MacMath|Zac|GK|110000|155000|2013
+CHI|Magee|Mike|F|185000|191666.67|2013
+MTL|Mallace|Calum|M|47300|62300|2013
+VAN|Manneh|Kekuta|F|55000|84500|2013
+RSL|Mansally|Kenny|F|50000|57000|2013
+MTL|Mapp|Justin|M|125000|137500|2013
+HOU|Marscheider|Erich|GK|46500|46500|2013
+CLB|Marshall|Chad|D|330000|361250|2013
+DC|Martin|Collin|M|35125|49291.67|2013
+RSL|Martinez|Enzo|M|71500|97500|2013
+SJ|Martinez|Walter|M-F|90000|90000|2013
+MTL|Martins|Felipe|M|150000|182500|2013
+SEA|Martins|Obafemi|F|1600000|1725000|2013
+LA|Mastroeni|Pablo|M-D|150000|2e+05|2013
+VAN|Mattocks|Darren|F|120000|212000|2013
+RSL|Maund|Aaron|D|35125|43458.33|2013
+LA|McBean|Jack|F|80000|101000|2013
+NE|McCarthy|Stephen|M|87120|118370|2013
+NY|McCarty|Dax|M|180000|222500|2013
+RSL|McDonald|Brandon|M|235000|273250|2013
+SJ|McGlynn|Peter|D|35125|35125|2013
+PHI|McInerney|Jack|F|125500|189666.67|2013
+POR|McKenzie|Rauwshan|D|46500|46500|2013
+CHV|McLain|Patrick|GK|46500|46500|2013
+PHI|McLaughlin|James|M|60000|69000|2013
+NY|Meara|Ryan|GK|65000|66250|2013
+KC|Mechack|Jerome|D|35125|35125|2013
+KC|Medranda|Jimmy|M|35125|35125|2013
+CHV|Mejia|Edgar|M|140000|140000|2013
+CHV|Melia|Tim|GK|60000|65000|2013
+COL|Mera|German|D|46500|46500|2013
+CLB|Meram|Justin|F|56320|80695|2013
+MTL|Messoudi|Zakaria|M|35125|35125|2013
+LA|Meyer|Tommy|D|47300|61050|2013
+NY|Miazga|Matt|D|60000|66250|2013
+KC|Miller|Kyle|M|35125|35125|2013
+NY|Miller|Roy|M|123745|123745|2013
+POR|Miller|Ryan|D|60000|65000|2013
+VAN|Miller|Kenny|F|1114992|1124992|2013
+CHV|Minda|Oswaldo|M|125000|143750|2013
+VAN|Mitchell|Carlyle|D|46500|46500|2013
+SEA|Moffat|Adam|M|150000|161608.33|2013
+SEA|Montero|Fredy|F|7e+05|856000|2013
+COL|Moor|Drew|D|235000|247000|2013
+CHV|Morales|Julio|F|35125|35125|2013
+RSL|Morales|Javier|M|3e+05|3e+05|2013
+NY|Moreno|Amando|F|35125|35125|2013
+TOR|Morgan|Ashtone|D|60000|72000|2013
+SJ|Morrow|Justin|D|130000|139562.5|2013
+COL|Mullan|Brian|M|162000|170335|2013
+SJ|Muller|Tommy|D|35125|35125|2013
+|Muniz|Nico|M|46500|48500|2013
+COL|Mwanga|Danny|F|130000|171250|2013
+KC|Myers|Chance|D-M|105000|120666.67|2013
+KC|Nagamura|Paulo|M|265000|270500|2013
+POR|Nagbe|Darlington|M/F|130000|266000|2013
+POR|Nanchoff|Michael|M|46500|46500|2013
+SEA|Neagle|Lamar|M|48400|48400|2013
+DC|Neal|Lewis|M|90000|96440.63|2013
+DAL|Neres da Cruz|Erick|M|84000|85875|2013
+MTL|Nesta|Alessandro|D|260000|305000|2013
+SJ|Newton|Evan|GK|46500|46500|2013
+NE|Nguyen|Lee|M/F|73600|80100|2013
+KC|Nielsen|Jimmy|GK|2e+05|220000|2013
+PHI|Nikolov|Oka|GK|46500|46500|2013
+DAL|Nunez|Ramon|M|65000|75000|2013
+CHI|Nyarko|Patrick|F|230000|249500|2013
+DC|Nyassi|Sainey|M|88200|94950|2013
+MTL|Nyassi|Sanna|M|140000|147625|2013
+NY|Obekop|Marius|M|35125|35125|2013
+VAN|O'Brien|Andy|D|200012.04|230012.04|2013
+CLB|Oduro|Dominic|F|120015|122015|2013
+PHI|Okugo|Amobi|M|101250|184250|2013
+NY|Olave|Jamison|D|275000|325000|2013
+KC|Olum|Lawrence|M/D|46500|46500|2013
+COL|O'Neill|Shane|M|49350|60850|2013
+KC|Opara|Ike|D|90000|96250|2013
+LA|Opare|Kofi|D|35125|35125|2013
+CLB|O'Rourke|Danny|D|170000|175000|2013
+TOR|Osorio|Jonathan|M|46500|46500|2013
+MTL|Ouimette|Karl|D|46500|46500|2013
+VAN|Ousted|David|GK|150000|166156.25|2013
+HOU|Ownby|Brian|M|46500|46500|2013
+DC|Pajoy|Lionard|F|190000|205000|2013
+CHI|Paladini|Daniel|M|86625|91103.25|2013
+RSL|Palmer|Lovel|M|67000|71500|2013
+KC|Palmer-Brown|Erik|D|35125|35625|2013
+MTL|Paponi|Daniele|F|72000|87000|2013
+PHI|Parke|Jeff|D|205000|216500|2013
+CHI|Pause|Logan|M|180000|197833.33|2013
+NY|Pearce|Heath|D|331236|340736|2013
+LA|Penedo|Jaime|GK|78000|81562.5|2013
+DAL|Pereira|Michel|M/D|60000|81500|2013
+DAL|Perez|Blas|F|3e+05|324250|2013
+LA|Perk|Brian|GK|55000|58125|2013
+MTL|Perkins|Troy|GK|225000|246833.33|2013
+KC|Peterson|Jacob|F|1e+05|104833.33|2013
+PHI|Pfeffer|Zach|M|65000|75000|2013
+COL|Pickens|Matt|GK|190000|212933.33|2013
+CHI|Pineda|Victor|M|46500|53242.42|2013
+POR|Piquionne|Frederic|F|142000|150000|2013
+MTL|Pisanu|Andrea|F|1e+05|148000|2013
+RSL|Plata|Joao|F|60000|60000|2013
+NE|Polak|Tyler|D|65000|78000|2013
+DC|Pontius|Chris|M-F|330000|361000|2013
+DC|Porter|Kyle|M|46500|54992.45|2013
+POR|Powell|Alvas|D|35400|35400|2013
+COL|Powers|Dillon|M|46500|79000|2013
+CHI|Puppo|Federico|F|125000|125000|2013
+CHV|Purdy|Steven|D|80004|80004|2013
+NE|Reis|Matt|GK|165000|167666.67|2013
+SEA|Remick|Dylan|D|35125|35125|2013
+VAN|Reo-Coker|Nigel|D-M|2e+05|237362.5|2013
+TOR|Rey|Alvaro|F|180000|204450|2013
+LA|Ribeiro Da Silva|Leonardo|D|95000|95000|2013
+POR|Richards|Brent|F|65625|73992.29|2013
+TOR|Richter|Ryan|F|35125|35125|2013
+POR|Ricketts|Donovan|GK|275000|3e+05|2013
+DC|Riley|James|D|140000|145750|2013
+RSL|Rimando|Nick|GK|2e+05|210833.33|2013
+POR|Rincon|Sebastian|F|46500|46500|2013
+POR|Ring|Brad|M|46500|46500|2013
+CHI|Rios|Egidio|M|768000|768000|2013
+MTL|Rivas|Nelson|D|75000|75000|2013
+CHV|Rivera|Jose Manuel|F|116000|116000|2013
+COL|Rivero|Martin|M|75000|75000|2013
+TOR|Roberts|Quillan|GK|46500|46500|2013
+NY|Robles|Luis|GK|75000|77500|2013
+MTL|Rodriguez|Adrian Lopez|D|180000|180000|2013
+MTL|Rodriguez|Maximiliano|M|35125|35125|2013
+LA|Rogers|Robbie|F|90000|90000|2013
+CHI|Rolfe|Chris|F|225000|248333.33|2013
+MTL|Romero|Andres|F|48000|48000|2013
+SEA|Rosales|Mauro|M|2e+05|225000|2013
+SEA|Rose|Andy|M|46500|46500|2013
+KC|Rosell|Oriol|M|110000|118750|2013
+LA|Rowe|Brian|GK|46500|46500|2013
+NE|Rowe|Kelyn|M|90000|171000|2013
+LA|Rugg|Charlie|F|35125|35125|2013
+DC|Ruiz|Carlos|F|75000|75000|2013
+KC|Ruiz|Brendan|D|35125|35125|2013
+VAN|Rusin|Brad|D|120000|120000|2013
+TOR|Russell|Darel|M|99999.96|109874.96|2013
+KC|Saad|Soony|F|46500|46500|2013
+RSL|Saborio|Alvaro|F|360000|453333.33|2013
+HOU|Salazar|Bryan|F|46500|47500|2013
+RSL|Salcedo|Carlos|D|35125|35125|2013
+VAN|Salgado|Omar|F|95000|136868.67|2013
+SJ|Salinas|Shea|M|93975|100219.15|2013
+NY|Sam|Lloyd|F|130000|130000|2013
+CLB|Sanchez|Matias|M|190000|230000|2013
+COL|Sanchez|Vincente|F|144000|186187.5|2013
+DAL|Sanchez|Richard|GK|46500|63500|2013
+RSL|Sandoval|Devon|F|35125|35125|2013
+VAN|Sanvezzo|Camilo|F|210000|247500|2013
+KC|Sapong|CJ|F|75000|92000|2013
+DC|Saragosa|Marcelo|M|110000|110000|2013
+HOU|Sarkodie|Kofi|D|1e+05|145500|2013
+LA|Sarvas|Marcelo|M|157500|184375|2013
+RSL|Saunders|Josh|GK|90000|95250|2013
+CLB|Schoenfeld|Aaron|F|46500|46500|2013
+RSL|Schuler|Chris|D|1e+05|117000|2013
+SEA|Scott|Zach|D|50000|50000|2013
+DC|Seaton|Michael|F|35125|38125|2013
+CHI|Segares|Gonzalo|D|155000|168333.33|2013
+DAL|Seitz|Chris|GK|90000|90000|2013
+NY|Sekagya|Ibrahim|D|129999.96|158999.96|2013
+NE|Sene|Saer|F|2e+05|211537.54|2013
+COL|Serna|Dillon|M|46500|59500|2013
+DC|Shanosky|Conor|D|75000|89218.83|2013
+NE|Shuttleworth|Robert|GK|80004|84504|2013
+DC|Silva|Luis|M|70400|105400|2013
+POR|Silvestre|Mikael|D|180000|186666.67|2013
+NE|Simms|Clyde|M|87500|90833.33|2013
+KC|Sinovic|Seth|M-D|90000|96750|2013
+CLB|Sloan|Shawn|M|35125|35125|2013
+COL|Smith|Jamie|M|46500|46500|2013
+MTL|Smith|Blake|M|46500|80250|2013
+NE|Smith|Donnie|M|35125|35125|2013
+NE|Soares|AJ|D|103345|143345|2013
+NE|Soffner|Luis|GK|35125|35125|2013
+LA|Sorto|Oscar|D|46500|48375|2013
+CHV|Soto|Josue|M|35125|35125|2013
+CHI|Soumare|Bakary|D|310000|350000|2013
+CLB|Speas|Ben|F|62000|62000|2013
+NY|Steele|Jonny|M|99996|107746|2013
+LA|Stephens|Michael|M|84755|106005|2013
+RSL|Stephenson|Khari|M|77500|81958.33|2013
+RSL|Stertzer|John|M|46500|75250|2013
+SJ|Stewart|Jordan|M-D|108000|108000|2013
+COL|Sturgis|Nathan|D-M|93712.5|97962.5|2013
+POOL|Stuver|Brad|GK|35125|35125|2013
+DC|Syamsir|Alam|M|46500|46500|2013
+HOU|Taylor|Jermaine|D|160000|169500|2013
+CLB|Tchani|Tony|M|130000|155000|2013
+VAN|Teibert|Russell|M|60000|65600|2013
+COL|Thomas|Hendry|M|180000|2e+05|2013
+TOR|Thomas|Michael|M|57750|60713.21|2013
+VAN|Thomas|Simon|GK|35125|35125|2013
+CHI|Thompson|Wells|M|105000|113125|2013
+DC|Thorrington|John|M|150000|150000|2013
+NE|Tierney|Chris|D-M|82265.63|83932.29|2013
+MTL|Tissot|Maxim|D|35125|35125|2013
+NE|Toja|Juan|M-F|275000|295000|2013
+DAL|Top|Jonathan|F|46500|46500|2013
+CHI|Tornaghi|Paolo|GK|46500|46500|2013
+CHV|Torres|Erick|F|129996|129996|2013
+COL|Torres|Gabriel|F|264000|276500|2013
+PHI|Torres|Roger|M|121968|125093|2013
+DC|Townsend|Casey|F|56650|91650|2013
+SJ|Tracy|Marcus|F|46500|46500|2013
+SEA|Traore|Djimi|D|120000|120000|2013
+CLB|Trapp|Wil|M|1e+05|127000|2013
+POR|Tucker-Gangnes|Dylan|D|35125|35125|2013
+MTL|Ubiparipovic|Sinisa|M|57750|57750|2013
+DAL|Ulloa|Victor|M|46500|49000|2013
+POR|Urruti|Maximiliano|F|200000.04|200000.04|2013
+PHI|Valdes|Carlos|D|321000|321000|2013
+POR|Valencia|Jose Adolfo|F|50000|65000|2013
+MTL|Valentin|Zarek|D|1e+05|152000|2013
+POR|Valeri|Diego|M|4e+05|4e+05|2013
+RSL|Velasquez|Sebastian|M|46500|46500|2013
+CLB|Viana|Agustin|D-M|105000|131666.67|2013
+CHI|Videira|Michael|M|46500|47125|2013
+CHV|Villafana|Jorge|F|69300|70966.67|2013
+LA|Villarreal|Joseph|M|46500|48375|2013
+CLB|Wahl|Tyson|D|76000|80666.67|2013
+LA|Walker|Kenney|M|46500|46500|2013
+COL|Wallace|Anthony|D-M|66563.7|66563.7|2013
+POR|Wallace|Rodney|M-D|125000|150000|2013
+MTL|Warner|Collen|M-F|110000|137500|2013
+DAL|Warshaw|Bobby|D|50820|62070|2013
+CLB|Warzycha|Konrad|M|46500|46500|2013
+DAL|Watson|JeVaughn|M|1e+05|116875|2013
+VAN|Watson|Matt|M|68250|79251.98|2013
+RSL|Watson-Siriboe|Kwame|D|53240|53240|2013
+HOU|Weaver|Cam|F|1e+05|108406.67|2013
+TOR|Welshman|Emery|F|46500|46500|2013
+MTL|Wenger|Andrew|D/F|120000|222000|2013
+PHI|Wheeler|Aaron|F|46500|46500|2013
+DC|White|Ethan|D|75000|91000|2013
+TOR|Wiedeman|Andrew|F|55000|65000|2013
+CLB|Williams|Josh|D|52313|52313|2013
+PHI|Williams|Sheanon|F|105000|110500|2013
+DC|Willis|Joe|GK|46500|46500|2013
+RSL|Wingert|Chris|D|160598|167598|2013
+CLB|Withrow|Daniel|GK|35125|35125|2013
+SJ|Wondolowski|Chris|M|550000|6e+05|2013
+DAL|Woodberry|London|D|46500|46500|2013
+NE|Woodbine|O'Brian|D|46500|49882.13|2013
+DC|Woolard|Daniel|D|1e+05|1e+05|2013
+NY|Wright-Phillips|Bradley|F|50000.04|92500.04|2013
+COL|Wynne|Marvell|D|2e+05|285000|2013
+SEA|Yedlin|DeAndre|D|50000|53500|2013
+VAN|Young-Pyo|Lee|D|196900|231100|2013
+SEA|Zakuani|Steve|F|135000|233000|2013
+LA|Zardes|Gyasi|F|1e+05|173000|2013
+SEA|Zavaleta|Eriq|F|65000|95600|2013
+POR|Zemanski|Ben|M|73500|76000|2013
+DAL|Zimmerman|Walker|D|75000|155100|2013
+POR|Zizzo|Sal|F|76781|85987.77|2013
+DAL|Zobeck|Kyle|GK|35125|35125|2013
+KC|Zusi|Graham|F-M|350000|383250|2013
